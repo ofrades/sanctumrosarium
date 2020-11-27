@@ -23,6 +23,7 @@ const TesourosFieisApp = ({ Component, pageProps, currentTheme }) => {
 
   /**
    * Handles the switch of the
+   * @param isDark: boolean
    */
   const handeToggleTheme = (isDark: boolean) => {
     const selectedTheme = getTheme(isDark ? 'dark' : 'light')
@@ -40,8 +41,9 @@ const TesourosFieisApp = ({ Component, pageProps, currentTheme }) => {
 }
 
 /**
- *
- * @param
+ * Get cookies in the server
+ * @param Component
+ * @param ctx
  */
 TesourosFieisApp.getInitialProps = async ({ Component, ctx }) => {
   const isProduction = process.env.NODE_ENV === 'production'
