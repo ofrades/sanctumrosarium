@@ -1,22 +1,37 @@
-import React from 'react'
-import { AppProps } from 'next/app'
-import { ThemeProvider } from 'styled-components'
+import * as React from 'react'
+import { DefaultTheme, ThemeProvider } from 'styled-components'
+import nookies, { setCookie } from 'nookies'
 import GlobalStyle from '../styles/global'
 import Header from '../components/Header'
 import Footer from '../components/Footer/index'
 import light from '../styles/themes/light'
 import dark from '../styles/themes/dark'
-import usePersistedState from '../utils/usePersistedState'
 
-const App: React.FC<AppProps> = ({ Component, pageProps }) => {
-  const [theme, setTheme] = usePersistedState('theme', light)
+const getTheme = (selected: 'light' | 'dark') =>
+  selected === 'light' ? light : dark
 
-  const toggleTheme = () => {
-    setTheme(theme.title === 'light' ? dark : light)
+const THEME_COOKIE_KEY = 'theme'
+
+/**
+ * <TesourosFieisApp />
+ * @param Component
+ * @param pageProps
+ * @param currentTheme
+ */
+const TesourosFieisApp = ({ Component, pageProps, currentTheme }) => {
+  const [theme, setTheme] = React.useState(getTheme(currentTheme))
+
+  /**
+   * Handles the switch of the
+   */
+  const handeToggleTheme = (isDark: boolean) => {
+    const selectedTheme = getTheme(isDark ? 'dark' : 'light')
+    setTheme(selectedTheme)
+    setCookie(null, THEME_COOKIE_KEY, selectedTheme.title, {})
   }
   return (
-    <ThemeProvider theme={theme}>
-      <Header toggleTheme={toggleTheme} />
+    <ThemeProvider theme={theme as DefaultTheme}>
+      <Header toggleTheme={handeToggleTheme} />
       <Component {...pageProps} />
       <GlobalStyle />
       <Footer />
@@ -24,4 +39,22 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   )
 }
 
-export default App
+/**
+ *
+ * @param
+ */
+TesourosFieisApp.getInitialProps = async ({ Component, ctx }) => {
+  const isProduction = process.env.NODE_ENV === 'production'
+  const cookies = nookies.get(ctx) || {}
+
+  const pageProps = Component.getInitialProps
+    ? await Component.getInitialProps(ctx)
+    : {}
+  return {
+    pageProps,
+    currentTheme: cookies[THEME_COOKIE_KEY] || 'light',
+    isProduction,
+  }
+}
+
+export default TesourosFieisApp

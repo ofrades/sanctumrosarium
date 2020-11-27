@@ -14,10 +14,7 @@
     "test-all": "yarn lint && yarn type-check && yarn test"
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "yarn run type-check"
-    }
+    "hooks": {}
   },
   "lint-staged": {
     "*.@(ts|tsx)": [
@@ -29,6 +26,7 @@
     "cookie": "^0.4.1",
     "js-cookie": "^2.2.1",
     "next": "latest",
+    "nookies": "^2.5.0",
     "polished": "^4.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
