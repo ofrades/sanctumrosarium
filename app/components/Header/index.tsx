@@ -1,5 +1,6 @@
 import React, { useContext } from 'react'
 import { useRouter } from 'next/router'
+import Image from 'next/image'
 import Link from 'next/link'
 import Switch from 'react-switch'
 import { Container } from './styles'
@@ -16,7 +17,7 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
   return (
     <Container>
       <Link href="/">
-        <a className={router.pathname == '/' ? 'active' : ''}>Home</a>
+        <Image src="/faviconWhite.svg" width="32" height="32" />
       </Link>
       <Link href="/missa">
         <a className={router.pathname == '/missa' ? 'active' : ''}>Missa</a>
