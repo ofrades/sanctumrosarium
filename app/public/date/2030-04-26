@@ -1,0 +1,132 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em Santa Maria dos M\u00e1rtires", 
+        "Paramentos brancos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2030-04-26", 
+      "description": "", 
+      "id": "tempora:Pasc0-5:1:w", 
+      "rank": 1, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Sexta-feira Pascal"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 77:53*\nO Senhor conduziu-os cheios de esperan\u00e7a, aleluia: enquanto que aos seus inimigos submergiu-os no mar, aleluia, aleluia, aleluia.\n*Sl 77:1*\nAtende \u00e0 minha lei, \u00f3 meu povo: escuta as palavras da minha boca.\nGl\u00f3ria ao Pai.\nO Senhor conduziu-os cheios de esperan\u00e7a, aleluia: enquanto que aos seus inimigos submergiu-os no mar, aleluia, aleluia, aleluia.", 
+            "*Ps 77:53*\nEd\u00faxit eos D\u00f3minus in spe, allel\u00faja: et inim\u00edcos e\u00f3rum op\u00e9ruit mare, allel\u00faja, allel\u00faja, allel\u00faja.\n*Ps 77:1*\nAttendite, p\u00f3pule meus, legem meam: inclin\u00e1te aurem vestram in verba oris mei.\nGl\u00f3ria Patri\u2026\nEd\u00faxit eos D\u00f3minus in spe, allel\u00faja: et inim\u00edcos e\u00f3rum op\u00e9ruit mare, allel\u00faja, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Deus omnipotente e eterno, que por meio do sacramento pascal estabelecestes uma alian\u00e7a de reconcilia\u00e7\u00e3o com a humanidade, concedei \u00e0s nossas almas a gra\u00e7a de imitarem em suas ac\u00e7\u00f5es o que confessam durante esta festa.\nPor nosso Senhor...", 
+            "Omn\u00edpotens sempit\u00e9rne Deus, qui pasch\u00e1le sacram\u00e9ntum in reconciliati\u00f3nis hum\u00e1n\u00e6 f\u0153\u0301dere contul\u00edsti: da m\u00e9ntibus nostris; ut, quod professi\u00f3ne celebr\u00e1mus, imit\u00e9mur eff\u00e9ctu.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Pedro.\n*1 Pe 3:18-22*\nCar\u00edssimos: Cristo morreu uma s\u00f3 vez pelos nossos pecados: Ele, o justo, pelos injustos, a fim de nos oferecer a Deus, depois de haver sido morto na carne, mas voltou \u00e0 vida pelo Esp\u00edrito, Foi tamb\u00e9m com este esp\u00edrito que pregou aos esp\u00edritos, que estavam na pris\u00e3o, e que outrora haviam sido incr\u00e9dulos, quando nos dias de No\u00e9 esperavam a paci\u00eancia de Deus, enquanto se constru\u00eda a arca, na qual poucas pessoas, isto \u00e9, somente oito, foram salvas das \u00e1guas. Isto era a figura do Baptismo, pelo qual deveis ser salvos. Este Baptismo n\u00e3o consiste na purifica\u00e7\u00e3o das manchas da carne, mas na promessa que fazeis quando vos perguntam se quereis guardar em Deus a vossa consci\u00eancia pura a qual salva\u00e7\u00e3o vos \u00e9 dada pela ressurrei\u00e7\u00e3o de nosso Senhor Jesus Cristo, que est\u00e1 \u00e0 dextra de Deus.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Petri Ap\u00f3stoli\n*1 Petri 3:18-22*\nCar\u00edssimi: Christus semel pro pecc\u00e1tis nostris m\u00f3rtuus est, justus pro inj\u00fastis, ut nos off\u00e9rret Deo, mortific\u00e1tus quidem carne, vivific\u00e1tus autem sp\u00edritu. In quo et his, qui in c\u00e1rcere erant, spir\u00edtibus v\u00e9niens pr\u00e6dic\u00e1vit: qui incr\u00e9duli f\u00faerant aliqu\u00e1ndo, quando exspect\u00e1bant Dei pati\u00e9ntiam in di\u00e9bus No\u00eb, cum fabricar\u00e9tur arca, in qua pauci, id est octo \u00e1nim\u00e6 salv\u00e6 fact\u00e6 sunt per aquam. Quod et vos nunc s\u00edmilis form\u00e6 salvos facit bapt\u00edsma: non carnis depos\u00edtio s\u00f3rdium, sed consci\u00e9nti\u00e6 bon\u00e6 interrog\u00e1tio in Deum per resurrecti\u00f3nem Jesu Christi, D\u00f3mini nostri, qui est in dextera Dei."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia, aleluia\n*Sl 117:24; 117:26-27*\nEis o dia que o Senhor fez: exultemos e alegremo-nos nele. Bendito seja Aquele que vem em nome do Senhor: o Senhor e Deus fez resplandecer sobre n\u00f3s a sua luz. Aleluia, aleluia.\n*Sl 95:10*\nDizei aos povos: o Senhor reinou pelo madeiro.", 
+            "*Ps 117:24; 117:26-27*\nH\u00e6c dies, quam fecit D\u00f3minus: exsult\u00e9mus et l\u00e6t\u00e9mur in ea.\nV. Bened\u00edctus, qui venit in n\u00f3mine D\u00f3mini: Deus D\u00f3minus, et ill\u00faxit nobis.\nAllel\u00faja, allel\u00faja.\n*Ps 95:10*\nD\u00edcite in g\u00e9ntibus: quia D\u00f3minus regn\u00e1vit a ligno."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Venham os crist\u00e3os oferecer louvores \u00e0 V\u00edtima Pascal!\nO Cordeiro remiu as ovelhas; Cristo inocente reconciliou os pecadores com o Pai.\nA morte e a vida travaram combate estupendo: o autor da vida morreu, mas Ele vive e reina.\nDiz-nos, \u00f3 Maria, o que viste no caminho?\nVi o sepulcro de Cristo, que est\u00e1 vivo; vi a gl\u00f3ria de Cristo ressuscitado.\nVi presentes os Anjos, o sud\u00e1rio e as vestes.\nRessuscitou Cristo, minha esperan\u00e7a, que preceder\u00e1 na Galileia os disc\u00edpulos.\nSabemos que Cristo ressuscitou dos mortos, verdadeiramente. \u00d3 Rei vencedor, tende piedade de n\u00f3s. Amen. Aleluia.", 
+            "V\u00edctim\u00e6 pasch\u00e1li laudes \u00edmmolent Christi\u00e1ni.\nAgnus r\u00e9demit oves: Christus \u00ednnocens Patri reconcili\u00e1vit peccat\u00f3res.\nMors et vita du\u00e9llo conflix\u00e9re mir\u00e1ndo: dux vit\u00e6 m\u00f3rtuus regnat vivus.\nDic nobis, Mar\u00eda, quid vid\u00edsti in via?\nSep\u00falcrum Christi viv\u00e9ntis et gl\u00f3riam vidi resurg\u00e9ntis.\nAng\u00e9licos testes, sud\u00e1rium et vestes.\nSurr\u00e9xit Christus, spes mea: pr\u00e6c\u00e9det vos in Galil\u01fdam.\nScimus Christum surrex\u00edsse a m\u00f3rtuis vere: tu nobis, victor Rex, miser\u00e9re. Amen. Allel\u00faja.\n*Sequentia dicitur usque ad Sabbatum in Albis inclusive.*"
+          ]
+        ], 
+        "id": "Sequentia", 
+        "label": "Sequ\u00eancia"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Mateus\n*Mt 28:16-20*\nNaquele tempo, partiram os Onze disc\u00edpulos para a Galileia, dirigindo-se ao monte onde o Senhor os havia mandado ir. E, vendo eles Jesus, logo O adoraram; ficando, contudo, alguns deles na d\u00favida. Entretanto, Jesus foi-se aproximando e falou-lhes, dizendo: \u00abTodo o poder me foi dado no c\u00e9u e na terra. Ide, pois, ensinai todos os povos e baptizai-os em nome do Pai, e do Filho, e do Esp\u00edrito Santo, ensinando-os a observar tudo o que vos ordenei. Eu permanecerei convosco todos os dias at\u00e9 \u00e0 consuma\u00e7\u00e3o dos s\u00e9culos\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Matth\u01fdum\n*Matt 28:16-20*\nIn illo t\u00e9mpore: Undecim disc\u00edpuli abi\u00e9runt in Galil\u01fdam, in montem, ubi constit\u00faerat illis Jesus. Et vid\u00e9ntes eum adorav\u00e9runt: quidam autem dubitav\u00e9runt. Et acc\u00e9dens Jesus loc\u00fatus est eis, dicens: Data est mihi omnis pot\u00e9stas in c\u0153lo et in terra. E\u00fantes ergo, doc\u00e9te omnes gentes, baptiz\u00e1ntes eos in n\u00f3mine Patris, et F\u00edlii, et Sp\u00edritus Sancti: docentes eos serv\u00e1re \u00f3mnia, qu\u00e6c\u00famque mand\u00e1vi vobis. Et ecce, ego vob\u00edscum sum \u00f3mnibus di\u00e9bus usque ad consummati\u00f3nem s\u01fdculi."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Ex 12:14*\nEste dia ficar-vos-\u00e1 memor\u00e1vel, aleluia: celebr\u00e1-lo-eis de gera\u00e7\u00e3o em gera\u00e7\u00e3o com uma festa solene em honra do Senhor: e ficar\u00e1 uma institui\u00e7\u00e3o perp\u00e9tua, aleluia, aleluia, aleluia.", 
+            "*Exod 12:14*\nErit vobis h\u00e6c dies memori\u00e1lis, allel\u00faja: et diem festum celebr\u00e1bitis soll\u00e9mnem D\u00f3mino in prog\u00e9nies vestras: leg\u00edtimum sempit\u00e9rnum diem, allel\u00faja, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Vos suplicamos, Senhor, recebei benigno as h\u00f3stias, que Vos oferecemos; e que elas sirvam de expia\u00e7\u00e3o dos pecados dos rec\u00e9m-nascidos e para alcan\u00e7armos o socorro celestial.\nPor nosso Senhor...", 
+            "H\u00f3stias, qu\u01fdsumus, D\u00f3mine, plac\u00e1tus ass\u00fame: quas et pro renat\u00f3rum expiati\u00f3ne pecc\u00e1ti def\u00e9rimus, et pro accelerati\u00f3ne c\u0153l\u00e9stis aux\u00edlii.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Mt 28:18-19*\nTodo o poder me foi dado no c\u00e9u e na terra, aleluia: ide, pois, ensinai todos os povos e baptizai-os em nome do Pai, e do Filho, e do Esp\u00edrito Santo, aleluia, aleluia.", 
+            "*Matt 28:18-19*\nData est mihi omnis pot\u00e9stas in c\u0153lo et in terra, allel\u00faja: e\u00fantes, doc\u00e9te omnes gentes, baptiz\u00e1ntes eos in n\u00f3mine Patris, et F\u00edlii, et Sp\u00edritus Sancti, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Olhai para o vosso povo, Senhor; e, assim como Vos dignastes renov\u00e1-lo com os myst\u00e9rios eternos, assim tamb\u00e9m Vos digneis absolv\u00ea-lo das ofensas cometidas neste mundo.\nPor nosso Senhor...", 
+            "R\u00e9spice, qu\u01fdsumus, D\u00f3mine, p\u00f3pulum tuum: et, quem \u00e6t\u00e9rnis dign\u00e1tus es renov\u00e1re myst\u00e9riis, a tempor\u00e1libus culpis dign\u00e1nter abs\u00f3lve.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

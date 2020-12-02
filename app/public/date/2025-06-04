@@ -1,0 +1,121 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos brancos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2025-06-04", 
+      "description": "", 
+      "id": "sancti:06-04:3:w", 
+      "rank": 3, 
+      "supplements": [], 
+      "tempora": "Quarta-feira da semana depois da Ascens\u00e3o", 
+      "title": "S. Francisco Caracc\u00edolo, Confessor"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 68:10*\nO meu cora\u00e7\u00e3o \u00e9 como a cera: funde-se no meio do meu peito, pois o zelo da vossa Casa devora-me. (T. P. Aleluia, aleluia.)\n*Sl 72:1*\nComo Deus \u00e9 bom para com Israel! e para com aqueles que possuem cora\u00e7\u00e3o recto!\nGl\u00f3ria ao Pai.\nO meu cora\u00e7\u00e3o \u00e9 como a cera: funde-se no meio do meu peito, pois o zelo da vossa Casa devora-me. (T. P. Aleluia, aleluia.)", 
+            "*Ps 68:10.*\nFactum est cor meum tamquam cera liqu\u00e9scens in m\u00e9dio ventris mei: qu\u00f3niam zelus domus tu\u00e6 com\u00e9dit me. (Allel\u00faja, allel\u00faja)\n*Ps 72:1*\nQuam bonus Isra\u00ebl Deus: his, qui recto sunt corde!\nGl\u00f3ria Patri\u2026\nFactum est cor meum tamquam cera liqu\u00e9scens in m\u00e9dio ventris mei: qu\u00f3niam zelus domus tu\u00e6 com\u00e9dit me. (Allel\u00faja, allel\u00faja)"
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que ilustrastes o B. Francisco, destinando-o para fundador de uma nova ordem e dotando-o com o zelo da ora\u00e7\u00e3o e amor \u00e0 penit\u00eancia, concedei aos vossos servos a gra\u00e7a de aproveitarem de tal modo com seus exemplos que, rezando sempre e reduzindo os corpos \u00e0 servid\u00e3o, mere\u00e7am alcan\u00e7ar a gl\u00f3ria celestial.\nPor nosso Senhor...", 
+            "Deus, qui be\u00e1tum Franc\u00edscum, novi \u00f3rdinis institut\u00f3rem, or\u00e1ndi st\u00fadio et p\u0153nit\u00e9nti\u00e6 am\u00f3re decor\u00e1sti: da f\u00e1mulis tuis in ejus imitati\u00f3ne ita prof\u00edcere; ut, semper or\u00e1ntes et corpus in servit\u00fatem redig\u00e9ntes, ad c\u0153l\u00e9stem gl\u00f3riam perven\u00edre mere\u00e1ntur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro da Sabedoria.\n*Sb 4:7-14*\nAinda que o justo morra prematuramente, alcan\u00e7ar\u00e1 repouso. O que torna a velhice vener\u00e1vel n\u00e3o \u00e9 a vida longa nem o n\u00famero dos anos, mas a prud\u00eancia do homem; pois as c\u00e3s do homem n\u00e3o s\u00e3o os seus sentimentos. Sua vida imaculada, sim, \u00e9 uma verdadeira velhice. Tendo-se (o justo) tornado agrad\u00e1vel a Deus, foi por Ele amado; e Deus o tirou do meio dos pecadores com quem vivia. Deus elevou-o, receando que a mal\u00edcia corrompesse o seu esp\u00edrito ou a ilus\u00e3o seduzisse a sua alma; pois a fascina\u00e7\u00e3o da frivolidade obscurece o bem, e a inconst\u00e2ncia transtorna o esp\u00edrito ainda que n\u00e3o possua mal\u00edcia. Ainda que tenha vivido pouco, preencheu a carreira com larga vida, pois a sua alma era agrad\u00e1vel a Deus; pelo que Deus se apressou em o tirar do meio da iniquidade.", 
+            "L\u00e9ctio libri Sapi\u00e9nti\u00e6.\n*Sap 4:7-14*\nJustus, si morte pr\u00e6occup\u00e1tus f\u00faerit, in refrig\u00e9rio erit. Sen\u00e9ctus enim vener\u00e1bilis est non diut\u00farna, neque ann\u00f3rum n\u00famero comput\u00e1ta: cani autem sunt sensus h\u00f3minis, et \u00e6tas senect\u00fatis vita immacul\u00e1ta. Placens Deo Jactus est dil\u00e9ctus, et vivens inter peccat\u00f3res transl\u00e1tus est. Raptus est, ne mal\u00edtia mut\u00e1ret intell\u00e9ctum ejus, aut ne f\u00edctio dec\u00edperet \u00e1nimam ill\u00edus. Fascin\u00e1tio enim nugacit\u00e1tis obsc\u00farat bona, et inconst\u00e1ntia concupisc\u00e9ntia? transv\u00e9rtit sensum sine mal\u00edtia. Consumm\u00e1tus in brevi expl\u00e9vit t\u00e9mpora multa, pl\u00e1cita enim erat Deo \u00e1nima ill\u00edus: propter hoc proper\u00e1vit ed\u00facere illum de m\u00e9dio iniquit\u00e1tum."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia, aleluia.\n*Sl 64:5*\nBem-aventurado aquele que escolhestes e elevastes, para que habitasse nos vossos \u00e1trios. Aleluia.\n*Sl 111:9*\nDistribuiu e deu esmola aos pobres e a sua justi\u00e7a permanecer\u00e1 em todos os s\u00e9culos. Aleluia.", 
+            "Allel\u00faja, allel\u00faja\n*Ps 64:5*\nBe\u00e1tus, quem eleg\u00edsti et assumps\u00edsti: inhabit\u00e1bit in \u00e1triis tuis. Allel\u00faja\n*Ps 111:9*\nDisp\u00e9rsit, dedit paup\u00e9ribus: just\u00edtia ejus manet in s\u01fdculum s\u01fdculi. Allel\u00faja."
+          ]
+        ], 
+        "id": "GradualeP", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Lucas.\n*Lc 12:35-40*\nNaquele tempo, disse Jesus aos seus disc\u00edpulos: \u00abEstejam cingidos os vossos rins; tende nas vossas m\u00e3os l\u00e2mpadas acesas; sede semelhantes a homens que esperam o seu senhor quando volta das bodas, para que, quando chegar e bater \u00e0 porta, logo lha abram. Bem-aventurados aqueles servos que seu senhor, quando chegar, os achar vigilantes. Em verdade vos digo que se cingir\u00e1, e, mandando-os sentar \u00e0 mesa, passar\u00e1 por entre eles e os servir\u00e1. E, se chegar na segunda ou terceira vig\u00edlia e assim os achar, bem-aventurados s\u00e3o esses servos. Ora, sabei que, se o pai de fam\u00edlia conhecesse a hora em que viria o ladr\u00e3o, vigiava, sem d\u00favida, para que sua casa n\u00e3o fosse assaltada. V\u00f3s, pois, estai preparados, porque o Filho do homem vir\u00e1 \u00e0 hora em que menos cuidais\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam.\n*Luc 12: 35-40*\nIn illo t\u00e9mpore: Dixit Jesus disc\u00edpulis suis: Sint lumbi vestri pr\u00e6c\u00edncti, et luc\u00e9rn\u00e6 ard\u00e9ntes in m\u00e1nibus vestris, et vos s\u00edmiles hom\u00ednibus exspect\u00e1ntibus d\u00f3minum suum, quando revert\u00e1tur a n\u00faptiis: ut, cum v\u00e9nerit et puls\u00e1verit, conf\u00e9stim ap\u00e9riant ei. Be\u00e1ti servi illi, quos, cum v\u00e9nerit d\u00f3minus, inv\u00e9nerit vigil\u00e1ntes: amen, dico vobis, quod pr\u00e6c\u00ednget se, et f\u00e1ciet illos disc\u00fambere, et tr\u00e1nsiens ministr\u00e1bit illis. Et si v\u00e9nerit in sec\u00fanda vig\u00edlia, et si in t\u00e9rtia vig\u00edlia v\u00e9nerit, et ita inv\u00e9nerit, be\u00e1ti sunt servi illi. Hoc autem scit\u00f3te, qu\u00f3niam, si sciret paterfam\u00edlias, qua hora fur ven\u00edret, vigil\u00e1ret \u00fatique, et non s\u00edneret p\u00e9rfodi domum suam. Et vos est\u00f3te parati: quia, qua hora non put\u00e1tis, F\u00edlius h\u00f3minis v\u00e9niet."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 91:13*\nO justo florescer\u00e1, como a palmeira, e crescer\u00e1, como o cedro do L\u00edbano. (T. P. Aleluia.)", 
+            "*Ps 91:13*\nJustus ut palma flor\u00e9bit: sicut cedrus L\u00edbani multiplic\u00e1bitur. (Allel\u00faja.)"
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Clement\u00edssimo Jesus, honrando os preclaros m\u00e9ritos do B. Francisco e sendo abrasados, como ele, no fogo da caridade, concedei-nos que possamos tomar lugar dignamente junto da vossa sacrossanta mesa.\n\u00d3 V\u00f3s, que viveis...", 
+            "Da nobis, clement\u00edssime Jesu: ut pr\u00e6cl\u00e1ra be\u00e1ti Franc\u00edsci m\u00e9rita recol\u00e9ntes, e\u00f3dem nos, ac ille, carit\u00e1tis igne succ\u00e9nsi, digne in circ\u00faitu sacr\u00e6 hujus mens\u00e6 tu\u00e6 esse vale\u00e1mus:\nQui vivis\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 30:20*\nComo \u00e9 grande, Senhor, a felicidade que reservais para aqueles que Vos temem! (T. P. Aleluia.)", 
+            "*Ps 30:20*\nQuam magna multit\u00fado dulc\u00e9dinis tu\u00e6, D\u00f3mine, quam abscond\u00edsti tim\u00e9ntibus te!  (Allel\u00faja.)"
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Permiti, Senhor, Vos suplicamos, que o nosso esp\u00edrito conserve sempre, cheio de reconhecimento, a recorda\u00e7\u00e3o e os frutos do sacrossanto sacrif\u00edcio que hoje oferecemos \u00e0 vossa majestade em honra do B. Francisco.\nPor nosso Senhor...", 
+            "Sacros\u00e1ncta sacrif\u00edcii, qu\u01fdsumus, D\u00f3mine, quod h\u00f3die in sollemnit\u00e1te be\u00e1ti Franc\u00edsci tu\u00e6 obt\u00falimus majest\u00e1ti, grata semper in m\u00e9ntibus nostris mem\u00f3ria persev\u00e9ret et fructus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

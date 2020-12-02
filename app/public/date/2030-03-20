@@ -1,0 +1,132 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em Santa Cec\u00edlia", 
+        "Paramentos roxos"
+      ], 
+      "colors": [
+        "v"
+      ], 
+      "date": "2030-03-20", 
+      "description": "", 
+      "id": "tempora:Quad2-3:3:v", 
+      "rank": 3, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Quarta-feira da 2\u00aa semana da Quaresma"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 37:22-23*\nN\u00e3o me abandoneis, Senhor, meu Deus; n\u00e3o Vos afasteis de mim. Apressai-Vos em socorrer-me, \u00f3 Senhor, que sois a minha for\u00e7a e salva\u00e7\u00e3o.\n*Sl 37:2*\nSenhor, n\u00e3o me repreendais com furor, nem me castigueis com ira.\nGl\u00f3ria ao Pai.\nN\u00e3o me abandoneis, Senhor, meu Deus; n\u00e3o Vos afasteis de mim. Apressai-Vos em socorrer-me, \u00f3 Senhor, que sois a minha for\u00e7a e salva\u00e7\u00e3o.", 
+            "*Ps 37:22-23.*\nNe derel\u00ednquas me, D\u00f3mine, Deus meus, ne disc\u00e9das a me: int\u00e9nde in adjut\u00f3rium meum, D\u00f3mine, virtus sal\u00fatis me\u00e6.\n*Ps 37:2*\nD\u00f3mine, ne in fur\u00f3re tuo \u00e1rguas me: neque in ira tua corr\u00edpias me.\nGl\u00f3ria Patri\u2026\nNe derel\u00ednquas me, D\u00f3mine, Deus meus, ne disc\u00e9das a me: int\u00e9nde in adjut\u00f3rium meum, D\u00f3mine, virtus sal\u00fatis me\u00e6."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Olhai prop\u00edcio para o vosso povo, Senhor, Vos suplicamos, e permiti que aqueles a quem ordenais a abstin\u00eancia das carnes se abstenham tamb\u00e9m dos v\u00edcios, que prejudicam as suas almas.\nPor nosso Senhor...", 
+            "P\u00f3pulum tuum, qu\u01fdsumus, D\u00f3mine, prop\u00edtius r\u00e9spice: et, quos ab escis carn\u00e1libus pr\u01fdcipis abstin\u00e9re, a n\u00f3xiis quoque v\u00edtiis cess\u00e1re conc\u00e9de.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro de Ester.\n*Est 13:8-11; 15-17.*\nNaqueles dias, orava Mardoqueu ao Senhor, dizendo: \u00abSenhor, Senhor, Rei omnipotente, todas as coisas est\u00e3o submetidas ao vosso poder. Nada, pois, poder\u00e1 resistir \u00e0 vossa vontade, se determinardes salvar o povo de Israel. Criastes o c\u00e9u, a terra e tudo o que encerra o \u00e2mbito do c\u00e9u; sois o Senhor de todas as coisas; ningu\u00e9m pode resistir \u00e0 vossa majestade. Ent\u00e3o, agora, Senhor e Rei, Deus de Abra\u00e3o, tende piedade do vosso povo; pois os nossos inimigos querem perder-nos e destruir a vossa heran\u00e7a. N\u00e3o desprezeis o vosso povo, que livrastes do Egipto para ser vosso. Ouvi a minha ora\u00e7\u00e3o; sede prop\u00edcio \u00e0 na\u00e7\u00e3o que se tornou a vossa heran\u00e7a; convertei o nosso luto em alegria, a fim de que, conservando a vida, louvemos o vosso nome, Senhor\u00bb N\u00e3o fecheis a boca \u00e0queles que Vos louvam, \u00f3 Senhor, nosso Deus!\u00bb.", 
+            "L\u00e9ctio libri Esther.\n*Esth 13:8-11; 13:15-17*\nIn di\u00e9bus illis: Or\u00e1vit Mardoch\u01fdus ad D\u00f3minum, dicens: D\u00f3mine, D\u00f3mine, Rex omn\u00edpotens, in dici\u00f3ne enim tua cuncta sunt p\u00f3sita, et non est, qui possit tu\u00e6 res\u00edstere volunt\u00e1ti, si decr\u00e9veris salv\u00e1re Isra\u00ebl. Tu fec\u00edsti c\u0153lum et terram, et quidquid c\u0153li \u00e1mbitu contin\u00e9tur. D\u00f3minus \u00f3mnium es, nec est, qui res\u00edstat majest\u00e1ti tu\u00e6. Et nunc, D\u00f3mine Rex, Deus Abraham, miser\u00e9re p\u00f3puli tui, quia volunt nos inim\u00edci nostri p\u00e9rdere, et heredit\u00e1tem tuam del\u00e9re. Ne desp\u00edcias partem tuam, quam redem\u00edsti tibi de \u00c6g\u00fdpto. Ex\u00e1udi deprecati\u00f3nem meam, et prop\u00edtius esto sorti et fun\u00edculo tuo, et conv\u00e9rte luctum nostrum in g\u00e1udium, ut viv\u00e9ntes laud\u00e9mus nomen tuum, D\u00f3mine, et ne claudas ora te can\u00e9ntium, D\u00f3mine, Deus noster."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 27:9, 1.*\nSalvai o vosso povo, Senhor, e aben\u00e7oai a vossa heran\u00e7a.\nV. A V\u00f3s, Senhor, clamei. Meu Deus, n\u00e3o fecheis os ouvidos \u00e0 minha voz. Se me n\u00e3o escutais, serei semelhante \u00e0queles que desceram ao t\u00famulo.\n\n*Tractus*\n*Sl 102:10*\nSenhor, nos n\u00e3o castigueis, consoante merecemos, pelos pecados que pratic\u00e1mos: nem nos julgueis, segundo as nossas iniquidades.\nV. Ps 78:8-9 Esquecei-Vos, Senhor, das nossas iniquidades passa- das, apressai-Vos em revestir-nos com vossas miseric\u00f3rdias, pois grande \u00e9 a nossa mis\u00e9ria. (genuflectir)\nV. Auxiliai-nos, \u00f3 Deus, nosso Salvador, e, pela gl\u00f3ria do vosso nome, livrai-nos, Senhor, e perdoai os nossos pecados por causa do vosso nome.", 
+            "*Ps 27:9; 27:1*\nSalvum fac p\u00f3pulum tuum, D\u00f3mine, et b\u00e9nedic heredit\u00e1ti tu\u00e6.\nV. Ad te, D\u00f3mine, clam\u00e1vi: Deus meus, ne s\u00edleas a me, et ero s\u00edmilis descend\u00e9ntibus in lacum.\n\n*Tractus*\n*Ps 102:10*\nD\u00f3mine, non sec\u00fandum pecc\u00e1ta nostra, qu\u00e6 f\u00e9cimus nos: neque sec\u00fandum iniquit\u00e1tes nostras retr\u00edbuas nobis\n*Ps 78:8-9*\nD\u00f3mine, ne mem\u00edneris iniquit\u00e1tum nostr\u00e1rum antiqu\u00e1rum: cito ant\u00edcipent nos miseric\u00f3rdi\u00e6 tu\u00e6, quia p\u00e1uperes facti sumus nimis. (Hic genuflectitur)\nV. Adjuva nos, Deus, salut\u00e1ris noster: et propter gl\u00f3riam n\u00f3minis tui, D\u00f3mine, l\u00edbera nos: et prop\u00edtius esto pecc\u00e1tis nostris, propter nomen tuum."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do Santo Evangelho segundo S. Mateus.\n*Mt. 20:17-28*\nNaquele tempo, subindo Jesus para Jerusal\u00e9m, chamou de parte os doze disc\u00edpulos e disse-lhes: \u00abVamos subindo para Jerusal\u00e9m, onde o Filho do homem ser\u00e1 entregue aos pr\u00edncipes dos sacerdotes e aos escribas. E conden\u00e1-lo-\u00e3o \u00e0 morte e entreg\u00e1-lo-\u00e3o aos gentios, para ser escarnecido, flagelado e crucificado; mas ao terceiro dia ressuscitar\u00e1\u00bb. Ent\u00e3o a m\u00e3e dos filhos de Zebedeu aproximou-se d\u2019Ele com seus filhos, adorando-O e pretendendo pedir-Lhe alguma coisa. Ele disse-lhe: \u00abQue queres?\u00bb. Respondeu ela: \u00abOrdenai que estes meus dois filhos se sentem no vosso reino, um \u00e0 direita e o outro \u00e0 esquerda\u00bb. E Jesus disse-lhe: \u00abN\u00e3o sabeis o que pedis. Podeis beber o c\u00e1lice que eu hei-de beber\u00bb. Disseram-lhe: \u00abPodemos!\u00bb. Jesus disse-lhes: \u00abV\u00f3s bebereis, certamente, o meu c\u00e1lice; por\u00e9m, sentar-vos \u00e0 minha direita ou esquerda, n\u00e3o pertence a mim conceder-vo-lo, pois esse lugar ser\u00e1 para quem meu Pai o tiver preparado\u00bb. Ouvindo isto, os outros dez indignaram-se contra os dois irm\u00e3os. Jesus, por\u00e9m, chamando-os para junto de si, disse-lhes: \u00abSabeis que os soberanos dominam os seus povos e que os mais importantes exercem a sua for\u00e7a contra estes, oprimindo-os. N\u00e3o ser\u00e1 assim entre v\u00f3s; aquele, pois, que quiser ser superior aos outros ser\u00e1 seu inferior; e o que quiser ser o primeiro ser\u00e1 o seu escravo. Assim como o Filho do homem, que n\u00e3o veio para ser servido, mas para servir e dar a vida em reden\u00e7\u00e3o de muitos\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Matth\u01fdum.\n*Matt 20:17-28*\nIn illo t\u00e9mpore: Asc\u00e9ndens Jesus Jeros\u00f3lymam, ass\u00fampsit du\u00f3decim disc\u00edpulos secr\u00e9to, et ait illis: Ecce, asc\u00e9ndimus Jeros\u00f3lymam, et F\u00edlius h\u00f3minis trad\u00e9tur princ\u00edpibus sacerd\u00f3tum, et scribis, et condemn\u00e1bunt eum morte, et tradent eum G\u00e9ntibus ad illud\u00e9ndum, et flagell\u00e1ndum, et crucifig\u00e9ndum, et t\u00e9rtia die res\u00farget. Tunc acc\u00e9ssit ad eum mater fili\u00f3rum Zebed\u01fdi cum f\u00edliis suis, ad\u00f3rans et petens \u00e1liquid ab eo. Qui dixit ei: Quid vis? Ait illi: Dic, ut s\u00e9deant hi duo f\u00edlii mei, unus ad d\u00e9xteram tuam et unus ad sin\u00edstram in regno tuo. Resp\u00f3ndens autem Jesus, dixit: Nesc\u00edtis, quid pet\u00e1tis. Pot\u00e9stis b\u00edbere c\u00e1licem, quem ego bibit\u00farus sum? Dicunt ei: P\u00f3ssumus. Ait illis: C\u00e1licem quidem meum bib\u00e9tis: sed\u00e9re autem ad d\u00e9xteram meam vel sin\u00edstram, non est meum dare vobis, sed quibus par\u00e1tum est a Patre meo. Et audi\u00e9ntes decem, indign\u00e1ti sunt de du\u00f3bus fr\u00e1tribus. Jesus autem voc\u00e1vit eos ad se, et ait: Scitis, quia pr\u00edncipes g\u00e9ntium domin\u00e1ntur e\u00f3rum: et qui maj\u00f3res sunt, potest\u00e1tem ex\u00e9rcent in eos. Non ita erit inter vos: sed quic\u00famque vol\u00faerit inter vos major f\u00ederi, sit vester min\u00edster: et qui vol\u00faerit inter vos primus esse, erit vester servus. Sicut F\u00edlius h\u00f3minis non venit ministr\u00e1ri, sed ministr\u00e1re, et dare \u00e1nimam suam, redempti\u00f3nem pro multis."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 24:1-3*\nA V\u00f3s, Senhor, elevei a minha alma. \u00d3 meu Deus, confio em V\u00f3s; n\u00e3o serei confundido, nem vencido pelos meus inimigos., porquanto todos aqueles que em V\u00f3s confiam n\u00e3o ser\u00e3o confundidos.", 
+            "*Ps 24:1-3*\nAd te, D\u00f3mine, lev\u00e1vi \u00e1nimam meam: Deus meus, in te conf\u00eddo, non erub\u00e9scam: neque irr\u00eddeant me inim\u00edci mei: \u00e9tenim univ\u00e9rsi, qui te exsp\u00e9ctant, non confund\u00e9ntur."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Olhai prop\u00edcio, Senhor, para as h\u00f3stias que Vos oferecemos, e, por este sagrado Corn\u00e9rcio, desligai-nos das cadeias dos nossos pecados.\nPor nosso Senhor...", 
+            "H\u00f3stias, D\u00f3mine, quas tibi off\u00e9rimus, prop\u00edtius r\u00e9spice: et, per h\u00e6c sancta comm\u00e9rcia, v\u00edncula peccat\u00f3rum nostr\u00f3rum abs\u00f3lve.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da Quaresma*\nVerdadeiramente \u00e9 digno e justo, racional e salutar dar-Vos gra\u00e7as em todos os lugares e sempre, Senhor santo, Pai omnipotente, eterno Deus, pois V\u00f3s, pelo jejum natural, reprimis os v\u00edcios, elevais o esp\u00edrito e concedeis-nos a virtude e o pr\u00e9mio por Cristo, nosso Senhor: pelo qual os Anjos louvam a vossa majestade, as Domina\u00e7\u00f5es a adoram e as Potestades tr\u00e9mulas a reverenciam; e os C\u00e9us, as Virtudes dos C\u00e9us e os bem-aventurados Serafins se associam em comum louvor. Dignai-Vos permitir, Senhor, que as nossas vozes suplicantes se unam \u00e0s deles, dizendo:", 
+            "*de Quadragesima*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper, et ub\u00edque gr\u00e1tias agere: D\u00f3mine, sancte Pater, omn\u00edpotens \u00e6t\u00e9rne Deus: Qui corpor\u00e1li iei\u00fanio v\u00edtia c\u00f3mprimis, mentem \u00e9levas, virt\u00fatem larg\u00edris et pr\u01fdmia: per Christum D\u00f3minum nostrum. Per quem maiest\u00e1tem tuam laudant Angeli, ad\u00f3rant Dominati\u00f3nes, tremunt Potest\u00e1tes. C\u00e6li c\u00e6lor\u00famque Virt\u00fates, ac be\u00e1ta S\u00e9raphim, s\u00f3cia exsultati\u00f3ne conc\u00e9lebrant. Cum quibus et nostras voces, ut admitti i\u00fabeas, deprec\u00e1mur, s\u00fapplici confessi\u00f3ne dicentes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 10:8*\nO Senhor \u00e9 justo e amou a justi\u00e7a; seu rosto volta-se ben\u00e9volo para os justos.", 
+            "*Ps 10:8*\nJustus D\u00f3minus, et just\u00edtiam dil\u00e9xit: \u00e6quit\u00e1tem vidit vultus ejus."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Havendo n\u00f3s recebido estes sacramentos, Senhor, concedei-nos, Vos suplicamos, que nos sirvam de aumento dos frutos da reden\u00e7\u00e3o eterna.\nPor nosso Senhor...", 
+            "Sumptis, D\u00f3mine, sacram\u00e9ntis: ad redempti\u00f3nis \u00e6t\u00e9rn\u00e6, qu\u01fdsumus, profici\u00e1mus augm\u00e9ntum.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "*Ora\u00e7\u00e3o sobre o povo*\nOremos.\nInclinai as vossas cabe\u00e7as diante de Deus.\n\u00d3 Deus, reparador e amigo da inoc\u00eancia, encaminhai para V\u00f3s os cora\u00e7\u00f5es dos vossos servos, a fim de que, afervorados com vosso Esp\u00edrito, sejam firmes na f\u00e9 e activos nas obras.\nPor nosso Senhor...", 
+            "*Oratio super populum*\nOr\u00e9mus.\nHumili\u00e1te c\u00e1pita vestra Deo.\nDeus, innoc\u00e9nti\u00e6 restit\u00fator et am\u00e1tor, d\u00edrige ad te tu\u00f3rum corda serv\u00f3rum: ut, sp\u00edritus tui ferv\u00f3re conc\u00e9pto, et in fide inveni\u00e1ntur st\u00e1biles, et in \u00f3pere effic\u00e1ces.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Super populum", 
+        "label": "Sobre o povo"
+      }
+    ]
+  }
+]

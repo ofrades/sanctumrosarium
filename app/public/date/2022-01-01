@@ -1,0 +1,122 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em Santa Maria Maior al\u00e9m Tibre", 
+        "Paramentos brancos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2022-01-01", 
+      "description": "", 
+      "id": "sancti:01-01:1:w", 
+      "rank": 1, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Circuncis\u00e3o do Senhor e Oitava do Natal"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Is 9:6*\nNasceu para n\u00f3s um Menino e foi-nos dado um Filho que traz sobre os ombros o manto da realeza, o qual ser\u00e1 chamado \u00abAnjo do admir\u00e1vel conselho\u00bb.\n*Sl 97:1*\nCantai ao Senhor um hino novo, pois Ele operou maravilhas.\nGl\u00f3ria ao Pai.\nNasceu para n\u00f3s um Menino e foi-nos dado um Filho que traz sobre os ombros o manto da realeza, o qual ser\u00e1 chamado \u00abAnjo do admir\u00e1vel conselho\u00bb.", 
+            "*Isa 9:6*\nPuer natus est nobis, et f\u00edlius datus est nobis: cujus imp\u00e9rium super h\u00famerum ejus: et voc\u00e1bitur nomen ejus magni cons\u00edlii Angelus.\n*Ps 97:1*\nCant\u00e1te D\u00f3mino c\u00e1nticum novum: quia mirab\u00edlia fecit.\nGl\u00f3ria Patri\u2026\nPuer natus est nobis, et f\u00edlius datus est nobis: cujus imp\u00e9rium super h\u00famerum ejus: et voc\u00e1bitur nomen ejus magni cons\u00edlii Angelus."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que pela virgindade fecunda da Bem-aventurada Virgem Maria concedestes ao g\u00e9nero humano o pr\u00e9mio da salva\u00e7\u00e3o eterna, permiti, Vos imploramos, que gozemos a intercess\u00e3o daquela pela qual fomos julgados dignos de receber o autor da vida, nosso Senhor Jesus Cristo, vosso Filho:\nQue convosco vive...", 
+            "Deus, qui sal\u00fatis \u00e6t\u00e9rn\u00e6, be\u00e1t\u00e6 Mar\u00ed\u00e6 virginit\u00e1te fec\u00fanda, hum\u00e1no g\u00e9neri pr\u00e6mia pr\u00e6stit\u00edsti: tr\u00edbue, qu\u01fdsumus; ut ipsam pro nobis interc\u00e9dere senti\u00e1mus, per quam mer\u00faimus auct\u00f3rem vit\u00e6 susc\u00edpere, D\u00f3minum nostrum Jesum Christum, F\u00edlium tuum:\nQui tecum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo a Tito.\n*Tt 2:11-15*\nCar\u00edssimo: A gra\u00e7a de Deus, nosso Salvador, manifestou-se a todos os homens, ensinando-nos, a fim de que, repudiando a impiedade e os apetites terrenos, vivamos neste mundo com temperan\u00e7a, justi\u00e7a e piedade, pensando na esperan\u00e7a, na bem-aventuran\u00e7a eterna e na vinda da gl\u00f3ria do nosso grande Deus e Salvador, Jesus Cristo: que se ofereceu espontaneamente por n\u00f3s, para nos resgatar de toda a iniquidade e tornar-nos numa ra\u00e7a purificada, escolhida e zelosa em suas boas obras. Ensina e prega estas cousas, em Jesus Cristo, nosso Senhor!", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 beati Pauli Ap\u00f3stoli ad Titum\n*Tit 2:11-15*\nCar\u00edssime: App\u00e1ruit gr\u00e1tia Dei Salvat\u00f3ris nostri \u00f3mnibus hom\u00ednibus, er\u00fadiens nos, ut, abneg\u00e1ntes impiet\u00e1tem et s\u00e6cul\u00e1ria desid\u00e9ria, s\u00f3brie et juste et pie viv\u00e1mus in hoc s\u01fdculo, exspect\u00e1ntes be\u00e1tam spem et adv\u00e9ntum gl\u00f3ri\u00e6 magni Dei et Salvat\u00f3ris nostri Jesu Christi: qui dedit semet\u00edpsum pro nobis: ut nos red\u00edmeret ab omni iniquit\u00e1te, et mund\u00e1ret sibi p\u00f3pulum accept\u00e1bilem, sectat\u00f3rem bon\u00f3rum \u00f3perum. H\u00e6c l\u00f3quere et exhort\u00e1re: in Christo Jesu, D\u00f3mino nostro."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 97:3; 97:2*\nToda a terra viu o Salvador que o nosso Deus enviou: aclamai, pois, o Senhor, \u00f3 povos de toda a terra!\nV. O Senhor manifestou o Salvador que havia prometido: e manifestou a sua justi\u00e7a aos olhos dos povos. Aleluia, aleluia.\n*Heb 1:1-2*\nDeus, que outrora falou de diversas maneiras pelos Profetas, dignou-se falar-nos nos \u00faltimos tempos pelo seu Filho. Aleluia.", 
+            "*Ps 97:3; 97:2*\nVid\u00e9runt omnes fines terr\u00e6 salutare Dei nostri: jubil\u00e1te Deo, omnis terra.\nV. Notum fecit Dominus salutare suum: ante consp\u00e9ctum g\u00e9ntium revel\u00e1vit justitiam suam. Allel\u00faja, allel\u00faja.\n*Heb 1:1-2*\nMultif\u00e1rie olim Deus loquens p\u00e1tribus in Proph\u00e9tis, nov\u00edssime di\u00e9bus istis loc\u00fatus est nobis in F\u00edlio. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Lucas.\n*Lc 2:21*\nNaquele tempo, passados que foram oito dias depois dos quais o Menino devia ser circuncidado, foi-Lhe dado o nome de Jesus, que foi aquele que o Anjo Lhe havia dado, antes de ser concebido no seio de sua M\u00e3e.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam\n*Luc 2:21*\nIn illo t\u00e9mpore: Postquam consumm\u00e1ti sunt dies octo, ut circumcider\u00e9tur Puer: voc\u00e1tum est nomen ejus Jesus, quod voc\u00e1tum est ab Angelo, pri\u00fasquam in \u00fatero conciper\u00e9tur."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 88:12; 88:15*\nA V\u00f3s, Senhor, pertencem os c\u00e9us e a terra, pois criastes o universo e tudo o que ele encerra. A justi\u00e7a e a equidade s\u00e3o a base do vosso trono.", 
+            "*Ps 88:12; 88:15*\nTui sunt coeli et tua est terra: orbem terr\u00e1rum et plenit\u00fadinem ejus tu fund\u00e1sti: just\u00edtia et jud\u00edcium pr\u00e6par\u00e1tio sedis tu\u00e6."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Havendo V\u00f3s, Senhor, recebido benignamente os nossos dons e ora\u00e7\u00f5es, dignai-Vos ainda, Vos suplicamos, purificar-nos pela virtude dos vossos celestiais myst\u00e9rios e ouvir-nos misericordiosamente.\nPor nosso Senhor...", 
+            "Mun\u00e9ribus nostris, qu\u01fdsumus, D\u00f3mine, precib\u00fasque susc\u00e9ptis: et coel\u00e9stibus nos munda myst\u00e9riis, et clem\u00e9nter ex\u00e1udi.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*do Natal*\nVerdadeiramente \u00e9 digno e justo, racional e salutar dar-Vos gra\u00e7as, Senhor santo, Pai omnipotente, eterno Deus, em todos os lugares e sempre, porque pelo myst\u00e9rio do Verbo Incarnado um novo clar\u00e3o do vosso esplendor iluminou a nossa alma, a fim de que, ao passo que conhecemos Deus de uma maneira vis\u00edvel, sejamos inspirados por Ele no amor \u00e0s cousas invis\u00edveis. E, por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*de Nativitate Domini*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper et ub\u00edque gr\u00e1tias \u00e1gere: D\u00f3mine sancte, Pater omn\u00edpotens, \u00e6t\u00e9rne Deus: Quia per incarn\u00e1ti Verbi myst\u00e9rium nova mentis nostr\u00e6 \u00f3culis lux tu\u00e6 clarit\u00e1tis inf\u00falsit: ut, dum visib\u00edliter Deum cogn\u00f3scimus, per hunc in invisib\u00edlium amorem rapi\u00e1mur. Et ideo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes."
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 97:3*\nToda a terra viu o Salvador que o nosso Deus enviou.", 
+            "*Ps 97:3*\nVid\u00e9runt omnes fines terr\u00e6 salut\u00e1re Dei nostri."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Que esta comunh\u00e3o, Senhor, nos purifique de nossos crimes e que por intercess\u00e3o da B. Virgem Maria, M\u00e3e de Deus, nos torne participantes do rem\u00e9dio celestial.\nPelo mesmo nosso Senhor...", 
+            "H\u00e6c nos comm\u00fanio, D\u00f3mine, purget a cr\u00edmine: et, interced\u00e9nte be\u00e1ta V\u00edrgine Dei Genetr\u00edce Mar\u00eda, c\u00e6l\u00e9stis rem\u00e9dii f\u00e1ciat esse cons\u00f3rtes.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em S. Pancr\u00e1cio", 
+        "Paramentos brancos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2030-05-03", 
+      "description": "\nComemora\u00e7\u00e3o S. Alexandre, Papa e M\u00e1rtir.", 
+      "id": null, 
+      "rank": 4, 
+      "supplements": [], 
+      "tempora": "Sexta-feira da 1\u00aa semana depois da P\u00e1scoa", 
+      "title": null
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*1 Pe 2:2*\nComo meninos rec\u00e9m-nascidos, aleluia, e raciocinando convenientemente, desejai com ardor beber o leite puro, aleluia, aleluia, aleluia.\n*Sl. 80. 2*\nAclamai a Deus, que \u00e9 o nosso Sustent\u00e1culo: cantai hinos de j\u00fabilo em honra de Deus de Jacob.\nGl\u00f3ria ao Pai.\nComo meninos rec\u00e9m-nascidos, aleluia, e raciocinando convenientemente, desejai com ardor beber o leite puro, aleluia, aleluia, aleluia.", 
+            "*1 Pet 2, 2.*\nQuasi modo g\u00e9niti inf\u00e1ntes, allel\u00faja: rationabiles, sine dolo lac concup\u00edscite, allel\u00faja, allel\u00faja, allel\u00faja.\n*Ps 80:2.*\nExsult\u00e1te Deo, adjut\u00f3ri nostro: jubil\u00e1te Deo Jacob.\nGl\u00f3ria Patri\u2026\nQuasi modo g\u00e9niti inf\u00e1ntes, allel\u00faja: rationabiles, sine dolo lac concup\u00edscite, allel\u00faja, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus omnipotente, Vos suplicamos, agora, que celebr\u00e1mos as festas pascais, concedei-nos a gra\u00e7a de conservarmos sempre o seu esp\u00edrito, tanto nos nossos costumes, como na nossa vida.\nPor nosso Senhor...", 
+            "Pr\u00e6sta, qu\u01fdsumus, omn\u00edpotens Deus: ut, qui pasch\u00e1lia festa per\u00e9gimus, h\u00e6c, te largi\u00e9nte, m\u00f3ribus et vita tene\u00e1mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Alexandre, Papa e M\u00e1rtir *\n\u00d3 Deus, que na memor\u00e1vel ocasi\u00e3o da Inven\u00e7\u00e3o da Cruz, donde nos veio a salva\u00e7\u00e3o, repetistes as maravilhas da vossa Paix\u00e3o, concedei-nos, pela virtude deste Lenho de vida, que alcancemos a gra\u00e7a da vida eterna.\n\u00d3 V\u00f3s, que viveis...", 
+            "* Commemoratio Ss. Alexandri et Sociorum Martyrum *\nDeus, qui in pr\u00e6cl\u00e1ra salut\u00edfer\u00e6 Crucis Inventi\u00f3ne passi\u00f3nis tu\u00e6 mir\u00e1cula suscit\u00e1sti: conc\u00e9de; ut, vit\u00e1lis ligni pr\u00e9tio, \u00e6t\u00e9rn\u00e6 vit\u00e6 suffr\u00e1gia consequ\u00e1mur:\nQui vivis\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Oratio", 
+        "label": "Comemora\u00e7\u00e3o Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba S. Jo\u00e3o.\n*1 Jo 5:4-10*\nCar\u00edssimos: Todo aquele que nasceu de Deus \u00e9 vencedor do mundo. O que alcan\u00e7a vit\u00f3ria contra o mundo \u00e9 a nossa f\u00e9. Quem \u00e9 que vence o mundo, sen\u00e3o o que cr\u00ea que Jesus Cristo \u00e9 o Filho de Deus? Este mesmo Jesus Cristo \u00e9 que veio com a \u00e1gua e o sangue: n\u00e3o somente com a \u00e1gua, mas com a \u00e1gua e o sangue. E \u00e9 o Esp\u00edrito quem atesta que Jesus Cristo \u00e9 a verdade. Porquanto s\u00e3o tr\u00eas os que d\u00e3o testemunho do c\u00e9u: o Pai, o Verbo, e o Esp\u00edrito Santo: e estes tr\u00eas s\u00e3o um s\u00f3. E tr\u00eas s\u00e3o os que d\u00e3o testemunho na terra: o esp\u00edrito, a \u00e1gua e o sangue: e estes tr\u00eas s\u00e3o um s\u00f3. Se aceitamos o testemunho dos homens, muito maior \u00e9 o testemunho de Deus. Este testemunho de Deus, que \u00e9 maior, foi por Ele dado a respeito do seu Filho. Aquele que cr\u00ea no Filho de Deus tem este testemunho de Deus em si mesmo.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Jo\u00e1nnis Ap\u00f3stoli.\n*1 John 5:4-10.*\nCar\u00edssimi: Omne, quod natum est ex Deo, vincit mundum: et h\u00e6c est victoria, qu\u00e6 vincit mundum, fides nostra. Quis est, qui vincit mundum, nisi qui credit, qu\u00f3niam Jesus est F\u00edlius Dei? Hic est, qui venit per aquam et s\u00e1nguinem, Jesus Christus: non in aqua solum, sed in aqua et s\u00e1nguine. Et Sp\u00edritus est, qui testific\u00e1tur, qu\u00f3niam Christus est v\u00e9ritas. Qu\u00f3niam tres sunt, qui testim\u00f3nium dant in c\u0153lo: Pater, Verbum, et Sp\u00edritus Sanctus: et hi tres unum sunt. Et tres sunt, qui testim\u00f3nium dant in terra: Sp\u00edritus, et aqua, et sanguis: et hi tres unum sunt. Si testim\u00f3nium h\u00f3minum acc\u00edpimus, testim\u00f3nium Dei majus est: qu\u00f3niam hoc est testim\u00f3nium Dei, quod majus est: qu\u00f3niam testific\u00e1tus est de F\u00edlio suo. Qui credit in F\u00edlium Dei, habet testim\u00f3nium Dei in se."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia, aleluia.\n*Mt 28:7*\nV. No dia da minha ressurrei\u00e7\u00e3o, diz o Senhor, irei adiante de v\u00f3s para a Galileia, aleluia.\n*Jo 20:26*\nOito dias depois, estando as portas fechadas, Jesus veio e, estando no meio dos seus disc\u00edpulos, disse: \u00abA paz seja convosco\u00bb, aleluia.", 
+            "\n*Matt 28:7.*\nIn die resurrecti\u00f3nis me\u00e6, dicit D\u00f3minus, pr\u00e6c\u00e9dam vos in Galil\u01fdam. \n*Joannes 20:26.*\nPost dies octo, j\u00e1nuis clausis, stetit Jesus in m\u00e9dio discipul\u00f3rum su\u00f3rum, et dixit: Pax vobis. "
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Jo\u00e3o.\n*Jo 20. 19-31*\nNaquele tempo, chegada a tarde daquele dia, que era o primeiro da semana, encontrando-se os disc\u00edpulos reunidos em um lugar, cujas portas estavam fechadas, por causa do medo que tinham dos judeus, veio Jesus, e, estando no meio deles, disse: \u00abA paz seja convosco!\u00bb. Depois de dizer isto, mostrou as suas m\u00e3os e o seu lado. E alegraram-se os disc\u00edpulos, vendo o Senhor. E disse-lhes novamente: \u00abA paz seja convosco! Assim como meu Pai me enviou, assim tamb\u00e9m vos envio\u00bb. Ditas estas palavras, soprou sobre eles, dizendo: \u00abRecebei o Esp\u00edrito Santo. \u00c0queles a quem perdoardes os pecados, ser-lhes-\u00e3o perdoados, e \u00e0queles a quem os retiverdes, ser-lhes-\u00e3o retidos\u00bb. Por\u00e9m Tom\u00e9, um dos Doze, que era chamado D\u00eddimo, n\u00e3o estava com eles. Disseram-lhe, ent\u00e3o, os outros disc\u00edpulos: \u00abVimos o Senhor!\u00bb. Ele respondeu-lhes: \u00abSe n\u00e3o vir nas suas m\u00e3os o sinal dos cravos, se n\u00e3o meter o meu dedo no lugar dos cravos e n\u00e3o meter a minha m\u00e3o no seu lado, n\u00e3o acreditarei\u00bb. Passados oito dias, encontravam-se os disc\u00edpulos outra vez, no mesmo lugar, estando Tom\u00e9 com eles. E veio Jesus, estando as portas fechadas; e, pondo-se no meio deles, disse: \u00abA paz seja convosco\u00bb. Em seguida disse a Tom\u00e9: \u00abMete aqui o teu dedo e v\u00ea as minhas m\u00e3os; aproxima, tamb\u00e9m, a tua m\u00e3o e mete-a no meu lado; e n\u00e3o sejas incr\u00e9dulo, mas fiel\u00bb. Respondeu Tom\u00e9: \u00abMeu Senhor e meu Deus!\u00bb. Disse-lhe Jesus: \u00abPorque me viste, \u00f3 Tom\u00e9, acreditaste: bem-aventurados aqueles que n\u00e3o viram e acreditaram\u00bb. Jesus fez ainda na presen\u00e7a de seus disc\u00edpulos muitos outros milagres, que n\u00e3o foram escritos neste livro; mas estes foram, a fim de que acrediteis que Jesus Cristo \u00e9 Filho de Deus; e, acreditando, alcanceis a vida eterna em seu nome.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Jo\u00e1nnem.\n*Joannes 20:19-31.*\nIn illo t\u00e9mpore: Cum sero esset die illo, una sabbat\u00f3rum, et fores essent claus\u00e6, ubi erant disc\u00edpuli congreg\u00e1ti propter metum Jud\u00e6\u00f3rum: venit Jesus, et stetit in m\u00e9dio, et dixit eis: Pax vobis. Et cum hoc dix\u00edsset, ost\u00e9ndit eis manus et latus. Gav\u00edsi sunt ergo disc\u00edpuli, viso D\u00f3mino. Dixit ergo eis \u00edterum: Pax vobis. Sicut misit me Pater, et ego mitto vos. H\u00e6c cum dix\u00edsset, insuffl\u00e1vit, et dixit eis: Acc\u00edpite Sp\u00edritum Sanctum: quorum remiseritis pecc\u00e1ta, remitt\u00fantur eis; et quorum retinu\u00e9ritis, ret\u00e9nta sunt. Thomas autem unus ex du\u00f3decim, qui d\u00edcitur D\u00eddymus, non erat cum eis, quando venit Jesus. Dix\u00e9runt ergo ei alii disc\u00edpuli: V\u00eddimus D\u00f3minum. Ille autem dixit eis: Nisi v\u00eddero in m\u00e1nibus ejus fix\u00faram clav\u00f3rum, et mittam d\u00edgitum meum in locum clav\u00f3rum, et mittam manum meam in latus ejus, non credam. Et post dies octo, \u00edterum erant disc\u00edpuli ejus intus, et Thomas cum eis. Venit Jesus, j\u00e1nuis clausis, et stetit in m\u00e9dio, et dixit: Pax vobis. Deinde dicit Thom\u00e6: Infer d\u00edgitum tuum huc et vide manus meas, et affer manum tuam et mitte in latus meum: et noli esse incr\u00e9dulus, sed fid\u00e9lis. Resp\u00f3ndit Thomas et dixit ei: D\u00f3minus meus et Deus meus. Dixit ei Jesus: Quia vid\u00edsti me, Thoma, credid\u00edsti: be\u00e1ti, qui non vid\u00e9runt, et credid\u00e9runt. Multa quidem et alia signa fecit Jesus in consp\u00e9ctu discipul\u00f3rum su\u00f3rum, qu\u00e6 non sunt scripta in libro hoc. H\u00e6c autem scripta sunt, ut cred\u00e1tis, quia Jesus est Christus, F\u00edlius Dei: et ut cred\u00e9ntes vitam habe\u00e1tis in n\u00f3mine ejus. ."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Mt 28:2; 28:5-6*\nUm anjo do Senhor desceu do c\u00e9u e disse \u00e0s mulheres: \u00abAquele a quem procurais ressuscitou, como havia anunciado\u00bb, aleluia.", 
+            "*Matt 28:2; 28:5-6.*\nAngelus D\u00f3mini desc\u00e9ndit de c\u0153lo, et dixit muli\u00e9ribus: Quem qu\u01fdritis, surr\u00e9xit, sicut dixit, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Aceitai, Senhor, Vos suplicamos, as ofertas que a vossa Igreja alegremente Vos consagra; e, assim como lhe proporcionastes a gra\u00e7a de t\u00e3o grande gozo; concedei-lhe, tamb\u00e9m o fruto da eterna alegria.\nPor nosso Senhor...", 
+            "Suscipe m\u00fanera, D\u00f3mine, qu\u01fdsumus, exsult\u00e1ntis Eccl\u00e9si\u00e6: et, cui causam tanti g\u00e1udii pr\u00e6stit\u00edsti, perp\u00e9tu\u00e6 fructum conc\u00e9de l\u00e6t\u00edti\u00e6.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Alexandre, Papa e M\u00e1rtir *\nAplacai-Vos, Senhor, e dignai-Vos olhar para esta v\u00edtima, que imolamos em vossa honra, a fim de que por ela sejamos preservados de todos os males das guerras e pelo estandarte da Santa Cruz do vosso Filho ven\u00e7amos as ins\u00eddias dos nossos poderosos inimigos, ficando em seguran\u00e7a sob a vossa protec\u00e7\u00e3o.\nPelo mesmo nosso Senhor...", 
+            "* Commemoratio Ss. Alexandri et Sociorum Martyrum *\nSacrif\u00edcium, D\u00f3mine, quod tibi immol\u00e1mus, plac\u00e1tus int\u00e9nde: ut ab omni nos \u00e9ruat bell\u00f3rum nequ\u00edtia, et per vex\u00edllum sanct\u00e6 Crucis F\u00edlii tui, ad conter\u00e9ndas potest\u00e1tis adv\u00e9rs\u00e6 ins\u00eddias, nos in tu\u00e6 protecti\u00f3nis securit\u00e1te const\u00edtuat.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Secreta", 
+        "label": "Comemora\u00e7\u00e3o Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Jo 20:27*\nMete aqui o teu dedo e toca no lugar dos cravos, aleluia; n\u00e3o sejas incr\u00e9dulo, mas fiel, aleluia, aleluia.", 
+            "*Joannes 20:27*\nMitte manum tuam, et cogn\u00f3sce loca clav\u00f3rum, allel\u00faja: et noli esse incr\u00e9dulus, sed fid\u00e9lis, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Vos suplicamos, Senhor, nosso Deus, permiti que estes sacrossantos myst\u00e9rios, que institu\u00edstes para alcan\u00e7armos a regenera\u00e7\u00e3o, sejam nosso rem\u00e9dio salutar no presente e no futuro.\nPor nosso Senhor...", 
+            "Qu\u01fdsumus, D\u00f3mine, Deus noster: ut sacros\u00e1ncta myst\u00e9ria, qu\u00e6 pro reparati\u00f3nis nostr\u00e6 mun\u00edmine contul\u00edsti; et pr\u00e6sens nobis rem\u00e9dium esse f\u00e1cias et fut\u00farum.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Alexandre, Papa e M\u00e1rtir *\nSaciados com o alimento celestial e confortados com a bebida espiritual, Vos suplicamos, \u00f3 Deus omnipotente, defendei da mal\u00edcia do inimigo aqueles que quisestes que triunfassem pelo sagrado Lenho da Cruz de vosso Filho, que \u00e9 a arma de justi\u00e7a que salvou o mundo.\nPelo mesmo nosso Senhor...", 
+            "* Commemoratio Ss. Alexandri et Sociorum Martyrum *\nRepl\u00e9ti alim\u00f3nia c\u0153l\u00e9sti et spirit\u00e1li poculo recre\u00e1ti, qu\u01fdsumus, omn\u00edpotens Deus: ut ab hoste mal\u00edgno def\u00e9ndas, quos per lignum sanct\u00e6 Crucis F\u00edlii tui, arma just\u00edti\u00e6 pro sal\u00fate mundi, triumph\u00e1re juss\u00edsti.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Postcommunio", 
+        "label": "Comemora\u00e7\u00e3o Postcom\u00fanio"
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos vermelhos"
+      ], 
+      "colors": [
+        "r"
+      ], 
+      "date": "2022-02-24", 
+      "description": "", 
+      "id": "sancti:02-24:2:r", 
+      "rank": 2, 
+      "supplements": [], 
+      "tempora": "Quinta-feira da semana da Sexag\u00e9sima", 
+      "title": "S. Matias, Ap\u00f3stolo"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 138:17*\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.\n*Sl 138:1-2*\nSenhor, perscrutastes o meu \u00edntimo e ficastes conhecendo-me: ficastes conhecendo quando me deito e quando me levanto.\nGl\u00f3ria ao Pai.\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.", 
+            "*Ps 138:17*\nMihi autem nimis honor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est princip\u00e1tus e\u00f3rum.\n*Ps 138:1-2.*\nD\u00f3mine, prob\u00e1sti me et cognov\u00edsti me: tu cognov\u00edsti sessi\u00f3nem meam et resurrecti\u00f3nem meam.\nGl\u00f3ria Patri\u2026\nMihi autem nimis honor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est princip\u00e1tus e\u00f3rum."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que agregastes o B. Matias ao col\u00e9gio apost\u00f3lico, concedei-nos, Vos imploramos, que por sua intercess\u00e3o sintamos sempre os efeitos dos abysmos da vossa miseric\u00f3rdia para connosco.\nPor nosso Senhor...", 
+            "Deus, qui be\u00e1tum Matth\u00edam Apostol\u00f3rum tu\u00f3rum coll\u00e9gio soci\u00e1sti: tr\u00edbue, qu\u01fdsumus; ut, ejus interventi\u00f3ne, tu\u00e6 circa nos piet\u00e1tis semper v\u00edscera senti\u00e1mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o dos Actos dos Ap\u00f3stolos.\n*Act 1, 15-26*\nNaqueles dias, levantando-se Pedro no meio dos disc\u00edpulos (era a turba quase cento e vinte pessoas) disse: \u00abVar\u00f5es e irm\u00e3os, \u00e9 preciso que se cumpra a Escritura, segundo o que o Esp\u00edrito Santo predisse pela boca de David a respeito de Judas, que foi o guia daqueles que prenderam Jesus, o qual era um dos nossos e havia recebido participa\u00e7\u00e3o no nosso myst\u00e9rio. Este homem, depois de haver comprado um campo com o pre\u00e7o do seu crime, suspendeu-se pelo pesco\u00e7o e rebentou no meio do corpo, espalhando-se pelo ch\u00e3o. Este acontecimento foi conhecido de todos os habitantes de Jerusal\u00e9m, de modo que aquele campo ficou sendo chamado em sua pr\u00f3pria l\u00edngua \u00abHac\u00e9ldama\u00bb, isto \u00e9, \u00abcampo de sangue\u00bb. Ora est\u00e1 escrito no livro dos Salmos: \u00abQue sua morada fique deserta e n\u00e3o haja quem resida nela, e que outro receba o seu episcopado\u00bb. \u00c9, pois, necess\u00e1rio que entre os homens, que estiveram reunidos connosco durante o tempo em que o Senhor Jesus viveu entre n\u00f3s desde o baptismo de Jo\u00e3o at\u00e9 ao dia em que subiu aos c\u00e9us, um deles seja escolhido como testemunho da sua Ressurrei\u00e7\u00e3o\u00bb. E apresentaram-se dois: Jos\u00e9, chamado Barsab\u00e1s, cognominado o justo, e Matias. Ent\u00e3o, orando, disseram: \u00abV\u00f3s, Senhor, que conheceis o cora\u00e7\u00e3o de todos, mostrai-nos qual destes dois escolhestes para ocupar o lugar neste minist\u00e9rio e apostolado, de que Judas se afastou\u00bb. E lan\u00e7aram-lhes sortes, caindo a sorte em Matias, que foi associado aos Onze Ap\u00f3stolos.", 
+            "L\u00e9ctio Actuum Apostol\u00f3rum\n*Act 1, 15-26.*\nIn di\u00e9bus illis exs\u00fargens Petrus in m\u00e9dio fratrum, dixit - erat autem turba h\u00f3minum simul, fere centum vig\u00ednti -: Viri fratres, op\u00f3rtet impl\u00e9ri Script\u00faram, quam pr\u00e6d\u00edxit Sp\u00edritus Sanctus per os David de Juda, qui fuit dux e\u00f3rum, qui comprehend\u00e9runt Jesum: qui connumer\u00e1tus erat in nobis, et sort\u00edtus est sortem minist\u00e9rii hujus. Et hic quidem poss\u00e9dit agrum de merc\u00e9de iniquit\u00e1tis, et susp\u00e9nsus cr\u00e9puit m\u00e9dius: et diff\u00fasa sunt \u00f3mnia v\u00edscera ejus. Et notum factum est \u00f3mnibus habit\u00e1ntibus Jer\u00fasalem, ita ut appellar\u00e9tur ager ille, lingua e\u00f3rum, Hac\u00e9ldama, hoc est ager s\u00e1nguinis. Scriptum est enim in libro Psalm\u00f3rum: Fiat commor\u00e1tio e\u00f3rum des\u00e9rta, et non sit, qui inh\u00e1bitet in ea: et episcop\u00e1tum ejus acc\u00edpiat alter. Op\u00f3rtet ergo ex his viris, qui nob\u00edscum sunt congreg\u00e1ti in omni t\u00e9mpore, quo intr\u00e1vit et ex\u00edvit inter nos D\u00f3minus Jesus, inc\u00edpiens a bapt\u00edsmate Jo\u00e1nnis usque in diem, qua ass\u00famptus est a nobis, testem resurrecti\u00f3nis ejus nob\u00edscum f\u00ederi unum ex istis. Et statu\u00e9runt duos, Joseph qui vocab\u00e1tur B\u00e1rsabas, qui cognomin\u00e1tus est Justus, et Matth\u00edam. Et or\u00e1ntes dix\u00e9runt: Tu, D\u00f3mine, qui corda nosti \u00f3mnium, ost\u00e9nde, quem el\u00e9geris ex his du\u00f3bus unum, acc\u00edpere locum minist\u00e9rii hujus et apostol\u00e1tus, de quo pr\u00e6varic\u00e1tus est Judas, ut ab\u00edret in locum suum. Et ded\u00e9runt sortes eis, et c\u00e9cidit sors super Matth\u00edam, et annumer\u00e1tus est cum \u00fandecim Ap\u00f3stolis."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 138:17-18*\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.\nV. Hei-de cont\u00e1-los, e ultrapassar\u00e3o os gr\u00e3os de areia.\n*Sl 20:3-4*\nConcedestes-lhe o desejo da sua alma: lhe n\u00e3o negastes o que seus l\u00e1bios Vos pediram.\nV. Premunistes-lo com b\u00ean\u00e7\u00e3o de do\u00e7ura.\nV. Impusestes na sua cabe\u00e7a uma coroa de pedras preciosas.", 
+            "*Ps 138:17-18*\nNimis honor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est principatus e\u00f3rum.\nV. Dinumer\u00e1bo eos, et super ar\u00e9nam multiplicab\u00fantur.\n*Ps 20:3-4*\nDesid\u00e9rium \u00e1nim\u00e6 ejus tribu\u00edsti ei: et volunt\u00e1te labi\u00f3rum ejus non fraud\u00e1sti eum.\nV. Qu\u00f3niam pr\u00e6ven\u00edsti eum in benedicti\u00f3nibus dulc\u00e9dinis.\nV. Posu\u00edsti in c\u00e1pite ejus cor\u00f3nam de l\u00e1pide preti\u00f3so."
+          ]
+        ], 
+        "id": "Tractus", 
+        "label": "Tracto"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Mateus.\n*Mt 11:25-30*\nNaquele tempo, respondendo Jesus, disse: \u00abDou-Vos gra\u00e7as, \u00f3 Pai, Senhor do c\u00e9u e da terra, pois que ocultastes estas coisas aos s\u00e1bios e aos prudentes e as revelastes aos pequenos. Sim, \u00f3 Pai, dou-Vos gra\u00e7as, porque assim o quisestes. Todas as cousas me foram dadas pelo meu Pai; e ningu\u00e9m conhece o Filho sen\u00e3o o Pai, assim como ningu\u00e9m conhece o Pai sen\u00e3o o Filho, e aquele a quem o Filho o quer revelar. Vinde a mim, v\u00f3s todos, que trabalhais e estais sobrecarregados, e vos confortarei. Tomai sobre v\u00f3s o meu jugo e aprendei de mim; pois sou manso e humilde de cora\u00e7\u00e3o; e achareis o repouso para as vossas almas. Meu jugo \u00e9 suave e o meu \u00f3nus \u00e9 leve\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Matth\u01fdum\n*Matt 11:25-30*\nIn illo t\u00e9mpore: Resp\u00f3ndens Jesus, dixit: Conf\u00edteor tibi, Pater, D\u00f3mine coeli et terr\u00e6, quia abscond\u00edsti h\u00e6c a sapi\u00e9ntibus et prud\u00e9ntibus, et revel\u00e1sti ea p\u00e1rvulis. Ita, Pater: qu\u00f3niam sic fuit pl\u00e1citum ante te. Omnia mihi tr\u00e1dita sunt a Patre meo. Et nemo novit F\u00edlium nisi Pater: neque Patrem quis novit nisi F\u00edlius, et cui vol\u00faerit F\u00edlius revel\u00e1re. Ven\u00edte ad me, omnes, qui labor\u00e1tis et oner\u00e1ti estis, et ego ref\u00edciam vos. T\u00f3llite jugum meum super vos, et d\u00edscite a me, quia mitis sum et h\u00familis corde: et inveni\u00e9tis r\u00e9quiem anim\u00e1bus vestris. Jugum enim meum su\u00e1ve est et onus meum leve."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 44:17-18*\nV\u00f3s os institu\u00edstes pr\u00edncipes em toda a terra. \u00d3 Senhor, eles perpetuar\u00e3o de gera\u00e7\u00e3o em gera\u00e7\u00e3o a gl\u00f3ria do vosso nome.", 
+            "*Ps 44:17-18.*\nConst\u00edtues eos pr\u00edncipes super omnem terram: m\u00e9mores erunt n\u00f3minis tui, D\u00f3mine, in omni prog\u00e9nie et generati\u00f3ne."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Senhor, que as h\u00f3stias, que Vos oferecemos para serem consagradas em honra do vosso Santo Nome, sejam acompanhadas pela ora\u00e7\u00e3o do vosso santo Ap\u00f3stolo Matias, em virtude da qual sejamos purificados e livres do mal.\nPor nosso Senhor...", 
+            "H\u00f3stias tibi, D\u00f3mine, quas n\u00f3mini tuo sacr\u00e1ndas off\u00e9rimus, sancti Matth\u00ed\u00e6 Ap\u00f3stoli tui prosequ\u00e1tur or\u00e1tio: per quam nos expi\u00e1ri f\u00e1cias et def\u00e9ndi.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*dos Ap\u00f3stolos*\n\u00c9 verdadeiramente digno e justo, racional e salutar suplicar-Vos humildemente, Senhor, que, como Pastor eterno, que sois, n\u00e3o abandoneis o vosso rebanho, mas antes, por intercess\u00e3o dos vossos bem-aventurados Ap\u00f3stolos, o guardeis sob a vossa perp\u00e9tua protec\u00e7\u00e3o, a fim de que seja sempre governado pelos mesmos Directores, que, encarregados como Vig\u00e1rios de perpetuar a vossa obra, designastes seus Pastores. E, por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos um hino \u00e0 vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*de Apostolis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te, D\u00f3mine, suppl\u00edciter exor\u00e1re, ut gregem tuum, Pastor \u00e6t\u00e9rne, non d\u00e9seras: sed per be\u00e1tos Ap\u00f3stolos tuos cont\u00ednua protecti\u00f3ne cust\u00f3dias. Ut i\u00edsdem rect\u00f3ribus gubern\u00e9tur, quos \u00f3peris tui vic\u00e1rios e\u00eddem contul\u00edsti pr\u00e6\u00e9sse past\u00f3res. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Mt 19:28*\nV\u00f3s, que me seguistes, assentar-vos-eis em tronos e julgareis as doze tribos de Israel.", 
+            "*Matt 19:28.*\nVos, qui sec\u00fati estis me, sed\u00e9bitis super sedes, judic\u00e1ntes du\u00f3decim tribus Isra\u00ebl."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Concedei-nos, Vos imploramos, \u00f3 Deus omnipotente, que os sacrossantos myst\u00e9rios, de que particip\u00e1mos, nos alcancem por intercess\u00e3o do B. Matias, vosso Ap\u00f3stolo, o perd\u00e3o e a paz.\nPor nosso Senhor...", 
+            "Pr\u00e6sta, qu\u01fdsumus, omn\u00edpotens Deus: ut per h\u00e6c sancta, qu\u00e6 s\u00fampsimus, interveni\u00e9nte be\u00e1to Matth\u00eda Ap\u00f3stolo tuo, v\u00e9niam consequ\u00e1mur et pacem.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

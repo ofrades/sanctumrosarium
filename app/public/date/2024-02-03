@@ -1,0 +1,149 @@
+[
+  {
+    "info": {
+      "additional_info": [], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2024-02-03", 
+      "description": "\nComemora\u00e7\u00e3o S. Br\u00e1s, Bispo e M\u00e1rtir.", 
+      "id": "tempora:C10c:4:w", 
+      "rank": 4, 
+      "supplements": [], 
+      "tempora": "S\u00e1bado da semana da Septuag\u00e9sima", 
+      "title": "3\u00ba Missa da Virgem Maria \u2013 Salve, Sancta Parens"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "Salve, \u00f3 Santa Maria, em cujo seio foi gerado o Rei que governa o c\u00e9u e a terra, em todos os s\u00e9culos dos s\u00e9culos.\n*Sl 44:2*\nMeu cora\u00e7\u00e3o exprimiu uma excelente palavra: Consagro ao Rei as minhas obras!\nGl\u00f3ria ao Pai.\nSalve, \u00f3 Santa Maria, em cujo seio foi gerado o Rei que governa o c\u00e9u e a terra, em todos os s\u00e9culos dos s\u00e9culos.", 
+            "*Sedulius.*\nSalve, sancta Parens, en\u00edxa pu\u00e9rpera Regem: qui c\u0153lum terr\u00e1mque regit in s\u01fdcula s\u00e6cul\u00f3rum.\n*Ps 44:2*\nEruct\u00e1vit cor meum verbum bonum: dico ego \u00f3pera mea Regi.\nGl\u00f3ria Patri\u2026\nSalve, sancta Parens, en\u00edxa pu\u00e9rpera Regem: qui c\u0153lum terr\u00e1mque regit in s\u01fdcula s\u00e6cul\u00f3rum."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Concedei aos vossos servos, Senhor Deus, Vos suplicamos, o gozo da perp\u00e9tua sa\u00fade da alma e do corpo, e que pela gloriosa intercess\u00e3o da B. Maria, sempre Virgem, sejamos livres das tristezas dos tempos presentes e alcancemos o gozo da eterna alegria.\nPor nosso Senhor...", 
+            "Conc\u00e9de nos f\u00e1mulos tuos, qu\u01fdsumus, D\u00f3mine Deus, perp\u00e9tua mentis et c\u00f3rporis sanit\u00e1te gaud\u00e9re: et, glori\u00f3sa be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis intercessi\u00f3ne, a pr\u00e6s\u00e9nti liber\u00e1ri trist\u00edtia, et \u00e6t\u00e9rna p\u00e9rfrui l\u00e6t\u00edtia.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Br\u00e1s, Bispo e M\u00e1rtir *\n\u00d3 Deus, que nos alegrais com a solenidade anual do B. Br\u00e1s, vosso M\u00e1rtir e Pont\u00edfice, concedei-nos prop\u00edcio que, assim como celebramos o seu nascimento, assim tamb\u00e9m gozemos a sua protec\u00e7\u00e3o.\nPor nosso Senhor...", 
+            "* Commemoratio S. Blasii Episcopi *\nDeus, qui nos be\u00e1ti Bl\u00e1sii M\u00e1rtyris tui atque Pont\u00edficis \u00e1nnua solemnit\u00e1te l\u00e6t\u00edficas: conc\u00e9de prop\u00edtius; ut cujus natal\u00edtia c\u00f3limus, de ei\u00fasdem \u00e9tiam protecti\u00f3ne gaude\u00e1mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Oratio", 
+        "label": "Comemora\u00e7\u00e3o Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro da Sabedoria.\n*Sb 24:14-16*\nFui criada desde o princ\u00edpio, antes de todos os s\u00e9culos, e n\u00e3o deixarei de existir at\u00e9 \u00e0 eternidade. Exerci perante Ele o meu myst\u00e9rio; e deste modo tenho habita\u00e7\u00e3o fixa em Si\u00e3o. Ele deixa-me descansar na cidade santa e tenho poder em Jerusal\u00e9m. Arraiguei-me em um povo glorioso, da parte do meu Deus e da sua heran\u00e7a, e permane\u00e7o na companhia dos santos.", 
+            "L\u00e9ctio libri Sapi\u00e9nti\u00e6.\n*Eccli 24:14-16*\nAb in\u00edtio et ante s\u01fdcula cre\u00e1ta sum, et usque ad fut\u00farum s\u01fdculum non d\u00e9sinam, et in habitati\u00f3ne sancta coram ipso ministr\u00e1vi. Et sic in Sion firm\u00e1ta sum, et in civit\u00e1te sanctific\u00e1ta sim\u00edliter requi\u00e9vi, et in Jer\u00fasalem pot\u00e9stas mea. Et radic\u00e1vi in p\u00f3pulo honorific\u00e1to, et in parte Dei mei her\u00e9ditas ill\u00edus, et in plenit\u00fadine sanct\u00f3rum det\u00e9ntio mea."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Bendita e vener\u00e1vel sois, \u00f3 Virgem Maria, que fostes M\u00e3e do Salvador sem que a vossa pureza sofresse a mais leve ofensa.\nV. \u00d3 Virgem, M\u00e3e de Deus, Aquele que nem todo o universo \u00e9 capaz de conter, esteve encerrado, quando se fez homem, no vosso seio.\nRegozijai-vos, \u00f3 Virgem Maria, pois s\u00f3 v\u00f3s fostes capaz de destruir todas as heresias.\nV. Acreditastes nas palavras do Arcanjo Gabriel.\nV. Sendo Virgem, gerastes o Homem-Deus; e, depois de haverdes dado \u00e0 luz, permanecestes Virgem Imaculada.\nV. Intercedei por n\u00f3s, \u00f3 M\u00e3e de Deus!", 
+            "Bened\u00edcta et vener\u00e1bilis es, Virgo Mar\u00eda: qu\u00e6 sine tactu pud\u00f3ris inv\u00e9nta es Mater Salvat\u00f3ris.\nV. Virgo, Dei G\u00e9netrix, quem totus non capit orbis, in tua se clausit v\u00edscera factus homo.\nGaude, Mar\u00eda Virgo, cunctas h\u01fdreses sola interem\u00edsti.\nV. Qu\u00e6 Gabri\u00e9lis Arch\u00e1ngeli dictis credid\u00edsti.\nV. Dum Virgo Deum et h\u00f3minem genu\u00edsti: et post partum, Virgo, inviol\u00e1ta permans\u00edsti.\nV. Dei G\u00e9netrix, interc\u00e9de pro nobis."
+          ]
+        ], 
+        "id": "Tractus", 
+        "label": "Tracto"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Lucas.\n*Lc 11:27-28*\nNaquele tempo, falando Jesus \u00e0s turbas, eis que uma mulher, elevando a voz no meio da multid\u00e3o, Lhe disse: \u00abBem-aventurado o seio que Vos trouxe; bem-aventurados os peitos que Vos amamentaram\u00bb. E Jesus respondeu, dizendo: \u00abBem-aventurados, antes, aqueles que ouvem a palavra de Deus e a cumprem.\u00bb", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam\n*Luc 11:27-28*\nIn illo t\u00e9mpore: Loqu\u00e9nte Jesu ad turbas, ext\u00f3llens vocem qu\u00e6dam m\u00falier de turba, dixit illi: Be\u00e1tus venter, qui te port\u00e1vit, et \u00fabera, qu\u00e6 sux\u00edsti. At ille dixit: Quin\u00edmmo be\u00e1ti, qui \u00e1udiunt verbum Dei, et cust\u00f3diunt illud."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "Sois feliz e digna de todos os louvores, \u00f3 Santa Virgem Maria, pois de v\u00f3s nasceu o \u00absol da justi\u00e7a\u00bb, Cristo, Senhor nosso.", 
+            "Felix namque es, sacra Virgo Mar\u00eda, et omni laude dign\u00edssima: quia ex te ortus est sol just\u00edti\u00e6, Christus, Deus noster."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Pela vossa miseric\u00f3rdia, Senhor, e pela intercess\u00e3o da B. Maria, sempre Virgem, permiti que esta obla\u00e7\u00e3o nos assegure agora e sempre a prosperidade e a paz.\nPor nosso Senhor...", 
+            "Tua, D\u00f3mine, propitiati\u00f3ne, et be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis intercessi\u00f3ne, ad perp\u00e9tuam atque pr\u00e6s\u00e9ntem h\u00e6c obl\u00e1tio nobis prof\u00edciat prosperit\u00e1tem et pacem.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Br\u00e1s, Bispo e M\u00e1rtir *\nSantificai, Senhor, estes dons que Vos s\u00e3o oferecidos, e, por intercess\u00e3o do B. N. vosso M\u00e1rtir e Pont\u00edfice, olhai aplacado para n\u00f3s.\nPor nosso Senhor...", 
+            "* Commemoratio S. Blasii Episcopi *\nM\u00fanera tibi, D\u00f3mine, dic\u00e1ta sanct\u00edfica: et, interced\u00e9nte be\u00e1to N. M\u00e1rtyre tuo atque Pont\u00edfice, per \u00e9adem nos plac\u00e1tus int\u00e9nde.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Secreta", 
+        "label": "Comemora\u00e7\u00e3o Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da B. Virgem Maria*\n\u00c9 verdadeiramente digno e justo, racional e salutar render-Vos gra\u00e7as em todos os lugares e sempre, \u00f3 Senhor santo, Pai omnipotente, eterno Deus, e de sempre Vos louvar, bendizer e anunciar da Bem-aventurada Maria, sempre Virgem. Foi ela quem concebeu o vosso Filho Unig\u00e9nito por obra do Esp\u00edrito Santo, e, sem a mais leve perda de gl\u00f3ria da virgindade, deu ao mundo a Luz eterna, Jesus Cristo, nosso Senhor, por quem os Anjos louvam a vossa majestade, as Domina\u00e7\u00f5es a adoram, as Potestades a reverenciam, os C\u00e9us, as Virtudes dos c\u00e9us e os bem-aventurados Serafins a festejam em transportes de alegria. E, Vos imploramos, permiti que unamos as nossas vozes \u00e0s de todos estes, dizendo em suplicante confiss\u00e3o:", 
+            "*de Beata Maria Virgine*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper et ubique gr\u00e1tias \u00e1gere: D\u00f3mine sancte, Pater omn\u00edpotens, \u00e6t\u00e9rne Deus: Et te in *Festivit\u00e1te* be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis collaud\u00e1re, bened\u00edcere et pr\u00e6dic\u00e1re. Qu\u00e6 et Unig\u00e9nitum tuum Sancti Sp\u00edritus obumbrati\u00f3ne conc\u00e9pit: et, virginit\u00e1tis gl\u00f3ria perman\u00e9nte, lumen \u00e6t\u00e9rnum mundo eff\u00fadit, Jesum Christum, D\u00f3minum nostrum. Per quem majest\u00e1tem tuam laudant Angeli, ad\u00f3rant Dominati\u00f3nes, tremunt Potest\u00e1tes. Coeli coelor\u00famque Virt\u00fates ac be\u00e1ta S\u00e9raphim s\u00f3cia exsultati\u00f3ne conc\u00e9lebrant. Cum quibus et nostras voces ut admitti jubeas, deprec\u00e1mur, s\u00fapplici confessi\u00f3ne dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "Bem-aventuradas as entranhas da Virgem Maria, que trouxeram encerrado o Filho do Pai Eterno.", 
+            "Be\u00e1ta v\u00edscera Mar\u00ed\u00e6 V\u00edrginis, qu\u00e6 portav\u00e9runt \u00e6t\u00e9rni Patris F\u00edlium."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Havendo n\u00f3s, Senhor, alcan\u00e7ado o poderoso aux\u00edlio da nossa salva\u00e7\u00e3o, concedei-nos, Vos imploramos, que sejamos protegidos com o patroc\u00ednio da B. Maria, sempre Virgem, em cuja honra oferecemos \u00e0 vossa majestade este sacrif\u00edcio.\nPor nosso Senhor...", 
+            "Sumptis, D\u00f3mine, sal\u00fatis nostr\u00e6 subs\u00eddiis: da, qu\u01fdsumus, be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis patroc\u00edniis nos ub\u00edque pr\u00f3tegi; in cujus venerati\u00f3ne h\u00e6c tu\u00e6 obt\u00falimus majest\u00e1ti.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o S. Br\u00e1s, Bispo e M\u00e1rtir *\nQue esta comunh\u00e3o, Senhor, nos purifique de todos nossos crimes, e, por intercess\u00e3o do B. N., vosso M\u00e1rtir e Pont\u00edfice, nos torne participante do rem\u00e9dio celestial.\nPor nosso Senhor...", 
+            "* Commemoratio S. Blasii Episcopi *\nH\u00e6c nos comm\u00fanio, D\u00f3mine, purget a cr\u00edmine: et, interced\u00e9nte be\u00e1to N. M\u00e1rtyre tuo atque Pont\u00edfice, coel\u00e9stis rem\u00e9dii f\u00e1ciat esse cons\u00f3rtes.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Postcommunio", 
+        "label": "Comemora\u00e7\u00e3o Postcom\u00fanio"
+      }
+    ]
+  }
+]

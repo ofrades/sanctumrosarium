@@ -1,0 +1,122 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em Santa Maria Maior", 
+        "Paramentos roxos"
+      ], 
+      "colors": [
+        "v"
+      ], 
+      "date": "2023-12-24", 
+      "description": "", 
+      "id": "sancti:12-24:1:v", 
+      "rank": 1, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Vig\u00edlia Natal de N. S. Jesus Cristo"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Ex 16:6; 16:7*\nSabereis hoje que o Senhor vir\u00e1 e nos salvar\u00e1: e amanh\u00e3 vereis a sua gl\u00f3ria.\n*Sl 23:1*\nPertence ao Senhor a terra e tudo o que ela encerra: o orbe da terra e todos que nele habitam.\nGl\u00f3ria ao Pai.\nSabereis hoje que o Senhor vir\u00e1 e nos salvar\u00e1: e amanh\u00e3 vereis a sua gl\u00f3ria.", 
+            "*Exod 16:6; 16:7*\nH\u00f3die sci\u00e9tis, quia v\u00e9niet D\u00f3minus et salv\u00e1bit nos: et mane vid\u00e9bitis gl\u00f3riam ejus\n*Ps 23:1*\nD\u00f3mini est terra, et plenit\u00fado ejus: orbis terr\u00e1rum, et univ\u00e9rsi, qui h\u00e1bitant in eo.\nGl\u00f3ria Patri\u2026\nH\u00f3die sci\u00e9tis, quia v\u00e9niet D\u00f3minus et salv\u00e1bit nos: et mane vid\u00e9bitis gl\u00f3riam ejus"
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que nos alegrais cada ano com a expecta\u00e7\u00e3o da nossa reden\u00e7\u00e3o, dignai-Vos conceder-nos que, recebendo n\u00f3s com alegria o vosso Filho Unig\u00e9nito, N. S. Jesus Cristo, quando vem a n\u00f3s como Redentor, assim possamos igualmente receb\u00ea-l\u2019O com tranquilidade quando Ele vier como Juiz:\nQue convosco vive...", 
+            "Deus, qui nos redempti\u00f3nis nostr\u00e6 \u00e1nnua exspectati\u00f3ne l\u00e6t\u00edficas: pr\u00e6sta; ut Unig\u00e9nitum tuum, quem Redempt\u00f3rem l\u00e6ti susc\u00edpimus, veni\u00e9ntem quoque J\u00fadicem sec\u00fari vide\u00e1mus, D\u00f3minum nostrum Jesum Christum, F\u00edlium tuum:\nQui tecum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo aos Romanos.\n*Rm 1:1-6*\nPaulo, servo de Jesus Cristo, ap\u00f3stolo por voca\u00e7\u00e3o divina, escolhido para pregar o Evangelho, que Deus havia prometido pelos seus Profetas nas Sagradas Escrituras a respeito de seu Filho (que nasceu da gera\u00e7\u00e3o de David, segundo a carne, e foi predestinado Filho de Deus, com o poder, segundo o Esp\u00edrito de santidade, para ressuscitar dos mortos) N. S. Jesus Cristo, de quem recebemos a gra\u00e7a e o apostolado para chamar em seu nome \u00e0 obedi\u00eancia da f\u00e9 todas as na\u00e7\u00f5es, das quais v\u00f3s, que tamb\u00e9m fostes chamados, fazeis parte.", 
+            "Lectio Ep\u00edstol\u00e6 beati Pauli Apostoli ad Rom\u00e1nos\n*Rom 1:1-6*\nPaulus, servus Jesu Christi, voc\u00e1tus Ap\u00f3stolus, segreg\u00e1tus in Evang\u00e9lium Dei, quod ante prom\u00edserat per Proph\u00e9tas suos in Script\u00faris sanctis de F\u00edlio suo, qui factus est ei ex s\u00e9mine David sec\u00fandum carnem: qui pr\u00e6destin\u00e1tus est F\u00edlius Dei in virt\u00fate sec\u00fandum sp\u00edritum sanctificati\u00f3nis ex resurrecti\u00f3ne mortu\u00f3rum Jesu Christi, D\u00f3mini nostri: per quem acc\u00e9pimus gr\u00e1tiam, et apostol\u00e1tum ad oboedi\u00e9ndum f\u00eddei in \u00f3mnibus g\u00e9ntibus pro n\u00f3mine ejus, in quibus estis et vos voc\u00e1ti Jesu Christi, D\u00f3mini nostri."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Ex 16:6; 16:7*\nSabereis hoje que o Senhor vir\u00e1 e nos salvar\u00e1: e amanh\u00e3 vereis a sua gl\u00f3ria.\n*Sl 79:2-3*\nOuvi, \u00f3 pastores de Israel: \u00f3 v\u00f3s, que conduzis Jos\u00e9, como um pastor conduz uma ovelha. Manifestai-Vos ante Efraim, Benjamim e Manass\u00e9s, \u00f3 V\u00f3s, que tendes um trono acima dos Querubins!", 
+            "*Exod 16:6; 16:7*\nH\u00f3die sci\u00e9tis, quia v\u00e9niet D\u00f3minus et salv\u00e1bit nos: et mane vid\u00e9bitis gl\u00f3riam ejus.\n*Ps 79:2-3*\nQui regis Isra\u00ebl, int\u00e9nde: qui ded\u00facis, velut ovem, Joseph: qui sedes super Ch\u00e9rubim, app\u00e1re coram Ephraim, B\u00e9njamin, et Man\u00e1sse."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Mateus.\n*Mt 1:18-21*\nEstando j\u00e1 Maria, M\u00e3e de Jesus, desposada com Jos\u00e9, notou-se, antes que eles tivessem coabitado, que ela havia concebido do Esp\u00edrito Santo. Mas Jos\u00e9, seu marido, que era homem justo, n\u00e3o queria difam\u00e1-la. Resolveu, pois, deix\u00e1-la secretamente. Pensando ele nisto, eis que um Anjo do Senhor lhe apareceu em sonhos e lhe disse: \u00abJos\u00e9, filho de David, n\u00e3o temas receber Maria como tua esposa, porquanto o que ela concebeu \u00e9 obra do Esp\u00edrito Santo. Ela dar\u00e1 \u00e0 luz um Filho e ser-Lhe-\u00e1 dado o nome de Jesus; pois Ele salvar\u00e1 o povo dos seus pecados\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii secundum Matth\u01fdum.\n*Matt 1:18-21*\nCum esset despons\u00e1ta Mater Jesu Maria Joseph, \u00e1ntequam conven\u00edrent, inventa est in \u00fatero habens de Spiritu Sancto. Joseph autem, vir ejus, cum esset justus et nollet eam trad\u00facere, v\u00f3luit occ\u00falte dim\u00edttere eam. H\u00e6c autem eo cogit\u00e1nte, ecce, Angelus D\u00f3mini app\u00e1ruit in somnis ei, dicens: Joseph, fili David, noli tim\u00e9re acc\u00edpere Mar\u00edam c\u00f3njugem tuam: quod enim in ea natum est, de Sp\u00edritu Sancto est. P\u00e1riet autem f\u00edlium, et voc\u00e1bis nomen ejus Jesum: ipse enim salvum f\u00e1ciet p\u00f3pulum suum a pecc\u00e1tis e\u00f3rum."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 23:7*\nAbri-vos inteiramente, \u00f3 portas, e entrar\u00e1 o Rei da gl\u00f3ria.", 
+            "*Ps 23:7*\nT\u00f3llite portas, principes, vestras: et elev\u00e1mini, port\u00e6 \u00e6tern\u00e1les, et intro\u00edbit Rex gl\u00f3ri\u00e6."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Dignai-Vos permitir, \u00f3 Deus omnipotente, Vos suplicamos, que, assim como prevenimos o ador\u00e1vel nascimento do vosso Filho, assim tamb\u00e9m recebamos com alegria os dons eternos d\u2019Aquele que,\nQue convosco vive...", 
+            "Da nobis, qu\u01fdsumus, omn\u00edpotens Deus: ut, sicut ador\u00e1nda F\u00edlii tui natal\u00edtia pr\u00e6ven\u00edmus, sic ejus m\u00fanera capi\u00e1mus sempit\u00e9rna gaud\u00e9ntes:\nQui tecum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*Comum*\n\u00c9 verdadeiramente digno e justo, racional e salutar render-Vos gra\u00e7as em todos os lugares e sempre, \u00f3 Senhor santo, Pai omnipotente, eterno Deus, por nosso Senhor Jesus Cristo. Pelo qual os Anjos louvam a vossa majestade, as Domina\u00e7\u00f5es a adoram e as Potestades se prostram reverentes; e os C\u00e9us, as Virtudes dos c\u00e9us e os bem-aventurados Serafins a celebram em comum alegria e louvor. Dignai-Vos permitir, Vos imploramos, que as nossas vozes suplicantes se unam \u00e0s deles, dizendo:", 
+            "*Communis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper et ub\u00edque gr\u00e1tias agere: D\u00f3mine sancte, Pater omn\u00edpotens, \u00e6t\u00e9rne Deus: per Christum, D\u00f3minum nostrum. Per quem majest\u00e1tem tuam laudant Angeli, ad\u00f3rant Dominati\u00f3nes, tremunt Potest\u00e1tes. Coeli coelor\u00famque Virt\u00fates ac be\u00e1ta S\u00e9raphim s\u00f3cia exsultati\u00f3ne conc\u00e9lebrant. Cum quibus et nostras voces ut admitti jubeas, deprec\u00e1mur, s\u00fapplici confessione dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Is 40:5*\nA gl\u00f3ria do Senhor vai manifestar-se: e toda a carne ver\u00e1 o Salvador que o nosso Deus nos manda.", 
+            "*Isa 40:5*\nRevel\u00e1bitur gl\u00f3ria D\u00f3mini: et vid\u00e9bit omnis caro salut\u00e1re Dei nostri."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Concedei-nos, Senhor, Vos suplicamos, que possamos respirar com alegria, celebrando o nascimento de vosso Filho Unig\u00e9nito, cujo celestial myst\u00e9rio nos alimenta e conforta.\nPelo mesmo nosso Senhor...", 
+            "Da nobis, qu\u01fdsumus, D\u00f3mine: unig\u00e9niti F\u00edlii tui recens\u00edta nativit\u00e1te respir\u00e1re; cujus coel\u00e9sti myst\u00e9rio p\u00e1scimur et pot\u00e1mur.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

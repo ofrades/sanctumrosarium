@@ -1,0 +1,132 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em Santa Maria Maior", 
+        "Paramentos roxos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2023-04-09", 
+      "description": "", 
+      "id": "tempora:Pasc0-0:1:w", 
+      "rank": 1, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Domingo da Ressurrei\u00e7\u00e3o"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl. 1:38; 1:18; 1:5-6*\nRessuscitei e ainda estou convosco, aleluia. Pusestes sobre mim a vossa m\u00e3o, aleluia. Vossa sabedoria mostrou-se admir\u00e1vel, aleluia, aleluia.\n*Sl. 138. 1, 2*\nExperimentastes-me, Senhor, e ficastes-me conhecendo: Ficastes conhecendo quando me deito e quando me levanto.\nGl\u00f3ria ao Pai.\nRessuscitei e ainda estou convosco, aleluia. Pusestes sobre mim a vossa m\u00e3o, aleluia. Vossa sabedoria mostrou-se admir\u00e1vel, aleluia, aleluia.", 
+            "*Ps 138:18; 138:5-6.*\nResurr\u00e9xi, et adhuc tecum sum, allel\u00faja: posu\u00edsti super me manum tuam, allel\u00faja: mir\u00e1bilis facta est sci\u00e9ntia tua, allel\u00faja, allel\u00faja.\n*Ps 138:1-2.*\nD\u00f3mine, prob\u00e1sti me et cognov\u00edsti me: tu cognov\u00edsti sessi\u00f3nem meam et resurrecti\u00f3nem meam.\nGl\u00f3ria Patri\u2026\nResurr\u00e9xi, et adhuc tecum sum, allel\u00faja: posu\u00edsti super me manum tuam, allel\u00faja: mir\u00e1bilis facta est sci\u00e9ntia tua, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que neste dia pelo triunfo do vosso Filho Unig\u00e9nito, vencedor da morte, nos abristes o caminho da eternidade, auxiliai-nos com vosso socorro a realizar os votos que nos inspirais com vossa gra\u00e7a.\nPelo mesmo nosso Senhor...", 
+            "Deus, qui hodi\u00e9rna die per Unig\u00e9nitum tuum \u00e6ternit\u00e1tis nobis \u00e1ditum, dev\u00edcta morte, reser\u00e1sti: vota nostra, qu\u00e6 pr\u00e6veni\u00e9ndo asp\u00edras, \u00e9tiam adjuv\u00e1ndo pros\u00e9quere.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo aos Cor\u00edntios.\n*1 Cor 5:7-8*\nMeus irm\u00e3os: Agora, que j\u00e1 sois \u00e1zimos, limpai-vos do fermento velho, para que vos torneis massa nova; pois Cristo, nossa P\u00e1scoa, foi imolado. Celebremos, ent\u00e3o, a festa, n\u00e3o com o fermento da mal\u00edcia e perversidade, mas com os \u00e1zimos da sinceridade e verdade.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Pauli Ap\u00f3stoli ad Corinthios.\n*1 Cor 5:7-8*\nFratres: Expurg\u00e1te vetus ferm\u00e9ntum, ut sitis nova consp\u00e9rsio, sicut estis \u00e1zymi. Etenim Pascha nostrum immol\u00e1tus est Christus. Itaque epul\u00e9mur: non in ferm\u00e9nto v\u00e9teri, neque in ferm\u00e9nto mal\u00edti\u00e6 et nequiti\u00e6: sed in \u00e1zymis sincerit\u00e1tis et verit\u00e1tis."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia, aleluia.\n*Sl. 117:24; 117:1*\nEis o dia que o Senhor fez: exultemos e alegremo-nos n\u2019Ele.\nV. Louvai o Senhor, porque Ele \u00e9 bom: e porque a sua miseric\u00f3rdia \u00e9 eterna.\n*1 Cor. 5. 7*\nCristo nossa P\u00e1scoa, foi imolado.", 
+            "Allel\u00faja, allel\u00faja.\n*Ps. 117:24; 117:1*\nH\u00e6c dies, quam fecit D\u00f3minus: exsult\u00e9mus et l\u00e6t\u00e9mur in ea.\nV. Confit\u00e9mini D\u00f3mino, qu\u00f3niam bonus: qu\u00f3niam in s\u01fdculum miseric\u00f3rdia ejus. Allel\u00faja, allel\u00faja.\n*1 Cor 5:7*\nV. Pascha nostrum immol\u00e1tus est Christus."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Venham os crist\u00e3os oferecer louvores \u00e0 V\u00edtima Pascal!\nO Cordeiro remiu as ovelhas; Cristo inocente reconciliou os pecadores com o Pai.\nA morte e a vida travaram combate estupendo: o autor da vida morreu, mas Ele vive e reina.\nDiz-nos, \u00f3 Maria, o que viste no caminho?\nVi o sepulcro de Cristo, que est\u00e1 vivo; vi a gl\u00f3ria de Cristo ressuscitado.\nVi presentes os Anjos, o sud\u00e1rio e as vestes.\nRessuscitou Cristo, minha esperan\u00e7a, que preceder\u00e1 na Galileia os disc\u00edpulos.\nSabemos que Cristo ressuscitou dos mortos, verdadeiramente. \u00d3 Rei vencedor, tende piedade de n\u00f3s. Amen. Aleluia.", 
+            "V\u00edctim\u00e6 pasch\u00e1li laudes \u00edmmolent Christi\u00e1ni.\nAgnus r\u00e9demit oves: Christus \u00ednnocens Patri reconcili\u00e1vit peccat\u00f3res.\nMors et vita du\u00e9llo conflix\u00e9re mir\u00e1ndo: dux vit\u00e6 m\u00f3rtuus regnat vivus.\nDic nobis, Mar\u00eda, quid vid\u00edsti in via?\nSep\u00falcrum Christi viv\u00e9ntis et gl\u00f3riam vidi resurg\u00e9ntis.\nAng\u00e9licos testes, sud\u00e1rium et vestes.\nSurr\u00e9xit Christus, spes mea: pr\u00e6c\u00e9det vos in Galil\u01fdam.\nScimus Christum surrex\u00edsse a m\u00f3rtuis vere: tu nobis, victor Rex, miser\u00e9re. Amen. Allel\u00faja.\n*Sequentia dicitur usque ad Sabbatum in Albis inclusive.*"
+          ]
+        ], 
+        "id": "Sequentia", 
+        "label": "Sequ\u00eancia"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Marcos.\n*Mc 16:1-7*\nNaquele tempo, Maria Madalena, Maria, m\u00e3e de Tiago, e Salom\u00e9 compraram perfumes para ungir Jesus. Partindo, pois, de manh\u00e3 cedo, no primeiro dia depois do s\u00e1bado, chegaram ao sepulcro, tendo j\u00e1 nascido o sol. E diziam umas \u00e0s outras: \u00abQuem nos tirar\u00e1 a pedra da entrada do sepulcro?\u00bb. Olhando, ent\u00e3o, viram que a pedra estava desviada para o lado: a qual, com efeito, era muito grande. Entrando no sepulcro, viram um jovem, assentado ao lado direito, vestido com uma t\u00fanica branca. Ficaram at\u00f3nitas! Mas o jovem disse-lhes: \u00abN\u00e3o tenhais medo! Procurais a Jesus Nazareno, que foi crucificado? Ressuscitou, n\u00e3o est\u00e1 aqui: eis o lugar onde fora colocado! Ide, pois, dizer a seus disc\u00edpulos e a Pedro, que Ele vos precede na Galileia e l\u00e1 O vereis, como vos disse\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Marcum.\n*Marc 16:1-7.*\nIn illo t\u00e9mpore: Mar\u00eda Magdal\u00e9ne et Mar\u00eda Jac\u00f3bi et Sal\u00f3me em\u00e9runt ar\u00f3mata, ut veni\u00e9ntes \u00fangerent Jesum. Et valde mane una sabbat\u00f3rum, veniunt ad monum\u00e9ntum, orto jam sole. Et dic\u00e9bant ad \u00ednvicem: Quis rev\u00f3lvet nobis l\u00e1pidem ab \u00f3stio monum\u00e9nti? Et respici\u00e9ntes vid\u00e9runt revol\u00fatum l\u00e1pidem. Erat quippe magnus valde. Et intro\u00eb\u00fantes in monum\u00e9ntum vid\u00e9runt j\u00favenem sed\u00e9ntem in dextris, coop\u00e9rtum stola c\u00e1ndida, et obstupu\u00e9runt. Qui dicit illis: Nol\u00edte expav\u00e9scere: Jesum qu\u01fdritis Nazar\u00e9num, crucif\u00edxum: surr\u00e9xit, non est hic, ecce locus, ubi posu\u00e9runt eum. Sed ite, d\u00edcite disc\u00edpulis ejus et Petro, quia pr\u00e6c\u00e9dit vos in Galil\u01fdam: ibi eum vid\u00e9bitis, sicut dixit vobis."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl. 75:9-10.*\nA terra tremeu e aquietou-se, logo que Deus se ergueu para a julgar, aleluia.", 
+            "*Ps. 75:9-10.*\nTerra tr\u00e9muit, et qui\u00e9vit, dum res\u00fargeret in jud\u00edcio Deus, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Senhor, dignai-Vos aceitar com a oferta destas h\u00f3stias as preces do vosso povo, para que os myst\u00e9rios da P\u00e1scoa, agora iniciados, nos sirvam, com vosso aux\u00edlio, de rem\u00e9dio para a eternidade.\nPor nosso Senhor...", 
+            "S\u00fascipe, qu\u01fdsumus, D\u00f3mine, preces p\u00f3puli tui cum oblati\u00f3nibus hosti\u00e1rum: ut, Pasch\u00e1libus initi\u00e1ta myst\u00e9riis, ad \u00e6ternit\u00e1tis nobis med\u00e9lam, te oper\u00e1nte, prof\u00edciant.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*1 Cor 5:7-8*\nCristo, nossa P\u00e1scoa, foi imolado, aleluia. Celebremos, pois, a P\u00e1scoa com os \u00e1zimos da sinceridade e verdade, aleluia, aleluia, aleluia.", 
+            "*1 Cor 5:7-8*\nPascha nostrum immol\u00e1tus est Christus, allel\u00faja: itaque epul\u00e9mur in \u00e1zymis sincerit\u00e1tis et verit\u00e1tis, allel\u00faja, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Infundi em n\u00f3s, Senhor, o esp\u00edrito da vossa caridade, para que todos aqueles que foram alimentados com vossos sacramentos nesta festa pascal vivam unidos em perfeita conc\u00f3rdia, pela vossa bondade.\nPor nosso Senhor...", 
+            "Sp\u00edritum nobis, D\u00f3mine, tu\u00e6 carit\u00e1tis inf\u00fande: ut, quos sacram\u00e9ntis pasch\u00e1libus sati\u00e1sti, tua f\u00e1cias piet\u00e1te concordes.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

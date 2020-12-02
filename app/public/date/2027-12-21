@@ -1,0 +1,151 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos vermelhos"
+      ], 
+      "colors": [
+        "r"
+      ], 
+      "date": "2027-12-21", 
+      "description": "\nComemora\u00e7\u00e3o 4\u00ba Domingo do Advento.", 
+      "id": "sancti:12-21:2:r", 
+      "rank": 2, 
+      "supplements": [], 
+      "tempora": "Ter\u00e7a-feira da 4\u00aa semana do Advento", 
+      "title": "S. Tom\u00e9, Ap\u00f3stolo"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 138:17*\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.\n*Sl 138:1-2*\nSenhor, perscrutastes o meu \u00edntimo e ficastes conhecendo-me: ficastes conhecendo quando me deito e quando me levanto.\nGl\u00f3ria ao Pai.\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.", 
+            "*Ps 138:17.*\nMihi autem nimis honor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est principatus e\u00f3rum.\n*Ps 138:1-2*\nD\u00f3mine, prob\u00e1sti me et cognov\u00edsti me: tu cognov\u00edsti sessi\u00f3nem meam et resurrecti\u00f3nem meam.\nGl\u00f3ria Patri\u2026\nMihi autem nimis honor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est principatus e\u00f3rum."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Concedei-nos, Senhor, Vos suplicamos, que nos alegremos nas festividades do vosso B. Ap.\u00ba Tom\u00e9, a fim de que sejamos sempre amparados com seu patroc\u00ednio e imitemos a sua f\u00e9 com a devida devo\u00e7\u00e3o.\nPor nosso Senhor...", 
+            "Da nobis, qu\u01fdsumus, D\u00f3mine, be\u00e1ti Ap\u00f3stoli tui Thom\u00e6 sollemnit\u00e1tibus glori\u00e1ri: ut ejus semper et patroc\u00edniis sublev\u00e9mur; et fidem c\u00f3ngrua devoti\u00f3ne sect\u00e9mur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o 4\u00ba Domingo do Advento *\nManifestai, Senhor, o vosso poder e \u00abvinde\u00bb; e socorrei-nos com vosso infinito poder, a fim de que, com o aux\u00edlio da vossa gra\u00e7a, a vossa misericordiosa indulg\u00eancia se digne apressar a chegada do rem\u00e9dio de que os nossos pecados necessitam.\n\u00d3 V\u00f3s, que viveis...", 
+            "* Commemoratio Dominica IV Adventus *\nExcita, qu\u01fdsumus, D\u00f3mine, pot\u00e9ntiam tuam, et veni: et magna nobis virt\u00fate succ\u00farre; ut per aux\u00edlium gr\u00e1ti\u00e6 tu\u00e6, quod nostra pecc\u00e1ta pr\u00e6p\u00e9diunt, indulg\u00e9nti\u00e6 tu\u00e6 propitiati\u00f3nis acc\u00e9leret:\nQui vivis\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Oratio", 
+        "label": "Comemora\u00e7\u00e3o Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo aos Ef\u00e9sios.\n*Ef 2:19-22*\nMeus irm\u00e3os: J\u00e1 n\u00e3o sois estrangeiros, nem h\u00f3spedes, mas concidad\u00e3os dos santos e da fam\u00edlia de Deus, institu\u00eddos sobre o fundamento dos Ap\u00f3stolos e dos Profetas, de que o pr\u00f3prio Jesus Cristo \u00e9 a pedra angular e em quem todo o edif\u00edcio bem constru\u00eddo se deve elevar para formar um templo santo no Senhor. \u00c9 n\u2019Ele que tamb\u00e9m sois edificados para vos tornardes pelo Esp\u00edrito Santo em morada de Deus.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Pauli Ap\u00f3stoli ad Eph\u00e9sios.\n*Ephes 2:19-22*\nFratres: Jam non estis h\u00f3spites et \u00e1dven\u00e6: sed estis cives sanct\u00f3rum et dom\u00e9stici Dei: super\u00e6dific\u00e1ti super fundam\u00e9ntum Apostol\u00f3rum et Prophet\u00e1rum, ipso summo angul\u00e1ri l\u00e1pide Christo Jesu: in quo omnis \u00e6dific\u00e1tio constr\u00facta crescit in templum sanctum in D\u00f3mino, in quo et vos co\u00e6dific\u00e1mini in habit\u00e1culum Dei in Sp\u00edritu."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 138:17-18*\nHonrais largamente os vossos amigos, \u00f3 Deus; e o seu poder fortaleceu-se extraordinariamente.\nV. Hei-de cont\u00e1-los e verei que ultrapassam os gr\u00e3os de areia da praia. Aleluia, aleluia.\n*Sl 32:1*\n\u00d3 justos, alegrai-vos no Senhor; pois aos cora\u00e7\u00f5es rectos conv\u00e9m celebrar os louvores do Senhor. Aleluia.", 
+            "*Ps 138:17-18.*\nNimis honorati sunt am\u00edci tui, Deus: nimis confort\u00e1tus est princip\u00e1tus e\u00f3rum.\nV. Dinumer\u00e1bo eos, et super ar\u00e9nam multiplicab\u00fantur. Allel\u00faja, allel\u00faja\n*Ps 32:1*\nGaud\u00e9te, justi, in D\u00f3mino: rectos decet collaud\u00e1tio. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Jo\u00e3o.\n*Jo 20:24-29*\nNaquele tempo, Tom\u00e9, um dos Doze, que era chamado D\u00eddimo, n\u00e3o estava com eles. Disseram-lhe, ent\u00e3o, os outros disc\u00edpulos: \u00abVimos o Senhor!\u00bb. Ele disse-lhes: \u00abSe n\u00e3o vir nas suas m\u00e3os o sinal dos cravos, se n\u00e3o meter o meu dedo no lugar dos cravos e se n\u00e3o meter a minha m\u00e3o no seu lado, n\u00e3o acreditarei\u00bb. Passados oito dias, encontravam-se outra vez no mesmo lugar, estando Tom\u00e9 com eles. Veio ent\u00e3o Jesus, estando as portas fechadas; e, pondo-se no meio deles, disse: \u00abA paz seja convosco\u00bb. Em seguida disse a Tom\u00e9: \u00abMete aqui o teu dedo e v\u00ea as minhas m\u00e3os; aproxima, tamb\u00e9m, a tua m\u00e3o e mete-a no meu lado; n\u00e3o sejas incr\u00e9dulo, mas fiel\u00bb. Respondeu Tom\u00e9: \u00abMeu Senhor e meu Deus!\u00bb. Disse-lhe Jesus: \u00abPorque me viste, \u00f3 Tom\u00e9, acreditaste: bem-aventurados aqueles que n\u00e3o viram e acreditaram\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Jo\u00e1nnem.\n*Joann 20:24-29*\nIn illo t\u00e9mpore: Thomas, unus ex du\u00f3decim, qui d\u00edcitur D\u00eddymus, non erat cum eis, quando venit Jesus. Dix\u00e9runt ergo ei alii disc\u00edpuli: V\u00eddimus D\u00f3minum. Ille autem dixit eis: Nisi videre in m\u00e1nibus ejus fix\u00faram clav\u00f3rum, et mittam d\u00edgitum meum in locum clav\u00f3rum, et mittam manum meam in latus ejus, non credam. Et post dies octo, \u00edterum erant disc\u00edpuli ejus intus, et Thomas cum eis. Venit Jesus j\u00e1nuis clausis, et stetit in m\u00e9dio, et dixit: Pax vobis. Deinde dicit Thom\u00e6: Inter d\u00edgitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incr\u00e9dulus, sed fid\u00e9lis. Resp\u00f3ndit Thomas et dixit ei: D\u00f3minus meus et Deus meus. Dixit ei Jesus: Quia vidisti me, Thoma, credid\u00edsti: be\u00e1ti, qui non vid\u00e9runt, et crediderunt."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 18:5*\nO som da sua voz ecoou por toda a terra; e as suas palavras prolongaram-se at\u00e9 \u00e0s extremidades da terra.", 
+            "*Ps 18:5*\nIn omnem terram ex\u00edvit sonus e\u00f3rum: et in fines orbis terr\u00e6 verba e\u00f3rum."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Senhor, a vossos p\u00e9s depomos o tributo da nossa sujei\u00e7\u00e3o, suplicando-Vos instantemente que em n\u00f3s conserveis os vossos dons por intercess\u00e3o do B. Tom\u00e9, Ap\u00f3stolo, em quem honramos a gloriosa confiss\u00e3o, imolando h\u00f3stias em vosso louvor.\nPor nosso Senhor...", 
+            "D\u00e9bitum tibi, D\u00f3mine, nostr\u00e6 r\u00e9ddimus servit\u00fatis, suppl\u00edciter exor\u00e1ntes: ut, suffr\u00e1giis be\u00e1ti Thom\u00e6 Ap\u00f3stoli, in nobis tua m\u00fanera tue\u00e1ris, cujus honor\u00e1nda confessi\u00f3ne laudis tibi h\u00f3stias immol\u00e1mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o 4\u00ba Domingo do Advento *\nSenhor, Vos suplicamos, olhai prop\u00edcio para estes sacrif\u00edcios que Vos apresentamos, a fim de que sirvam para aumento da nossa devo\u00e7\u00e3o e para conseguirmos a salva\u00e7\u00e3o.\nPor nosso Senhor...", 
+            "* Commemoratio Dominica IV Adventus *\nSacrif\u00edciis pr\u00e6s\u00e9ntibus, qu\u01fdsumus, D\u00f3mine, plac\u00e1tus int\u00e9nde: ut et devoti\u00f3ni nostr\u00e6 prof\u00edciant et sal\u00fati.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Secreta", 
+        "label": "Comemora\u00e7\u00e3o Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*dos Ap\u00f3stolos*\n\u00c9 verdadeiramente digno e justo, racional e salutar suplicar-Vos humildemente, Senhor, que, como Pastor eterno, que sois, n\u00e3o abandoneis o vosso rebanho, mas antes, por intercess\u00e3o dos vossos bem-aventurados Ap\u00f3stolos, o guardeis sob a vossa perp\u00e9tua protec\u00e7\u00e3o, a fim de que seja sempre governado pelos mesmos Directores, que, encarregados como Vig\u00e1rios de perpetuar a vossa obra, designastes seus Pastores. E, por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos um hino \u00e0 vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*de Apostolis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te, D\u00f3mine, suppl\u00edciter exor\u00e1re, ut gregem tuum, Pastor \u00e6t\u00e9rne, non d\u00e9seras: sed per be\u00e1tos Ap\u00f3stolos tuos cont\u00ednua protecti\u00f3ne cust\u00f3dias. Ut i\u00edsdem rect\u00f3ribus gubern\u00e9tur, quos \u00f3peris tui vic\u00e1rios e\u00eddem contul\u00edsti pr\u00e6\u00e9sse past\u00f3res. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Jo 20:27*\nMete aqui a tua m\u00e3o e reconhece o lugar dos cravos. N\u00e3o sejas incr\u00e9dulo, mas fiel.", 
+            "*Joann 20:27*\nMitte manum tuam, et cogn\u00f3sce loca clav\u00f3rum: et noli esse incr\u00e9dulus, sed fid\u00e9lis."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Assisti-nos, \u00f3 Deus de miseric\u00f3rdia; e, por intercess\u00e3o do B. Ap\u00f3stolo Tom\u00e9 dignai-Vos conservar a nossa alma na posse dos dons que benignamente nos concedestes.\nPor nosso Senhor...", 
+            "Ad\u00e9sto nobis, mis\u00e9ricors Deus: et, interced\u00e9nte pro nobis be\u00e1to Thoma Ap\u00f3stolo, tua circa nos propiti\u00e1tus dona cust\u00f3di.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "* Comemora\u00e7\u00e3o 4\u00ba Domingo do Advento *\nHavendo n\u00f3s recebido os vossos dons sacrat\u00edssimos, Senhor, Vos suplicamos, dignai-Vos aumentar em n\u00f3s, pela frequente recep\u00e7\u00e3o deste myst\u00e9rio, o efeito da nossa salva\u00e7\u00e3o.\nPor nosso Senhor...", 
+            "* Commemoratio Dominica IV Adventus *\nSumptis mun\u00e9ribus, qu\u01fdsumus, D\u00f3mine: ut, cum frequentati\u00f3ne myst\u00e9rii, crescat nostr\u00e6 sal\u00fatis eff\u00e9ctus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Postcommunio", 
+        "label": "Comemora\u00e7\u00e3o Postcom\u00fanio"
+      }
+    ]
+  }
+]

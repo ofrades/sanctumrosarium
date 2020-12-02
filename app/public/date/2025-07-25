@@ -1,0 +1,153 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos vermelhos", 
+        "Comemora\u00e7\u00e3o", 
+        "Paramentos vermelhos"
+      ], 
+      "colors": [
+        "r"
+      ], 
+      "date": "2025-07-25", 
+      "description": "\nS\u00e3o Cristov\u00e3o, M\u00e1rtir\n", 
+      "id": "sancti:07-25:2:r", 
+      "rank": 2, 
+      "supplements": [], 
+      "tempora": "Sexta-feira da 6\u00aa semana depois de Pentecostes", 
+      "title": "S. Tiago, Ap\u00f3stolo"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sl 138:17*\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.\n*Sl 138:1-2*\nSenhor, perscrutastes o meu \u00edntimo e ficastes conhecendo-me: ficastes conhecendo quando me deito e quando me levanto.\nGl\u00f3ria ao Pai.\nHonrais largamente os vossos amigos, \u00f3 Deus: e o seu poder tem-se fortalecido extraordinariamente.", 
+            "*Ps 138:17*\nMihi autem nimis bonor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est princip\u00e1tus e\u00f3rum.\n*Ps 138:1-2*\nD\u00f3mine, prob\u00e1sti me et cognov\u00edsti me: tu cognov\u00edsti sessi\u00f3nem meam ei resurrecti\u00f3nem meam.\nGl\u00f3ria Patri\u2026\nMihi autem nimis bonor\u00e1ti sunt am\u00edci tui, Deus: nimis confort\u00e1tus est princip\u00e1tus e\u00f3rum."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Sede, Senhor, o santificador e o protector do povo, a fim de que, munido com o aux\u00edlio do vosso Ap\u00f3stolo Tiago, ele Vos seja agrad\u00e1vel pela sua s\u00e3 conduta e Vos sirva com tranquilidade de esp\u00edrito.\nPor nosso Senhor...", 
+            "Esto, D\u00f3mine, plebi tu\u00e6 sanctific\u00e1tor et custos: ut, Ap\u00f3stoli tui Jac\u00f3bi mun\u00edta pr\u00e6s\u00eddiis, et conversati\u00f3ne tibi pl\u00e1ceat, et sec\u00fara mente des\u00e9rviat.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "*S\u00e3o Cristov\u00e3o*\n\u00d3 Deus omnipotente, permiti que, celebrando n\u00f3s o nascimento do B. Cristov\u00e3o, vosso M\u00e1rtir, e pela sua intercess\u00e3o, alcancemos a gra\u00e7a de sermos confirmados no amor ao vosso Nome.\nPor nosso Senhor...", 
+            "*S. Christophori Martyris*\nPr\u00e6sta, qu\u01fdsumus, omn\u00edpotens Deus: ut, qui be\u00e1ti Christ\u00f3phori M\u00e1rtyris tui natal\u00edcia c\u00f3limus, intercessi\u00f3ne ejus in tui n\u00f3minis am\u00f3re robor\u00e9mur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Oratio", 
+        "label": "Comemora\u00e7\u00e3o Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo aos Cor\u00edntios.\n*1 Cor 4:9-15*\nMeus irm\u00e3os: Penso que Deus nos trata a n\u00f3s, seus Ap\u00f3stolos, como se f\u00f4ssemos os \u00faltimos homens destinados \u00e0 morte, pois nos torn\u00e1mos espect\u00e1culo do mundo, dos Anjos e dos homens. Torn\u00e1mo-nos insensatos por amor de Cristo; mas v\u00f3s sois prudentes em Cristo. N\u00f3s somos fracos, mas v\u00f3s sois fortes; sois respeitados, e n\u00f3s desprezados. At\u00e9 a esta hora, sofremos a fome, a sede, a nudez, os maus tratos; n\u00e3o temos morada fixa; trabalhamos com muita dificuldade com as nossas m\u00e3os; amaldi\u00e7oam-nos e aben\u00e7oamos; perseguem-nos e suportamo-los; injuriam-nos e rezamos por eles; enfim, at\u00e9 agora t\u00eam-nos tratado como se f\u00f4ssemos a escumalha do mundo, por todos desprezada. Escrevo estas coisas n\u00e3o para vos envergonhar, mas para vo-las dar a conhecer, como meus filhos car\u00edssimos que sois, pois, ainda que tiv\u00e9sseis dez mil mestres em Cristo, nem por isso ter\u00edeis muitos pais, visto que fui eu que pelo Evangelho vos gerei em Jesus Cristo.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Pauli Ap\u00f3stoli ad Cor\u00ednthios.\n*1 Cor 4:9-15*\nFratres: Puto, quod Deus nos Ap\u00f3stolos nov\u00edssimos ost\u00e9ndit, tamquam morti destin\u00e1tos: quia spect\u00e1culum facti sumus mundo et Angelis et hom\u00ednibus. Nos stulti propter Christum, vos autem prud\u00e9ntes in Christo: nos inf\u00edrmi, vos autem fortes: vos n\u00f3biles, nos autem ign\u00f3biles. Usque in hanc horam et esur\u00edmus, et sit\u00edmus, et nudi sumus, et c\u00f3laphis c\u00e6dimur, et inst\u00e1biles sumus, et labor\u00e1mus oper\u00e1ntes m\u00e1nibus nostris: maled\u00edcimur, et bened\u00edcimus: persecuti\u00f3nem p\u00e1timur, et sustin\u00e9mus: blasphem\u00e1mur, et obsecr\u00e1mus: tamquam purgam\u00e9nta hujus mundi facti sumus, \u00f3mnium perips\u00e9ma usque adhuc. Non ut conf\u00fandam vos, h\u00e6c scribo, sed ut f\u00edlios meos car\u00edssimos m\u00f3neo. Nam si decem m\u00edlia p\u00e6dagog\u00f3rum habe\u00e1tis in Christo: sed non multos patres. Nam in Christo Jesu per Evang\u00e9lium ego vos g\u00e9nui."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 44:17; 44:18*\nV\u00f3s os institu\u00edstes pr\u00edncipes em todo o universo: e eles, Senhor, perpetuar\u00e3o a gl\u00f3ria do vosso nome em toda a terra.\nV. Para substituir os vossos pais, nascer-vos-\u00e3o filhos: pelo que os povos vos louvar\u00e3o.  Aleluia, aleluia.\n*Jo 15:16*\nEu vos escolhi para irdes pelo mundo e alcan\u00e7ardes fruto; e que o vosso fruto permane\u00e7a. Aleluia.", 
+            "*Ps 44:17; 44:18*\nConst\u00edtues eos pr\u00edncipes super omnem terram: m\u00e9mores erunt n\u00f3minis tui, D\u00f3mine.\nV. Pro p\u00e1tribus tuis nati sunt tibi f\u00edlii: propt\u00e9rea p\u00f3puli confiteb\u00fantur tibi. Allel\u00faja, allel\u00faja.\n*Joannes 15:16*\nEgo vos elegi de mundo, ut e\u00e1tis, et fructum affer\u00e1tis, et fructus vester m\u00e1neat. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Mateus.\n*Mt 20:20-23*\nNaquele tempo, a m\u00e3e dos filhos de Zebedeu aproximou-se de Jesus com seus dois filhos, adorando-O e querendo pedir-Lhe alguma coisa. Jesus disse-lhe: \u00abQue quereis?\u00bb. Ela respondeu: \u00abOrdenai que estes meus dois filhos se assentem, um \u00e0 vossa direita e o outro \u00e0 vossa esquerda, no vosso reino\u00bb. Jesus respondeu-lhe: \u00abN\u00e3o sabeis o que pedis. Podeis beber o c\u00e1lice que Eu devo beber?\u00bb. Eles responderam: \u00abPodemos\u00bb. E Jesus disse-lhes: \u00abBebereis, com efeito, o meu c\u00e1lice; por\u00e9m n\u00e3o depende de mim conceder-vos um lugar \u00e0 minha direita ou \u00e0 minha esquerda, pois isso \u00e9 para aqueles para quem meu Pai o preparou\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Matth\u01fdum.\n*Matt 20:20-23*\nIn illo t\u00e9mpore: Accessit ad Jesum mater fili\u00f3rum Zebed\u00e6i cum f\u00edliis suis, ad\u00f3rans et petens \u00e1liquid ab eo. Qui dixit ei: Quid vis? Ait illi: Dic, ut s\u00e9deant hi duo f\u00edlii mei, unus ad d\u00e9xteram tuam et unus ad sin\u00edstram in regno tuo. Resp\u00f3ndens autem Jesus, dixit: N\u00e9scitis, quid pet\u00e1tis. Pot\u00e9stis b\u00edbere c\u00e1licem, quem ego bibit\u00farus sum? Dicunt ei: P\u00f3ssumus. Ait illis: C\u00e1licem quidem meum bib\u00e9tis: sed\u00e9re autem ad d\u00e9xteram meam vel sin\u00edstram, non est meum dare vobis, sed quibus par\u00e1tum est a Patre meo."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 18:5*\nO som da sua voz ecoou por toda a terra; e as suas palavras prolongaram-se at\u00e9 \u00e0s extremidades da terra.", 
+            "*Ps 18:5*\nIn omnem terram ex\u00edvit sonus e\u00f3rum: et in fines orbis terr\u00e6 verba e\u00f3rum."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Permiti, Senhor, Vos suplicamos, que o glorioso mart\u00edrio do B. Ap\u00f3stolo Tiago nos alcance a gra\u00e7a de receberdes as ofertas do vosso povo, e, apesar dos nossos m\u00e9ritos serem insuficientes, fazei que sua depreca\u00e7\u00e3o Vo-las torne agrad\u00e1veis.\nPor nosso Senhor...", 
+            "Oblati\u00f3nes p\u00f3puli tui, qu\u01fdsumus, D\u00f3mine, be\u00e1ti Jac\u00f3bi Ap\u00f3stoli p\u00e1ssio be\u00e1ta conc\u00edliet: et, qu\u00e6 nostris non apt\u00e6 sunt m\u00e9ritis, fiant tibi pl\u00e1cit\u00e6 ejus deprecati\u00f3ne.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*S\u00e3o Cristov\u00e3o*\nHavendo V\u00f3s, Senhor, aceitado as nossas ofertas e ora\u00e7\u00f5es, dignai-Vos purificar-nos com vossos celestiais myst\u00e9rios e ouvir-nos benignamente.\nPor nosso Senhor...", 
+            "*Pro S. Christophoro*\nMun\u00e9ribus nostris, qu\u01fdsumus, D\u00f3mine, precib\u00fasque susc\u00e9ptis: et c\u0153l\u00e9stibus nos munda myst\u00e9riis, et clem\u00e9nter ex\u00e1udi.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Secreta", 
+        "label": "Comemora\u00e7\u00e3o Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*dos Ap\u00f3stolos*\n\u00c9 verdadeiramente digno e justo, racional e salutar suplicar-Vos humildemente, Senhor, que, como Pastor eterno, que sois, n\u00e3o abandoneis o vosso rebanho, mas antes, por intercess\u00e3o dos vossos bem-aventurados Ap\u00f3stolos, o guardeis sob a vossa perp\u00e9tua protec\u00e7\u00e3o, a fim de que seja sempre governado pelos mesmos Directores, que, encarregados como Vig\u00e1rios de perpetuar a vossa obra, designastes seus Pastores. E, por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos um hino \u00e0 vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*de Apostolis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te, D\u00f3mine, suppl\u00edciter exor\u00e1re, ut gregem tuum, Pastor \u00e6t\u00e9rne, non d\u00e9seras: sed per be\u00e1tos Ap\u00f3stolos tuos cont\u00ednua protecti\u00f3ne cust\u00f3dias. Ut i\u00edsdem rect\u00f3ribus gubern\u00e9tur, quos \u00f3peris tui vic\u00e1rios e\u00eddem contul\u00edsti pr\u00e6\u00e9sse past\u00f3res. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Mt 19:28*\nV\u00f3s, que me seguistes, assentar-vos-eis sobre tronos e julgareis as doze tribos de Israel.", 
+            "*Matt 19:28*\nVos, qui sec\u00fati estis me, sed\u00e9bitis super sedes, judic\u00e1ntes du\u00f3decim tribus Isra\u00ebl."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Auxiliai-nos, Senhor, Vos suplicamos, pela intercess\u00e3o do vosso B. Ap\u00f3stolo Tiago, em cuja festa recebemos com j\u00fabilo os sacrossantos m\u00e9ritos.\nPor nosso Senhor...", 
+            "Be\u00e1ti Ap\u00f3stoli tui Jac\u00f3bi, qu\u01fdsumus, D\u00f3mine, intercessi\u00f3ne nos \u00e1djuva: pro cujus festivit\u00e1te perc\u00e9pimus tua sancta l\u00e6t\u00e1ntes.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "*S\u00e3o Cristov\u00e3o*\nPermiti, \u00f3 Senhor, nosso Deus, Vos suplicamos, que, assim como nos alegramos, comemorando nesta vida pelo nosso minist\u00e9rio a mem\u00f3ria dos vossos Santos, assim tamb\u00e9m tenhamos a felicidade de os contemplar na eternidade.\nPor nosso Senhor...", 
+            "*Pro S. Christophoro*\nDa, qu\u01fdsumus, D\u00f3mine, Deus noster: ut, sicut tu\u00f3rum commemorati\u00f3ne Sanct\u00f3rum tempor\u00e1li gratul\u00e1mur off\u00edcio; ita perp\u00e9tuo l\u00e6t\u00e9ntur asp\u00e9ctu.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Commemoratio Postcommunio", 
+        "label": "Comemora\u00e7\u00e3o Postcom\u00fanio"
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "info": {
+      "additional_info": [], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2030-01-02", 
+      "description": "", 
+      "id": "tempora:Nat2-0:2:w", 
+      "rank": 2, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "Sant\u00edssimo Nome de Jesus"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Fl 2:10-11*\nQue ao ser pronunciado o Nome de Jesus se dobrem todos os joelhos dos que est\u00e3o no c\u00e9u, na terra e no inferno: e que toda a l\u00edngua humana confesse que o Senhor Jesus Cristo est\u00e1 na gl\u00f3ria de Deus Pai.\n*Sl 8:2*\nSenhor, nosso Senhor, como o vosso Nome \u00e9 admir\u00e1vel em todo o universo!\nGl\u00f3ria ao Pai.\nQue ao ser pronunciado o Nome de Jesus se dobrem todos os joelhos dos que est\u00e3o no c\u00e9u, na terra e no inferno: e que toda a l\u00edngua humana confesse que o Senhor Jesus Cristo est\u00e1 na gl\u00f3ria de Deus Pai.", 
+            "*Phil 2:10-11*\nIn n\u00f3mine Jesu omne genu flect\u00e1tur, c\u0153l\u00e9stium, terr\u00e9strium et infern\u00f3rum: et omnis lingua confite\u00e1tur, quia D\u00f3minus Jesus Christus in gl\u00f3ria est Dei Patris\n*Ps 8:2.*\nD\u00f3mine, D\u00f3minus noster, quam admir\u00e1bile est nomen tuum in univ\u00e9rsa terra!\nGl\u00f3ria Patri\u2026\nIn n\u00f3mine Jesu omne genu flect\u00e1tur, c\u0153l\u00e9stium, terr\u00e9strium et infern\u00f3rum: et omnis lingua confite\u00e1tur, quia D\u00f3minus Jesus Christus in gl\u00f3ria est Dei Patris"
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que constitu\u00edstes o vosso Filho Unig\u00e9nito Salvador do mundo e ordenastes que fosse chamado Jesus, concedei-nos prop\u00edcio que, venerando n\u00f3s o seu Santo Nome na terra, gozemos tamb\u00e9m a sua presen\u00e7a nos c\u00e9us.\nPelo mesmo nosso Senhor...", 
+            "Deus, qui unig\u00e9nitum F\u00edlium tuum constitu\u00edsti hum\u00e1ni g\u00e9neris Salvat\u00f3rem, ei Jesum voc\u00e1ri juss\u00edsti: conc\u00e9de prop\u00edtius; ut, cujus sanctum nomen vener\u00e1mur in terris, ejus quoque asp\u00e9ctu perfru\u00e1mur in c\u0153lis.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o dos Actos dos Ap\u00f3stolos.\n*Act 4:8-12*\nNaqueles dias, Pedro, cheio de Esp\u00edrito Santo, disse: \u00abPr\u00edncipes do povo e anci\u00e3os de Israel, escutai: Visto que somos hoje julgados por causa dum milagre, concedido a um homem enfermo, para saber por quem foi curado, sabei, v\u00f3s todos e todo o povo de Israel, que foi curado pelo Nome de Jesus Cristo Nazareno, a quem crucificastes, e que Deus ressuscitou dos mortos. \u00c9 por Ele que este homem se apresenta diante de v\u00f3s, plenamente curado. Este Jesus \u00e9 a pedra que v\u00f3s, querendo edificar, desprezastes, e que se tornou a pedra principal do \u00e2ngulo. N\u00e3o h\u00e1 salva\u00e7\u00e3o em nenhum outro nome, pois n\u00e3o existe debaixo do c\u00e9u outro nome, que tenha sido dado aos homens, pelo qual devamos ser salvos\u00bb.", 
+            "L\u00e9ctio Actuum Apostolorum\n*Act 4:8-12*\nIn di\u00e9bus illis: Petrus, repl\u00e9tus Sp\u00edritu Sancto, dixit: Pr\u00edncipes p\u00f3puli et seni\u00f3res, aud\u00edte: Si nos h\u00f3die dijudic\u00e1mur in benef\u00e1cto h\u00f3minis inf\u00edrmi, in quo iste salvus factus est, notum sit \u00f3mnibus vobis et omni plebi Isra\u00ebl: quia in n\u00f3mine D\u00f3mini nostri Jesu Christi Nazar\u00e9ni, quem vos crucifix\u00edstis, quem Deus suscit\u00e1vit a m\u00f3rtuis, in hoc iste astat coram vobis sanus. Hic est lapis, qui reprob\u00e1tus est a vobis \u00e6dific\u00e1ntibus: qui factus est in caput \u00e1nguli: et non est in alio \u00e1liquo salus. Nec enim aliud nomen est sub c\u0153lo datum hom\u00ednibus, in quo op\u00f3rteat nos salvos f\u00ederi."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 105:47*\nSalvai-nos, \u00f3 Senhor, nosso Deus, e reuni-nos todos no meio das na\u00e7\u00f5es, a fim de que confessemos o vosso Santo Nome e nos gloriemos com vossos louvores.\n*Is 63:16*\nSenhor, sois o nosso Pai e Redentor! Vosso Nome \u00e9 eterno! Aleluia, aleluia.\n*Sl 144:21*\nQue minha boca anuncie os louvores do Senhor: que toda a carne humana bendiga o seu Santo Nome. Aleluia.", 
+            "*Ps 105:47*\nSalvos fac nos, D\u00f3mine, Deus noster, et c\u00f3ngrega nos de nati\u00f3nibus: ut confite\u00e1mur n\u00f3mini sancto tuo, et glori\u00e9mur in gl\u00f3ria tua.\n*Isa 63:16*\nTu, D\u00f3mine, Pater noster et Red\u00e9mptor noster: a s\u01fdculo nomen tuum. Allel\u00faja, allel\u00faja\n*Ps 144:21*\nLaudem D\u00f3mini loqu\u00e9tur os meum, et bened\u00edcat omnis caro nomen sanctum ejus. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Lucas.\n*Lc 2:21*\nNaquele tempo, passados que foram oito dias depois dos quais o Menino devia ser circuncidado, foi-Lhe dado o nome de Jesus, que foi aquele que o Anjo Lhe havia dado, antes de ser concebido no seio de sua M\u00e3e.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam\n*Luc 2:21*\nIn illo t\u00e9mpore: Postquam consumm\u00e1ti sunt dies octo, ut circumcider\u00e9tur Puer: voc\u00e1tum est nomen ejus Jesus, quod voc\u00e1tum est ab Angelo, pri\u00fasquam in \u00fatero conciper\u00e9tur."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 85:1; 85:5*\nLouvar-Vos-ei de todo meu cora\u00e7\u00e3o, \u00f3 Senhor, meu Deus: e glorificarei eternamente o vosso Nome; pois V\u00f3s, \u00f3 Senhor, sois cheio de clem\u00eancia e de bondade: e as vossas miseric\u00f3rdias estendem-se a todos quantos Vos invocam. Aleluia.", 
+            "*Ps 85:12; 85:5*\nConfit\u00e9bor tibi, D\u00f3mine, Deus meus, in toto corde meo, et glorific\u00e1bo nomen tuum in \u00e6t\u00e9rnum: qu\u00f3niam tu, D\u00f3mine, su\u00e1vis et mitis es: et mult\u00e6 miseric\u00f3rdi\u00e6 \u00f3mnibus invoc\u00e1ntibus te, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus clement\u00edssimo, que a vossa b\u00ean\u00e7\u00e3o, que d\u00e1 a vida a todas as criaturas, santifique este nosso sacrif\u00edcio, que oferecemos em gl\u00f3ria do Nome do vosso Filho, nosso Senhor Jesus Cristo, a fim de que ele possa honrar a vossa majestade, e, agradando-lhe, seja \u00fatil \u00e0 nossa salva\u00e7\u00e3o.\nPelo mesmo nosso Senhor...", 
+            "Bened\u00edctio tua, clement\u00edssime Deus, qua omnis viget creat\u00fara, sanct\u00edficet, qu\u01fdsumus, hoc sacrif\u00edcium nostrum, quod ad gl\u00f3riam n\u00f3minis F\u00edlii tui, D\u00f3mini nostri Jesu Christi, off\u00e9rimus tibi: ut majest\u00e1ti tu\u00e6 plac\u00e9re possit ad laudem, et nobis prof\u00edcere ad sal\u00fatem.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*do Natal*\nVerdadeiramente \u00e9 digno e justo, racional e salutar dar-Vos gra\u00e7as, Senhor santo, Pai omnipotente, eterno Deus, em todos os lugares e sempre, porque pelo myst\u00e9rio do Verbo Incarnado um novo clar\u00e3o do vosso esplendor iluminou a nossa alma, a fim de que, ao passo que conhecemos Deus de uma maneira vis\u00edvel, sejamos inspirados por Ele no amor \u00e0s cousas invis\u00edveis. E, por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*de Nativitate Domini*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper et ub\u00edque gr\u00e1tias \u00e1gere: D\u00f3mine sancte, Pater omn\u00edpotens, \u00e6t\u00e9rne Deus: Quia per incarn\u00e1ti Verbi myst\u00e9rium nova mentis nostr\u00e6 \u00f3culis lux tu\u00e6 clarit\u00e1tis inf\u00falsit: ut, dum visib\u00edliter Deum cogn\u00f3scimus, per hunc in invisib\u00edlium amorem rapi\u00e1mur. Et ideo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes."
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 85:9-10*\nTodos os povos, que criastes, vir\u00e3o e se prostrar\u00e3o diante de V\u00f3s, Senhor, adorando-Vos e glorificando o vosso Nome; pois sois grande e praticais prod\u00edgios. S\u00f3 V\u00f3s sois Deus. Aleluia.", 
+            "*Ps 85:9-10*\nOmnes gentes, quasc\u00famque fec\u00edsti, v\u00e9nient et ador\u00e1bunt coram te, D\u00f3mine, et glorific\u00e1bunt nomen tuum: qu\u00f3niam magnus es tu et f\u00e1ciens mirab\u00edlia: tu es Deus solus, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Deus omnipotente e eterno, que nos criastes e resgatastes, olhai benignamente para as nossas ofertas e dignai-Vos aceitar com \u00e2nimo suave e piedoso o sacrif\u00edcio da H\u00f3stia salutar, que oferecemos \u00e0 vossa majestade em honra do Nome do vosso Filho, nosso Senhor Jesus Cristo, a fim de que, infundida a vossa gra\u00e7a em nossas almas, possamos alegrar-nos, vendo os nossos nomes escritos nos c\u00e9us, abaixo do glorioso Nome de Jesus, no livro da eterna predestina\u00e7\u00e3o.\nPelo mesmo nosso Senhor...", 
+            "Omn\u00edpotens \u00e6t\u00e9rne Deus, qui cre\u00e1sti et redem\u00edsti nos, r\u00e9spice prop\u00edtius vota nostra: et sacrif\u00edcium salut\u00e1ris h\u00f3sti\u00e6, quod in hon\u00f3rem n\u00f3minis F\u00edlii tui, D\u00f3mini nostri Jesu Christi, majest\u00e1ti tu\u00e6 obt\u00falimus, pl\u00e1cido et ben\u00edgno vultu susc\u00edpere dign\u00e9ris; ut gr\u00e1tia tua nobis inf\u00fasa, sub glori\u00f3so n\u00f3mine Jesu, \u00e6t\u00e9rn\u00e6 pr\u00e6destinati\u00f3nis titulo gaude\u00e1mus n\u00f3mina nostra scripta esse in c\u0153lis.\nPer e\u00fandem\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

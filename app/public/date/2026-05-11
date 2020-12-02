@@ -1,0 +1,121 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos vermelhos"
+      ], 
+      "colors": [
+        "r"
+      ], 
+      "date": "2026-05-11", 
+      "description": "", 
+      "id": "sancti:05-11r:2:r", 
+      "rank": 2, 
+      "supplements": [], 
+      "tempora": "Segunda-feira das Roga\u00e7\u00f5es", 
+      "title": "S.S. Filipe e Tiago, Ap\u00f3stolos"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Esd 9:27*\nNo tempo da afli\u00e7\u00e3o clamaram por V\u00f3s, Senhor; e V\u00f3s, do alto do c\u00e9u, os ouvistes, aleluia, aleluia.\n*Sl 32:1*\nAlegrai-vos no Senhor, \u00f3 justos, pois os que possuem os cora\u00e7\u00f5es rectos \u00e9 que devem louvar o Senhor.\nGl\u00f3ria ao Pai.\nNo tempo da afli\u00e7\u00e3o clamaram por V\u00f3s, Senhor; e V\u00f3s, do alto do c\u00e9u, os ouvistes, aleluia, aleluia.", 
+            "*Neh 9:27*\nClamav\u00e9runt ad te, D\u00f3mine, in t\u00e9mpore afflicti\u00f3nis su\u00e6, et tu de c\u0153lo exaud\u00edsti eos, allel\u00faja, allel\u00faja.\n*Ps 32:1*\nExsult\u00e1te, justi, in D\u00f3mino: rectos decet collaud\u00e1tio.\nGl\u00f3ria Patri\u2026\nClamav\u00e9runt ad te, D\u00f3mine, in t\u00e9mpore afflicti\u00f3nis su\u00e6, et tu de c\u0153lo exaud\u00edsti eos, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que nos alegrais com a solenidade anual dos vossos Ap\u00f3stolos Filipe e Tiago, concedei-nos, Vos suplicamos, que, alegrando-nos com seus m\u00e9ritos, aproveitemos com seus exemplos.\nPor nosso Senhor...", 
+            "Deus, qui nos \u00e1nnua Apostol\u00f3rum tu\u00f3rum Phil\u00edppi et Jac\u00f3bi sollemnit\u00e1te l\u00e6t\u00edficas: pr\u00e6sta, qu\u01fdsumus: ut, quorum gaud\u00e9mus m\u00e9ritis, instru\u00e1mur ex\u00e9mplis.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro da Sabedoria.\n*Sb 5:1-5*\nEnt\u00e3o, os justos erguer-se-\u00e3o com grande coragem contra aqueles que os oprimiam e a quem arrebatavam o fruto dos seus trabalhos. Vendo-os assim, os maus perturbar-se-\u00e3o, cheios de pavor, e ficar\u00e3o assombrados com a s\u00fabita e inesperada salva\u00e7\u00e3o dos justos, dizendo de si para si, arrependidos e angustiados: Estes s\u00e3o aqueles a quem outrora quisemos injuriar com nossas zombarias e insultos. Insensatos que n\u00f3s fomos! Pareceu-nos que sua vida era uma loucura, e a sua morte uma vergonha; mas eis que os vemos elevados \u00e0 dignidade de filhos de Deus e compartilhando da gl\u00f3ria dos santos!", 
+            "L\u00e9ctio libri Sapi\u00e9nti\u00e6\n*Sap 5:1-5.*\nStabunt justi in magna const\u00e1ntia adv\u00e9rsus eos, qui se angustiav\u00e9runt et qui abstul\u00e9runt lab\u00f3res e\u00f3rum. Vid\u00e9ntes turbab\u00fantur timore horr\u00edbili, et mirab\u00fantur in subitati\u00f3ne insper\u00e1t\u00e6 sal\u00fatis, dic\u00e9ntes intra se, p\u0153nit\u00e9ntiam ag\u00e9ntes, et pr\u00e6 ang\u00fastia sp\u00edritus gem\u00e9ntes: Hi sunt, quos hab\u00faimus aliqu\u00e1ndo in der\u00edsum et in similit\u00fadinem improp\u00e9rii. Nos insens\u00e1ti vitam ill\u00f3rum \u00e6stimab\u00e1mus ins\u00e1niam, et finem ill\u00f3rum sine hon\u00f3re: ecce, qu\u00f3modo comput\u00e1ti sunt inter f\u00edlios Dei, et inter Sanctos sors ill\u00f3rum est."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia, aleluia\n*Sl 88:6*\nOs c\u00e9us cantar\u00e3o as vossas maravilhas, Senhor, assim como a vossa verdade, na assembleia dos Santos. Aleluia.\n*Jo 14:9*\nH\u00e1 tanto tempo que estou convosco e me n\u00e3o conheceis? Filipe, quem me v\u00ea, v\u00ea tamb\u00e9m meu Pai! Aleluia.", 
+            "Allel\u00faja, allel\u00faja.\n*Ps 88:6*\nConfiteb\u00fantur c\u0153li mirab\u00edlia tua, D\u00f3mine: etenim verit\u00e1tem tuam in eccl\u00e9sia sanct\u00f3rum. Allel\u00faja.\n*Ps 14:9*\nTanto t\u00e9mpore vob\u00edscum sum, et non cognov\u00edstis me? Phil\u00edppe, qui videt me, videt et Patrem meum. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Jo\u00e3o.\n*Jo 14:1-13*\nNaquele tempo disse Jesus aos disc\u00edpulos: \u00abQue o vosso cora\u00e7\u00e3o se n\u00e3o perturbe. Credes em Deus? Crede tamb\u00e9m em mim. Na casa de meu Pai h\u00e1 muitas moradas. Se n\u00e3o fora assim, j\u00e1 vo-lo tinha dito, pois vou preparar-vos l\u00e1 um lugar. E, depois de haver ido e de vos preparar o lugar, voltarei outra vez e tomar-vos-ei comigo, a fim de que, onde estiver, estejais v\u00f3s, tamb\u00e9m. Sabeis bem para onde vou; assim como conheceis o caminho\u00bb. Ent\u00e3o disse-Lhe Tom\u00e9: \u00abSenhor, ignoramos para onde ides. Como podemos, pois, conhecer o caminho?\u00bb. Respondeu-lhe Jesus: \u00abEu sou o caminho, a verdade e a vida; ningu\u00e9m vem ao meu Pai sen\u00e3o por mim! Se me conhec\u00easseis, certamente conhecer\u00edeis, tamb\u00e9m, meu Pai. Por\u00e9m v\u00f3s O conhecereis; at\u00e9 j\u00e1 O haveis visto\u00bb. Disse-Lhe Filipe: \u00abMostrai-nos o Pai, Senhor, e isso nos basta\u00bb. Respondeu-lhe Jesus: \u00abH\u00e1 tanto tempo que estou convosco e me n\u00e3o conheceis? Filipe, quem me v\u00ea, v\u00ea tamb\u00e9m meu Pai! Como dizeis, pois, mostrai-nos o Pai? N\u00e3o acreditais que estou no Pai, e o Pai est\u00e1 em mim? As palavras que vos digo as n\u00e3o digo de mim pr\u00f3prio; por\u00e9m o Pai, que est\u00e1 em mim, Ele \u00e9 que pratica as obras. N\u00e3o acreditais que Eu estou no Pai, e o Pai est\u00e1 em mim? Ao menos acreditai por causa destas obras. Em verdade, em verdade vos digo: aquele que acredita em mim far\u00e1 as mesmas obras que fa\u00e7o e far\u00e1 ainda maiores, porque vou para o Pai. Tudo quanto pedirdes ao Pai em meu nome, vo-lo farei\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Jo\u00e1nnem\n*Joannes 14:1-13*\nIn illo t\u00e9mpore: Dixit Jesus disc\u00edpulis suis: Non turb\u00e1tur cor vestrum. Creditis in Deum, et in me cr\u00e9dite. In domo Patris mei mansi\u00f3nes mult\u00e6 sunt. Si quo minus, dix\u00edssem vobis: Quia vado par\u00e1re vobis locum. Et si ab\u00edero et pr\u00e6par\u00e1vero vobis locum: \u00edterum v\u00e9nio et acc\u00edpiam vos ad me\u00edpsum, ut, ubi sum ego, et vos sitis. Et quo ego vado, scitis, et viam scitis. Dicit ei Thomas: D\u00f3mine, nesc\u00edmus, quo vadis: et qu\u00f3modo p\u00f3ssumus viam scire? Dicit ei Jesus: Ego sum via et v\u00e9ritas et vita; nemo venit ad Patrem nisi per me. Si cognoviss\u00e9tis me, et Patrem meum \u00fatique cognoviss\u00e9tis: et \u00e1modo cognosc\u00e1tis eum, et vid\u00edstis eum. Dicit ei Phil\u00edppus: D\u00f3mine, ost\u00e9nde nobis Patrem, et sufficit nobis. Dicit ei Jesus: Tanto t\u00e9mpore vob\u00edscum sum, et non cognov\u00edstis me? Phil\u00edppe, qui videt me, videt et Patrem. Qu\u00f3modo tu dicis: Ost\u00e9nde nobis Patrem? Non cr\u00e9ditis, quia ego in Patre, et Pater in me est? Verba, qu\u00e6 ego loquor vobis, a me\u00edpso non loquor. Pater autem in me manens, ipse facit \u00f3pera. Non cr\u00e9ditis, quia ego in Patre, et Pater in me est? Ali\u00f3quin propter \u00f3pera ipsa cr\u00e9dite. Amen, amen, dico vobis, qui credit in me, \u00f3pera, qu\u00e6 ego facio, et ipse f\u00e1ciet, et maj\u00f3ra horum f\u00e1ciet: quia ego ad Patrem vado. Et quodc\u00famque peti\u00e9ritis Patrem in n\u00f3mine meo, hoc f\u00e1ciam."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 88:6*\nSenhor, que os c\u00e9us publiquem as vossas maravilhas; que a vossa verdade seja exaltada na assembleia dos santos. Aleluia.", 
+            "*Ps 88:6*\nConfiteb\u00fantur c\u0153li mirab\u00edlia tua, D\u00f3mine: et verit\u00e1tem tuam in eccl\u00e9sia sanct\u00f3rum, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Recebei prop\u00edcio, Senhor, os dons que Vos apresentamos na solenidade dos vossos Ap\u00f3stolos Filipe e Tiago e afastai de n\u00f3s todos os males que merecemos.\nPor nosso Senhor...", 
+            "M\u00fanera, D\u00f3mine, qu\u00e6 pro Apostol\u00f3rum tu\u00f3rum Philippi et Jac\u00f3bi sollemnit\u00e1te def\u00e9rimus, prop\u00edtius s\u00fascipe: et mala \u00f3mnia, qu\u00e6 mer\u00e9mur av\u00e9rte.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Jo 14:9; 14:10*\nH\u00e1 tanto tempo que estou convosco e me n\u00e3o conheceis? Filipe, quem me v\u00ea, v\u00ea tamb\u00e9m meu Pai! Aleluia. N\u00e3o acreditais que estou no Pai, e o Pai est\u00e1 em mim? Aleluia, aleluia.", 
+            "*Joannes 14:9; 14:10*\nTanto t\u00e9mpore vob\u00edscum sum, et non cognov\u00edstis me? Phil\u00edppe, qui videt me, videt et Patrem meum, allel\u00faja: non credis, quia ego in Patre, et Pater in me est? Allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Saciados j\u00e1 com estes salutares myst\u00e9rios, Senhor, Vos suplicamos, permiti que sejamos socorridos com as ora\u00e7\u00f5es daqueles cuja festa celebramos.\nPor nosso Senhor...", 
+            "Qu\u01fdsumus, D\u00f3mine, salut\u00e1ribus repl\u00e9ti myst\u00e9riis: ut, quorum soll\u00e9mnia celebr\u00e1mus, e\u00f3rum orati\u00f3nibus adjuv\u00e9mur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

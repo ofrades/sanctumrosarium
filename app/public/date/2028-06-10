@@ -1,0 +1,282 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Esta\u00e7\u00e3o em S\u00e3o Pedro", 
+        "Paramentos vermelhos"
+      ], 
+      "colors": [
+        "r"
+      ], 
+      "date": "2028-06-10", 
+      "description": "", 
+      "id": "tempora:Pasc7-6:1:r", 
+      "rank": 1, 
+      "supplements": [], 
+      "tempora": null, 
+      "title": "S\u00e1bado das T\u00eamporas de Pentecostes"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Rm 5:5.*\nO amor de Deus espalhou-se nos nossos cora\u00e7\u00f5es, aleluia: pelo seu Esp\u00edrito que habita em n\u00f3s, aleluia, aleluia.\n*Sl 102:1*\nBendize o Senhor, \u00f3 minha alma: e que tudo o que existe em mim bendiga o seu santo nome.\nGl\u00f3ria ao Pai.\nO amor de Deus espalhou-se nos nossos cora\u00e7\u00f5es, aleluia: pelo seu Esp\u00edrito que habita em n\u00f3s, aleluia, aleluia.", 
+            "*Rom 5:5.*\nC\u00e1ritas Dei diff\u00fasa est in c\u00f3rdibus nostris, allel\u00faja: per inhabit\u00e1ntem Sp\u00edritum ejus in nobis, allel\u00faja, allel\u00faja.\n*Ps 102:1*\nBenedic, anima mea, D\u00f3mino: et \u00f3mnia, qu\u00e6 intra me sunt, n\u00f3mini sancto ejus.\nGl\u00f3ria Patri\u2026\nC\u00e1ritas Dei diff\u00fasa est in c\u00f3rdibus nostris, allel\u00faja: per inhabit\u00e1ntem Sp\u00edritum ejus in nobis, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "Senhor, Vos rogamos, dignai-Vos infundir em nossas almas o Esp\u00edrito Santo, cuja sabedoria nos criou e cuja provid\u00eancia nos governa.\nPor nosso Senhor...", 
+            "M\u00e9ntibus nostris, qu\u01fdsumus, D\u00f3mine, Sp\u00edritum Sanctum ben\u00edgnus inf\u00fande: cujus et sapi\u00e9ntia c\u00f3nditi sumus, et provid\u00e9ntia gubern\u00e1mur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Profeta Joel.\n*Jl 2:28-32.*\nEis o que diz o Senhor Deus: \u00abEspalharei o meu Esp\u00edrito em toda a carne; os vossos filhos e filhas profetizar\u00e3o; os vossos anci\u00e3os ter\u00e3o sonhos misteriosos: e os vossos jovens vis\u00f5es. Naqueles dias enviarei o meu Esp\u00edrito aos meus servos e servas; e farei prod\u00edgios no c\u00e9u e na terra: sangue, fogo e nuvens de fumo. O sol converter-se-\u00e1 em trevas e a lua em sangue, antes que chegue o grande e terr\u00edvel dia do Senhor. Ent\u00e3o, todo aquele que invocar o nome do Senhor ser\u00e1 salvo\u00bb.\nGra\u00e7as a Deus.", 
+            "L\u00e9ctio Jo\u00e9lis Proph\u00e9t\u00e6\n*Joel 2:28-32*\nH\u00e6c dicit D\u00f3minus Deus: Eff\u00fandam Sp\u00edritum meum super omnem carnem: et prophet\u00e1bunt f\u00edlii vestri et f\u00edli\u00e6 vestr\u00e6: senes vestri s\u00f3mnia somni\u00e1bunt, et j\u00favenes vestri visi\u00f3nes vid\u00e9bunt. Sed et super servos meos et anc\u00edllas in di\u00e9bus illis eff\u00fandam Sp\u00edritum meum. Et dabo prod\u00edgia in c\u0153lo et in terra, s\u00e1nguinem et ignem et vap\u00f3rem fumi. Sol convert\u00e9tur in t\u00e9nebras et luna in s\u00e1nguinem: \u00e1ntequam v\u00e9niat dies D\u00f3mini magnus ei horr\u00edbilis. Et erit: omnis, qui invoc\u00e1verit nomen D\u00f3mini, salvus erit.\nDeo gratias."
+          ]
+        ], 
+        "id": "LectioL1", 
+        "label": "1\u00aa Li\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia.\n*Jo 6:64*\nO Esp\u00edrito \u00e9 que d\u00e1 a vida; pois a carne n\u00e3o d\u00e1 nenhum proveito", 
+            "Allel\u00faja\n*Joannes 6:64*\nSp\u00edritus est, qui viv\u00edficat: caro autem non prodest quidquam."
+          ]
+        ], 
+        "id": "GradualeL1", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Senhor, Vos suplicamos, fazei que o Esp\u00edrito Santo nos abrase com aquele fogo que Cristo enviou \u00e0 terra e quer ardentemente que permane\u00e7a aceso.\nQue convosco vive...", 
+            "Illo nos igne, qu\u01fdsumus, D\u00f3mine, Sp\u00edritus Sanctus infl\u00e1mmet: quem D\u00f3minus noster Jesus Christus misit in terram, et v\u00f3luit vehem\u00e9nter acc\u00e9ndi:\nQui tecum\u2026"
+          ]
+        ], 
+        "id": "OratioL1", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro Lev\u00edtico.\n*Lv. 23:9-11; 15-17, 21.*\nNaqueles dias, disse o Senhor a Mois\u00e9s: \u00abFala aos filhos de Israel e diz-lhes: \u00abQuando entrardes na terra, que vos der, e fizerdes a ceifa, apresentareis ao sacerdote um molho de espigas, como prim\u00edcias da vossa ceifa\u00bb. O sacerdote no dia seguinte ao s\u00e1bado o apresentar\u00e1 perante o Senhor e o santificar\u00e1, para que seja recebido em vosso favor. Ent\u00e3o, contareis, desde o dia seguinte ao s\u00e1bado (dia em que foi oferecido o molho de prim\u00edcias) sete semanas inteiras at\u00e9 ao dia seguinte da s\u00e9tima semana, isto \u00e9, cinquenta dias, e oferecereis ao Senhor nova obla\u00e7\u00e3o. Tamb\u00e9m trareis de vossas casas dois p\u00e3es de prim\u00edcias, que ser\u00e3o fabricados de duas dezenas da flor de farinha fermentada, os quais cozereis para as prim\u00edcias do Senhor, para um sacrif\u00edcio novo. A este dia chamareis solen\u00edssimo e sant\u00edssimo; e n\u00e3o praticareis durante ele nenhum trabalho servil. Esta ordem ser\u00e1 uma lei perp\u00e9tua em todas vossas casas e para toda vossa descend\u00eancia\u00bb: diz o Senhor omnipotente.\nGra\u00e7as a Deus.", 
+            "L\u00e9ctio libri Lev\u00edtici\n*Lev 23:9-11; 23:15-17; 23:21*\nIn di\u00e9bus illis: Loc\u00fatus est D\u00f3minus ad M\u00f3ysen, dicens: L\u00f3quere f\u00edliis Isra\u00ebl, et dices ad eos: Cum ingr\u00e9ssi fu\u00e9ritis terram, quam ego dabo vobis, et messu\u00e9ritis s\u00e9getem, fer\u00e9tis man\u00edpulos spic\u00e1rum, prim\u00edtias messis vestr\u00e6 ad sacerd\u00f3tem: qui elev\u00e1bit fasc\u00edculum coram D\u00f3mino, ut accept\u00e1bile sit pro vobis, \u00e1ltero die s\u00e1bbati, et sanctific\u00e1bit illum. Numer\u00e1bitis ergo ab \u00e1ltero die s\u00e1bbati, in quo obtul\u00edstis man\u00edpulum primiti\u00e1rum, septem hebd\u00f3madas plenas, usque ad \u00e1lteram diem expleti\u00f3nis hebd\u00f3mad\u00e6 s\u00e9ptim\u00e6, id est, quinquag\u00ednta dies: et sic offer\u00e9tis sacrif\u00edcium novum D\u00f3mino ex \u00f3mnibus habit\u00e1culis vestris, panes primiti\u00e1rum duos de du\u00e1bus d\u00e9cimis s\u00edmil\u00e6 ferment\u00e1t\u00e6, quos coqu\u00e9tis in prim\u00edtias D\u00f3mini. Et voc\u00e1bitis hunc diem celeb\u00e9rrimum atque sanct\u00edssimum: omne opus serv\u00edle non faci\u00e9tis in eo. Leg\u00edtimum sempit\u00e9rnum erit in cunctis habit\u00e1culis et generati\u00f3nibus vestris: dicit D\u00f3minus omn\u00edpotens.\nDeo gratias."
+          ]
+        ], 
+        "id": "LectioL2", 
+        "label": "2\u00aa Li\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia.\n*Jb 26:13*\nV. Seu Esp\u00edrito aformoseou os c\u00e9us.", 
+            "Allel\u00faja.\n*Job 26:13*\nSp\u00edritus ejus orn\u00e1vit c\u0153los."
+          ]
+        ], 
+        "id": "GradualeL2", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que para a cura das nossas almas ordenastes que castig\u00e1ssemos os nossos corpos com o devoto exerc\u00edcio do jejum, concedei-nos prop\u00edcio a gra\u00e7a de Vos sermos fielmente dedicados, tanto com o corpo, como com o esp\u00edrito.\nPor nosso Senhor...", 
+            "Deus, qui, ad anim\u00e1rum med\u00e9lam, jej\u00fanii devoti\u00f3ne castig\u00e1ri c\u00f3rpora pr\u00e6cep\u00edsti: conc\u00e9de nobis prop\u00edtius; et mente et c\u00f3rpore tibi semper esse dev\u00f3tos.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "OratioL2", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro Deuteron\u00f3mio.\n*Dt. 26:1-3; 7-11.*\nNaqueles dias, disse Mois\u00e9s aos filhos de Israel: \u00abOuvi, \u00f3 Israel, o que hoje vos ordeno: Quando enfiardes na terra de que o Senhor, vosso Deus, vos dar\u00e1 posse; quando a tiverdes conquistado e nela habitardes, tomareis as prim\u00edcias de todos vossos frutos e, colocando-os em um cesto, ireis ao lugar que o Senhor, vosso Deus, tiver escolhido para ser honrado, e apresent\u00e1-lo-eis ao sacerdote que estiver em fun\u00e7\u00f5es naquele dia, dizendo: \u00abDeclaro, hoje, perante o Senhor Deus, que Ele nos ouviu, atendeu \u00e0 nossa mis\u00e9ria, trabalho e opress\u00e3o e nos fez sair do Egipto com sua m\u00e3o forte e pela for\u00e7a do seu bra\u00e7o, espalhando grande terror entre os povos com muitos milagres e prod\u00edgios, conduzindo-nos a este lugar e dando-nos esta terra, onde correm leite e mel. Por isso, agora, Lhe ofere\u00e7o as prim\u00edcias da terra, que me deu\u00bb. Ent\u00e3o colocareis as prim\u00edcias diante do Senhor Deus e O adorareis. Depois preparareis um banquete com todas as coisas boas que o Senhor, vosso Deus, vos houver dado\u00bb.\nGra\u00e7as a Deus.", 
+            "L\u00e9ctio libri Deuteron\u00f3mii\n*Deut 26:1-3; 7-11.*\nIn di\u00e9bus illis: Dixit Moyses f\u00edliis Isra\u00ebl: Audi, Isra\u00ebl, qu\u00e6 ego pr\u00e6c\u00edpio tibi h\u00f3die. Cum intr\u00e1veris terram, quam D\u00f3minus, Deus tuus, tibi dat\u00farus est possid\u00e9ndam, et obtin\u00faeris eam atque habit\u00e1veris in ea: tolles de cunctis fr\u00fagibus tuis prim\u00edtias, et pones in cart\u00e1llo, perg\u00e9sque ad locum, quem D\u00f3minus, Deus tuus, el\u00e9gerit, ut ibi invoc\u00e9tur nomen ejus: acced\u00e9sque ad sacerd\u00f3tem, qui f\u00faerit in di\u00e9bus illis, et dices ad eum: Prof\u00edteor h\u00f3die coram D\u00f3mino, Deo tuo, qui exaud\u00edvit nos, et respexit humilit\u00e1tem nostram et lab\u00f3rem atque ang\u00fastiam: et ed\u00faxit nos de \u00c6g\u00fdpto in manu forti et br\u00e1chio ext\u00e9nto, in ing\u00e9nti pav\u00f3re, in signis atque port\u00e9ntis: et introd\u00faxit ad locum istum, et tr\u00e1didit nobis terram lacte et melle man\u00e1ntem. Et idc\u00edrco nunc \u00f3ffero prim\u00edtias frugum terr\u00e6, quam D\u00f3minus dedit mihi. Et dim\u00edttes eas in consp\u00e9ctu D\u00f3mini, Dei tui, et ador\u00e1to D\u00f3mino, Deo tuo. Et epul\u00e1beris in \u00f3mnibus bonis, qu\u00e6 D\u00f3minus, Deus tuus, d\u00e9derit tibi.\nDeo gratias."
+          ]
+        ], 
+        "id": "LectioL3", 
+        "label": "3\u00aa Li\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia.\n*Act 2:1*\nV. Tendo j\u00e1 chegado o dia de Pentecostes, estavam todos reunidos em assembleia.", 
+            "Allel\u00faja.\n*Acts 2:1*\nCum compler\u00e9ntur dies Pentec\u00f3stes, erant omnes p\u00e1riter sed\u00e9ntes."
+          ]
+        ], 
+        "id": "GradualeL3", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus omnipotente, Vos suplicamos, fazei que sejamos instru\u00eddos com estes salutares jejuns, e que nos abstenhamos de todos os v\u00edcios, a fim de que mais facilmente alcancemos o vosso perd\u00e3o.\nPor nosso Senhor...", 
+            "Pr\u00e6sta, qu\u01fdsumus, omn\u00edpotens Deus: ut, salut\u00e1ribus jej\u00faniis erud\u00edti, ab \u00f3mnibus etiam v\u00edtiis abstin\u00e9ntes, propitiati\u00f3nem tuam fac\u00edlius impetr\u00e9mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "OratioL3", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro Lev\u00edtico.\n*Lv. 26:3-12.*\nNaqueles dias, disse o Senhor a Mois\u00e9s: \u00abFala aos filhos de Israel e diz-lhes: \u00abSe seguirdes a vossa vida, segundo os meus preceitos e observando os meus mandamentos, dar-vos-ei chuvas na esta\u00e7\u00e3o pr\u00f3pria, produzindo a terra frutos com abund\u00e2ncia, assim como as \u00e1rvores. A colheita do trigo prolongar-se-\u00e1 at\u00e9 \u00e0 vindima, e a vindima at\u00e9 \u00e0 sementeira. Comereis p\u00e3o com fartura e habitareis sem temor na vossa terra. Conceder-vos-ei a paz dentro das vossas fronteiras e dormireis sem que ningu\u00e9m vos perturbe. Afujentarei os animais ferozes e a espada n\u00e3o atravessar\u00e1 as vossas fronteiras. Perseguirei os vossos inimigos, que cair\u00e3o diante de v\u00f3s. Cinco de v\u00f3s ter\u00e3o for\u00e7a para perseguir cem estrangeiros; cem de v\u00f3s perseguir\u00e3o dez mil; os vossos inimigos cair\u00e3o diante de v\u00f3s, sob o peso das espadas. Olharei por v\u00f3s e vos farei crescer. Multiplicar-vos-ei e farei alian\u00e7a convosco. Comereis os frutos das colheitas atrasadas e lan\u00e7areis fora os frutos antigos por causa da abund\u00e2ncia dos novos. Estabelecerei a minha morada no meio de v\u00f3s. Andarei no meio de v\u00f3s, serei o vosso Deus e sereis o meu povo\u00bb: diz o Senhor omnipotente.\nGra\u00e7as a Deus.", 
+            "L\u00e9ctio libri Lev\u00edtici\n*Lev 26:3-12*\nIn di\u00e9bus illis: Dixit D\u00f3minus ad M\u00f3ysen: L\u00f3quere f\u00edliis Isra\u00ebl, et dices ad eos: Si in pr\u00e6c\u00e9ptis meis ambulav\u00e9ritis, et mand\u00e1ta mea custodi\u00e9ritis et fec\u00e9ritis ea, dabo vobis pl\u00favias temp\u00f3ribus suis, et terra gignet germen suum, et pomis \u00e1rbores repleb\u00fantur. Appreh\u00e9ndet m\u00e9ssium trit\u00fara vind\u00e9miam, et vind\u00e9mia occup\u00e1bit sem\u00e9ntem: et comed\u00e9tis panem vestrum in saturit\u00e1te, et absque pav\u00f3re habit\u00e1bitis in terra vestra. Dabo pacem in f\u00ednibus vestris: dormi\u00e9tis, et non erit, qui ext\u00e9rreat. Auferam malas b\u00e9stias, et gl\u00e1dius non trans\u00edbit t\u00e9rminos vestros. Persequ\u00e9mini inim\u00edcos vestros, et c\u00f3rruent coram vobis. Persequ\u00e9ntur quinque de vestris centum ali\u00e9nos et centum de vobis decem m\u00edlia: cadent inim\u00edci vestri gl\u00e1dio in consp\u00e9ctu vestro. Resp\u00edciam vos et cr\u00e9scere f\u00e1ciam: multiplicab\u00edmini, et firm\u00e1bo pactum meum vob\u00edscum. Comed\u00e9tis vetust\u00edssima v\u00e9terum, et v\u00e9tera novis superveni\u00e9ntibus projici\u00e9tis. Ponam tabern\u00e1culum meum in m\u00e9dio vestri, et non abj\u00edciet vos \u00e1nima mea. Ambul\u00e1bo inter vos, et ero Deus vester, vosque \u00e9ritis p\u00f3pulus meus: dicit D\u00f3minus omn\u00edpotens.\nDeo gratias."
+          ]
+        ], 
+        "id": "LectioL4", 
+        "label": "4\u00aa Li\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia.\nV. (Genuflecte-se.) Vinde, \u00f3 Esp\u00edrito Santo: enchei os cora\u00e7\u00f5es dos vossos fi\u00e9is e acendei neles o fogo do vosso amor.", 
+            "Allel\u00faja.\nV. (Hic genuflectitur) Veni, Sancte Sp\u00edritus, reple tu\u00f3rum corda fid\u00e9lium: et tui am\u00f3ris in eis ignem acc\u00e9nde."
+          ]
+        ], 
+        "id": "GradualeL4", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Concedei-nos, Senhor omnipotente, Vos rogamos, que nos abstenhamos de tal modo do uso das carnes, que nos afastemos tamb\u00e9m dos v\u00edcios que nos perseguem.\nPor nosso Senhor...", 
+            "Pr\u00e6sta, qu\u01fdsumus, omn\u00edpotens Deus: sic nos ab \u00e9pulis carn\u00e1libus abstin\u00e9re; ut a v\u00edtiis irru\u00e9ntibus p\u00e1riter jejun\u00e9mus.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "OratioL4", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Profeta Daniel.\n*Dn. 3:47-51.*\nNaqueles dias, o Anjo do Senhor desceu \u00e0 fornalha com Azarias e os seus companheiros e afastou da fornalha as chamas do fogo, soprando no meio delas como que um vento de orvalho. As chamas do fogo, por\u00e9m, cresceram acima da fornalha quarenta e nove c\u00f4vados; e, saindo fora dela, queimaram os Caldeus, ministros do rei, que estavam perto da fornalha a ati\u00e7ar o fogo, e n\u00e3o queimaram nenhum dos tr\u00eas jovens, nem os feriram, nem lhes causaram qualquer inc\u00f3modo! Ent\u00e3o, estes tr\u00eas jovens louvavam, glorificavam e bendiziam Deus na fornalha, em voz un\u00edssona, dizendo:\nGra\u00e7as a Deus.", 
+            "L\u00e9ctio Dani\u00e9lis Proph\u00e9t\u00e6\n*Dan 3:47-51*\nIn di\u00e9bus illis: Angelus D\u00f3mini desc\u00e9ndit cum Azar\u00eda et s\u00f3ciis ejus in forn\u00e1cem: et exc\u00fassit flammam ignis de forn\u00e1ce, et fecit m\u00e9dium forn\u00e1cis quasi ventum roris flantem. Flamma autem effundeb\u00e1tur super forn\u00e1cem c\u00fabitis quadrag\u00ednta novem: et er\u00fapit, et inc\u00e9ndit, quos r\u00e9pperit juxta forn\u00e1cem de Chald\u01fdis, min\u00edstros regis, qui eam incend\u00e9bant. Et non t\u00e9tigit eos omn\u00edno ignis, neque contrist\u00e1vit, nec quidquam mol\u00e9sti\u00e6 \u00edntulit. Tunc hi tres quasi ex uno ore laud\u00e1bant, et glorific\u00e1bant, et benedic\u00e9bant Deum in forn\u00e1ce, dic\u00e9ntes:\nDeo gratias."
+          ]
+        ], 
+        "id": "LectioL5", 
+        "label": "5\u00aa Li\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Aleluia.\n*Dn 3:52*\nBendito sois, Senhor, Deus de nossos pais, e digno de louvor em todos os s\u00e9culos.", 
+            "Allel\u00faja.\n*Dan 3:52*\nBened\u00edctus es, D\u00f3mine, Deus patrum nostr\u00f3rum, et laud\u00e1bilis in s\u01fdcula."
+          ]
+        ], 
+        "id": "GradualeL5", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que mitigastes as chamas do fogo aos tr\u00eas jovens, concedei-nos misericordiosamente que n\u00f3s, vosso servos, n\u00e3o sejamos queimados pelas chamas dos v\u00edcios.\nPor nosso Senhor...", 
+            "Deus, qui tribus p\u00faeris mitig\u00e1sti flammas \u00edgnium: conc\u00e9de prop\u00edtius; ut nos f\u00e1mulos tuos non ex\u00farat flamma viti\u00f3rum.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "OratioL5", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o da Ep.\u00aa do B. Ap.\u00ba Paulo aos Romanos.\n*Rm. 5:1-5.*\nMeus irm\u00e3os: Estando j\u00e1 justificados pela f\u00e9, tenhamos paz com Deus por nosso Senhor Jesus Cristo, por quem devemos ter acesso pela f\u00e9 a esta gra\u00e7a, na qual permaneceremos firmes e alegres na esperan\u00e7a de alcan\u00e7armos a gl\u00f3ria dos filhos de Deus. E n\u00e3o somente na esperan\u00e7a, mas tamb\u00e9m devemos ter gl\u00f3ria nas tribula\u00e7\u00f5es, sabendo que a tribula\u00e7\u00e3o produz a paci\u00eancia, a paci\u00eancia produz a prova\u00e7\u00e3o, e a prova\u00e7\u00e3o a esperan\u00e7a. Ora a esperan\u00e7a nunca engana, porque o amor de Deus est\u00e1 espalhado nos nossos cora\u00e7\u00f5es pelo Esp\u00edrito Santo, que nos foi dado.", 
+            "L\u00e9ctio Ep\u00edstol\u00e6 be\u00e1ti Pauli Ap\u00f3stoli ad Rom\u00e1nos\n*Rom 5:1-5.*\nFratres: Justific\u00e1ti ex fide, pacem habe\u00e1mus ad Deum per D\u00f3minum nostrum Jesum Christum: per quem et hab\u00e9mus acc\u00e9ssum per fidem in gr\u00e1tiam istam, in qua stamus, et glori\u00e1mur in spe gl\u00f3ri\u00e6 fili\u00f3rum Dei. Non solum autem, sed et glori\u00e1mur in tribulati\u00f3nibus: scientes, quod tribul\u00e1tio pati\u00e9ntiam oper\u00e1tur, pati\u00e9ntia autem probati\u00f3nem, prob\u00e1tio vero spem, spes autem non conf\u00fandit: quia c\u00e1ritas Dei diff\u00fasa est in c\u00f3rdibus nostris per Sp\u00edritum Sanctum, qui datus est nobis."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 116:1-2*\n\u00d3 na\u00e7\u00f5es, louvai todas o Senhor: glorificai-O, \u00f3 povos.\nV. Porquanto \u00e9 grande a sua miseric\u00f3rdia para connosco: e a verdade do Senhor permanece para sempre.", 
+            "*Ps 116:1-2*\nLaud\u00e1te D\u00f3minum, omnes gentes: et collaud\u00e1te eum, omnes p\u00f3puli.\nV. Qu\u00f3niam confirm\u00e1ta est super nos miseric\u00f3rdia ejus: et v\u00e9ritas D\u00f3mini manet in \u00e6t\u00e9rnum."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Vinde, \u00f3 Esp\u00edrito Santo,\ne enviai do c\u00e9u um raio\nda vossa divina luz.\n\nVinde, \u00f3 pai dos pobres;\nvinde, distribuidor de todos os dons;\nvinde, luz dos cora\u00e7\u00f5es.\n\nConsolador supremo,\ndoce h\u00f3spede da alma,\nsuave refrig\u00e9rio!\n\nNo trabalho sois repouso;\nsois calma no ardor;\ne consola\u00e7\u00e3o no pranto.\n\n\u00d3 luz felic\u00edssima,\nenchei at\u00e9 ao \u00edntimo os cora\u00e7\u00f5es\ndos vossos fi\u00e9is.\n\nSem a vossa assist\u00eancia\nnada h\u00e1 bom no homem,\nnada h\u00e1 que seja puro.\n\nLavai, pois, o que est\u00e1 manchado;\nregai o que est\u00e1 seco;\ncurai o que est\u00e1 enfermo.\n\nAbrandai o que \u00e9 duro;\naquecei o que est\u00e1 frio;\nguiai o que anda errado.\n\nConcedei aos fi\u00e9is,\nque em V\u00f3s confiam,\nos sete dons sagrados.\n\nDai-lhes o m\u00e9rito da virtude;\ndai-lhes um fim feliz;\ndai-lhes o gozo eterno.\nAmen. Aleluia.", 
+            "Veni, Sancte Sp\u00edritus,\net em\u00edtte c\u01fdlitus\nlucis tu\u00e6 r\u00e1dium.\n\nVeni, pater p\u00e1uperum;\nveni, dator m\u00fanerum;\nveni, lumen c\u00f3rdium.\n\nConsol\u00e1tor \u00f3ptime,\ndulcis hospes \u00e1nim\u00e6,\ndulce refrig\u00e9rium.\n\nIn lab\u00f3re r\u00e9quies,\nin \u00e6stu temp\u00e9ries,\nin fletu sol\u00e1cium.\n\nO lux beat\u00edssima,\nreple cordis \u00edntima\ntu\u00f3rum fid\u00e9lium.\n\nSine tuo n\u00famine\nnihil est in h\u00f3mine,\nnihil est inn\u00f3xium.\n\nLava quod est s\u00f3rdidum,\nriga quod est \u00e1ridum,\nsana quod est s\u00e1ucium.\n\nFlecte quod est r\u00edgidum,\nfove quod est fr\u00edgidum,\nrege quod est d\u00e9vium.\n\nDa tuis fid\u00e9libus,\nin te confid\u00e9ntibus,\nsacrum septen\u00e1rium.\n\nDa virt\u00fatis m\u00e9ritum,\nda sal\u00fatis \u00e9xitum,\nda per\u00e9nne g\u00e1udium.\nAmen. Allel\u00faja."
+          ]
+        ], 
+        "id": "Sequentia", 
+        "label": "Sequ\u00eancia"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do Santo Evangelho segundo S. Lucas.\n*Lc 4:38-44.*\nNaquele tempo, tendo sa\u00eddo Jesus da sinagoga, entrou em casa de Sim\u00e3o. Ora, como a sogra de Sim\u00e3o padecesse de uma grande febre, rogaram-Lhe por ela. Indo Ele ao p\u00e9 dela, imp\u00f4s o seu poder \u00e0 febre, que logo deixou a doente, levantando-se e servindo-os. Sendo j\u00e1 sol posto, todos os que tinham enfermos, atacados de diversas doen\u00e7as, traziam-Lhos. E Jesus, impondo as m\u00e3os sobre cada um dos doentes, curava-os. De muitos sa\u00edam tamb\u00e9m dem\u00f3nios, gritando e dizendo: \u00abSois o Filho de Deus!\u00bb. Ele repreendia-os, e os n\u00e3o deixava dizer que sabiam que Jesus era o Cristo. Sendo j\u00e1 de manh\u00e3, saiu e foi para um lugar deserto. As turbas procuravam-n\u2019O, vieram at\u00e9 onde Ele estava e detiveram-n\u2019O, com medo de que se afastasse. Jesus disse-lhes: \u00ab\u00c9 preciso que anuncie tamb\u00e9m o reino de Deus \u00e0s outras cidades, porque para isso fui mandado\u00bb. E pregava nas sinagogas da Galileia.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam\n*Luc 4:38-44*\nIn illo t\u00e9mpore: Surgens Jesus de synag\u00f3ga, intro\u00edvit in domum Sim\u00f3nis. Socrus autem Sim\u00f3nis teneb\u00e1tur magnis f\u00e9bribus: et rogav\u00e9runt illum pro ea. Et stans super illam, imper\u00e1vit febri: et dim\u00edsit illam. Et cont\u00ednuo surgens, ministr\u00e1bat illis. Cum autem sol occid\u00edsset, omnes qui hab\u00e9bant inf\u00edrmos v\u00e1riis langu\u00f3ribus, duc\u00e9bant illos ad eum. At ille s\u00edngulis manus imp\u00f3nens, cur\u00e1bat eos. Ex\u00edbant autem d\u00e6m\u00f3nia a multis clam\u00e1ntia et dic\u00e9ntia: Quia tu es F\u00edlius Dei: et \u00edncrepans non sin\u00e9bat ea loqui, quia sci\u00e9bant ipsum esse Christum. Facta autem die egr\u00e9ssus ibat in des\u00e9rtum locum, et turb\u00e6 requir\u00e9bant eum, et ven\u00e9runt usque ad ipsum: et detin\u00e9bant illum, ne disc\u00e9deret ab eis. Quibus ille ait: Quia et \u00e1liis civit\u00e1tibus op\u00f3rtet me evangeliz\u00e1re regnum Dei: quia \u00eddeo missus sum. Et erat pr\u01fddicans in synag\u00f3gis Galil\u01fd\u00e6."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Sl 87:2-3*\nSenhor e Deus, que sois o meu Salvador, dia e noite tenha clamado por V\u00f3s! Que minha prece chegue \u00e0 vossa presen\u00e7a, aleluia!", 
+            "*Ps 87:2-3.*\nD\u00f3mine, Deus sal\u00fatis me\u00e6, in die clam\u00e1vi et nocte coram te: intret or\u00e1tio mea in consp\u00e9ctu tuo, D\u00f3mine, allel\u00faja."
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "A fim de que os nossos jejuns Vos sejam agrad\u00e1veis, Senhor, concedei-nos, Vos suplicarmos, que possamos oferecer-Vos o nosso cora\u00e7\u00e3o j\u00e1 purificado pela virtude deste sacrif\u00edcio.\nPor nosso Senhor...", 
+            "Ut acc\u00e9pta tibi sint, D\u00f3mine, nostra jej\u00fania: pr\u00e6sta nobis, qu\u01fdsumus; hujus m\u00fanere sacram\u00e9nti purific\u00e1tum tibi pectus off\u00e9rre.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*da P\u00e1scoa*\n\u00c9 verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova P\u00e1scoa. Pois Ele \u00e9 o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurrei\u00e7\u00e3o nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Domina\u00e7\u00f5es e com toda a mil\u00edcia do ex\u00e9rcito celestial, cantamos o hino da vossa gl\u00f3ria, dizendo incessantemente:", 
+            "*Paschalis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re: Te quidem, D\u00f3mine, omni t\u00e9mpore, sed in hoc pot\u00edssimum (sed tempore Passionis)\nhac pot\u00edssimum nocte (sed octava Pasch\u00e6)\nhac pot\u00edssimum die glori\u00f3sius pr\u00e6dic\u00e1re, cum Pascha nostrum immol\u00e1tus est Christus. Ipse enim verus est Agnus, qui \u00e1bstulit pecc\u00e1ta mundi. Qui mortem nostram mori\u00e9ndo destr\u00faxit et vitam resurg\u00e9ndo repar\u00e1vit. Et \u00eddeo cum Angelis et Arch\u00e1ngelis, cum Thronis et Dominati\u00f3nibus cumque omni mil\u00edtia coel\u00e9stis ex\u00e9rcitus hymnum gl\u00f3ri\u00e6 tu\u00e6 c\u00e1nimus, sine fine dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "*Jo 3:8.*\nO Esp\u00edrito sopra onde quer: e ouvis a sua voz, aleluia, aleluia: mas ignorais donde Ele Vem e para onde vai, aleluia, aleluia, aleluia.", 
+            "*Joannes 3:8*\nSp\u00edritus, ubi vult, spirat: et vocem ejus audis, allel\u00faja, allel\u00faja: sed nescis, unde v\u00e9niat aut quo vadat, allel\u00faja, allel\u00faja, allel\u00faja."
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Que os vossos divinos myst\u00e9rios. Senhor, nos inspirem um fervor divino, a fina de que sua celebra\u00e7\u00e3o e os seus frutos sejam as nossas del\u00edcias.\nPor nosso Senhor...", 
+            "Pr\u01fdbeant nobis, D\u00f3mine, div\u00ednum tua sancta ferv\u00f3rem: quo e\u00f3rum p\u00e1riter et actu delect\u00e9mur et fructu.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]

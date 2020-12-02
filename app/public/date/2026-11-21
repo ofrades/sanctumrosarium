@@ -1,0 +1,121 @@
+[
+  {
+    "info": {
+      "additional_info": [
+        "Paramentos brancos"
+      ], 
+      "colors": [
+        "w"
+      ], 
+      "date": "2026-11-21", 
+      "description": "", 
+      "id": "sancti:11-21:3:w", 
+      "rank": 3, 
+      "supplements": [], 
+      "tempora": "S\u00e1bado da 6\u00aa semana ap\u00f3s a Epifania", 
+      "title": "Apresenta\u00e7\u00e3o da Nossa Senhora"
+    }, 
+    "sections": [
+      {
+        "body": [
+          [
+            "*Sedulius*\nSalve, \u00f3 Santa Maria, em cujo seio foi gerado o Rei que governa o c\u00e9u e a terra em todos os s\u00e9culos dos s\u00e9culos.\n*Sl 44:2*\nMeu cora\u00e7\u00e3o exprimiu uma excelente palavra: Consagro ao Rei as minhas obras.\nGl\u00f3ria ao Pai.\nSalve, \u00f3 Santa Maria, em cujo seio foi gerado o Rei que governa o c\u00e9u e a terra em todos os s\u00e9culos dos s\u00e9culos.", 
+            "*Sedulius.*\nSalve, sancta Parens, en\u00edxa pu\u00e9rpera Regem: qui c\u0153lum terr\u00e1mque regit in s\u01fdcula s\u00e6cul\u00f3rum. (Allel\u00faja, allel\u00faja.)\n*Ps 44:2*\nEruct\u00e1vit cor meum verbum bonum: dico ego \u00f3pera mea Regi.\nGl\u00f3ria Patri\u2026\nSalve, sancta Parens, en\u00edxa pu\u00e9rpera Regem: qui c\u0153lum terr\u00e1mque regit in s\u01fdcula s\u00e6cul\u00f3rum. (Allel\u00faja, allel\u00faja.)"
+          ]
+        ], 
+        "id": "Introitus", 
+        "label": "Intr\u00f3ito"
+      }, 
+      {
+        "body": [
+          [
+            "\u00d3 Deus, que quisestes que a B. V. Maria, em quem habitava o Esp\u00edrito Santo, fosse neste dia apresentada no templo, permiti pela sua intercess\u00e3o que mere\u00e7amos ser apresentados no templo da vossa gl\u00f3ria.\nPor nosso Senhor... ejusdem", 
+            "Deus, qui be\u00e1tam Mar\u00edam semper V\u00edrginem, Sp\u00edritus Sancti habit\u00e1culum, hodi\u00e9rna die in templo pr\u00e6sent\u00e1ri volu\u00edsti: pr\u00e6sta, qu\u01fdsumus; ut, ejus intercessi\u00f3ne, in templo gl\u00f3ri\u00e6 tu\u00e6 pr\u00e6sent\u00e1ri mere\u00e1mur.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Oratio", 
+        "label": "Ora\u00e7\u00e3o"
+      }, 
+      {
+        "body": [
+          [
+            "Li\u00e7\u00e3o do Livro da Sabedoria.\n*Sb 24:14-16*\nFui criada desde o princ\u00edpio, antes de todos os s\u00e9culos, e n\u00e3o deixarei de existir at\u00e9 \u00e0 eternidade. Exerci perante Ele o meu minist\u00e9rio; e deste modo tenho habita\u00e7\u00e3o fixa em Si\u00e3o. Ele deixa-me descansar na cidade santa e tenho poder em Jerusal\u00e9m. Arraiguei-me em um povo glorioso, da parte do meu Deus e da sua heran\u00e7a, e permane\u00e7o na companhia dos santos.", 
+            "L\u00e9ctio libri Sapi\u00e9nti\u00e6.\n*Eccli 24:14-16.*\nAb in\u00edtio et ante s\u01fdcula cre\u00e1ta sum, et usque ad fut\u00farum s\u01fdculum non d\u00e9sinam, et in habitati\u00f3ne sancta coram ipso ministr\u00e1vi. Et sic in Sion firm\u00e1ta sum, et in civit\u00e1te sanctific\u00e1ta sim\u00edliter requi\u00e9vi, et in Jer\u00fasalem pot\u00e9stas mea. Et radic\u00e1vi in p\u00f3pulo honorific\u00e1to, et in parte Dei mei her\u00e9ditas ill\u00edus, et in plenit\u00fadine sanct\u00f3rum det\u00e9ntio mea."
+          ]
+        ], 
+        "id": "Lectio", 
+        "label": "Ep\u00edstola"
+      }, 
+      {
+        "body": [
+          [
+            "Bendita e vener\u00e1vel sois v\u00f3s, \u00f3 Virgem Maria, que fostes M\u00e3e do Salvador, sem que a vossa pureza sofresse a mais leve ofensa.\nV. \u00d3 Virgem M\u00e3e de Deus, Aquele que nem todo o universo \u00e9 capaz de conter, esteve encerrado, quando se fez homem, no vosso seio. Aleluia, aleluia.\nV. Depois de haverdes dado \u00e0 luz, permanecestes Virgem Imaculada: Intercedei por n\u00f3s, \u00f3 M\u00e3e de Deus. Aleluia.", 
+            "Bened\u00edcta et vener\u00e1bilis es, Virgo Mar\u00eda: qu\u00e6 sine tactu pud\u00f3ris inv\u00e9nia es Mater Salvat\u00f3ris.\nV. Virgo, Dei G\u00e9netrix, quem totus non capit orbis, in tua se clausit v\u00edscera factus homo. Allel\u00faja, allel\u00faja.\nV. Post partum, Virgo, inviol\u00e1ta permans\u00edsti: Dei G\u00e9netrix, interc\u00e9de pro nobis. Allel\u00faja."
+          ]
+        ], 
+        "id": "Graduale", 
+        "label": "Gradual"
+      }, 
+      {
+        "body": [
+          [
+            "Continua\u00e7\u00e3o \u2629 do santo Evangelho segundo S. Lucas.\n*Lc 11:27-28*\nNaquele tempo, falando Jesus \u00e0s turbas, eis que uma mulher, elevando a voz no meio da multid\u00e3o, Lhe disse: \u00abBem-aventurado o seio que Vos trouxe; bem-aventurados os peitos que Vos amamentaram!\u00bb. E Jesus respondeu, dizendo: \u00abBem-aventurados, antes, aqueles que ouvem a palavra de Deus e a cumprem\u00bb.", 
+            "Sequ\u00e9ntia \u2629 sancti Evang\u00e9lii sec\u00fandum Lucam\n*Luc 11:27-28*\nIn illo t\u00e9mpore: Loqu\u00e9nte Jesu ad turbas, ext\u00f3llens vocem qu\u00e6dam m\u00falier de turba, dixit illi: Be\u00e1tus venter, qui te port\u00e1vit, et \u00fabera, qu\u00e6 sux\u00edsti. At ille dixit: Quin\u00edmmo be\u00e1ti, qui \u00e1udiunt verbum Dei, et cust\u00f3diunt illud."
+          ]
+        ], 
+        "id": "Evangelium", 
+        "label": "Evangelho"
+      }, 
+      {
+        "body": [
+          [
+            "*Lc 1:28; 1:42*\nAve, Maria, cheia de gra\u00e7a: o Senhor \u00e9 convosco: bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre.", 
+            "*Luc 1:28; 1:42*\nAve, Mar\u00eda, gr\u00e1tia plena; D\u00f3minus tecum: bened\u00edcta tu in muli\u00e9ribus, et bened\u00edctus fructus ventris tui. (Allel\u00faja.)"
+          ]
+        ], 
+        "id": "Offertorium", 
+        "label": "Ofert\u00f3rio"
+      }, 
+      {
+        "body": [
+          [
+            "Pela vossa miseric\u00f3rdia, Senhor, e pela intercess\u00e3o da B. Maria, sempre Virgem, fazei que esta obla\u00e7\u00e3o nos assegure a prosperidade e a paz, agora e sempre.\nPor nosso Senhor...", 
+            "Tua, D\u00f3mine, propitiati\u00f3ne, et be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis intercessi\u00f3ne, ad perp\u00e9tuam atque pr\u00e6s\u00e9ntem h\u00e6c obl\u00e1tio nobis prof\u00edciat prosperit\u00e1tem et pacem.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Secreta", 
+        "label": "Secreta"
+      }, 
+      {
+        "body": [
+          [
+            "*Comum*\n\u00c9 verdadeiramente digno e justo, racional e salutar render-Vos gra\u00e7as em todos os lugares e sempre, \u00f3 Senhor santo, Pai omnipotente, eterno Deus, por nosso Senhor Jesus Cristo. Pelo qual os Anjos louvam a vossa majestade, as Domina\u00e7\u00f5es a adoram e as Potestades se prostram reverentes; e os C\u00e9us, as Virtudes dos c\u00e9us e os bem-aventurados Serafins a celebram em comum alegria e louvor. Dignai-Vos permitir, Vos imploramos, que as nossas vozes suplicantes se unam \u00e0s deles, dizendo:", 
+            "*Communis*\nVere dignum et justum est, \u00e6quum et salut\u00e1re, nos tibi semper et ub\u00edque gr\u00e1tias agere: D\u00f3mine sancte, Pater omn\u00edpotens, \u00e6t\u00e9rne Deus: per Christum, D\u00f3minum nostrum. Per quem majest\u00e1tem tuam laudant Angeli, ad\u00f3rant Dominati\u00f3nes, tremunt Potest\u00e1tes. Coeli coelor\u00famque Virt\u00fates ac be\u00e1ta S\u00e9raphim s\u00f3cia exsultati\u00f3ne conc\u00e9lebrant. Cum quibus et nostras voces ut admitti jubeas, deprec\u00e1mur, s\u00fapplici confessione dic\u00e9ntes:"
+          ]
+        ], 
+        "id": "Prefatio", 
+        "label": "Pref\u00e1cio"
+      }, 
+      {
+        "body": [
+          [
+            "Bem-aventuradas as entranhas da Virgem Maria, que trouxeram encerrado o Filho do Pai Eterno.", 
+            "Be\u00e1ta viscera Mar\u00ed\u00e6 V\u00edrginis, qu\u00e6 portav\u00e9runt \u00e6t\u00e9rni Patris F\u00edlium. (Allel\u00faja.)"
+          ]
+        ], 
+        "id": "Communio", 
+        "label": "Com\u00fanio"
+      }, 
+      {
+        "body": [
+          [
+            "Havendo n\u00f3s alcan\u00e7ado o poderoso aux\u00edlio da vossa salva\u00e7\u00e3o, Senhor, fazei, Vos imploramos, que sejamos protegidos com o patroc\u00ednio da B. Maria, sempre Virgem, em cuja honra oferecemos este sacrif\u00edcio \u00e0 vossa majestade.", 
+            "Sumptis, D\u00f3mine, sal\u00fatis nostr\u00e6 subs\u00eddiis: da, qu\u01fdsumus, be\u00e1t\u00e6 Mar\u00ed\u00e6 semper V\u00edrginis patroc\u00edniis nos ub\u00edque pr\u00f3tegi; in cujus venerati\u00f3ne h\u00e6c tu\u00e6 obt\u00falimus majest\u00e1ti.\nPer Dominum\u2026"
+          ]
+        ], 
+        "id": "Postcommunio", 
+        "label": "Postcom\u00fanio"
+      }
+    ]
+  }
+]
