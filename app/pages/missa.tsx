@@ -1,37 +1,33 @@
 import React from 'react'
-import styled from 'styled-components'
+import { Title, Label, Row, Latin, Translation } from '../styles/missa'
 import fs from 'fs'
 import path from 'path'
-
-const Container = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  h1 {
-    color: ${(props) => props.theme.colors.text};
-  }
-`
+import Mass from './../models/Mass'
+import Info from './../models/Info'
+import Section from './../models/Section'
 
 const Missa = ({ massFile }) => {
-  const mass = JSON.parse(massFile)
-
-  const [a:[info, sections]] = mass
-  const id: [string] = a.sections.map(b => b.id)
-  const body: [string] = a.sections.map(b => b.body)
+  const mass: Mass = JSON.parse(massFile)
+  const info: Info = mass[0].info
+  const section: Section[] = mass[0].sections
 
   return (
-    <Container>
-      <h1> Title: {a.info.title}</h1>
-      <h1> Date: {a.info.date}</h1>
-      <h5>{id}</h5>
-      <ul>
-        {a.sections.map((c) => 
-          <li key={c.id}>id: {c.id}</li>
-        )}
-      </ul>
-    </Container>
+    <>
+      <Title>{info.title}</Title>
+      {section.map((item) => (
+        <>
+          <Row>
+            <Label>{item.label}</Label>
+            <Latin>
+              <div>{item.body[0][1]}</div>
+            </Latin>
+            <Translation>
+              <div>{item.body[0][0]}</div>
+            </Translation>
+          </Row>
+        </>
+      ))}
+    </>
   )
 }
 
