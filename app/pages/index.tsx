@@ -1,12 +1,9 @@
-import Head from 'next/head'
+import { Container } from '../styles/index'
 
 export const Home = (): JSX.Element => (
-  <div className="container">
-    <Head>
-      <title>Tesouro dos Fiéis</title>
-    </Head>
+  <Container>
     <h1>Tesouro</h1>
-  </div>
+  </Container>
 )
 
 export default Home
