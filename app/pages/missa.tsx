@@ -33,9 +33,9 @@ const Missa = ({ massFile }) => {
 
 export async function getStaticProps() {
   const date = new Date()
-  const today = `${date.getFullYear()}-${date.getMonth() + 1}-${(
-    '0' + date.getDate()
-  ).slice(-2)}`
+  const today = `${date.getFullYear()}-${('0' + (date.getMonth() + 1)).slice(
+    -2
+  )}-${('0' + date.getDate()).slice(-2)}`
   const dir = path.join(process.cwd(), 'public/date/')
   const filePath = path.join(dir, today)
   const massFile = fs.readFileSync(filePath, 'utf8')
